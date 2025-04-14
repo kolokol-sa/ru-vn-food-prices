@@ -1,0 +1,183 @@
+.search-header-w {
+	float: left;
+	width: calc(100% - 110px);
+  }
+
+#sosearchpro {
+	width: 100%;
+}
+#sosearchpro .autosearch-input {
+    height: 42px;
+    line-height: 20px;
+    padding: 0 10px;
+	border: 1px solid #e5e5e5;
+	box-shadow: none;
+	background-color: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+}
+#sosearchpro .button-search{
+	border:none;
+}
+#sosearchpro .select_category{
+	position:relative;
+	display: table-cell;
+	vertical-align: top;
+	border:1px solid #e5e5e5;
+	border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+	background: white;
+}
+#sosearchpro .select_category select{
+	height: 40px;
+	width: 100%;
+    line-height: 100%;
+    padding: 0 5px;
+	border: none;
+	float: left;
+    background-color: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+}
+#sosearchpro .dropdown-menu li > a:hover{
+	background: transparent;
+}
+#sosearchpro .icon-select::after {
+	content: "\f107";
+	color: black;
+	font-family: "FontAwesome";
+	right: 0px;
+	top: 0px;
+	position: absolute;
+	pointer-events: none;
+	background: white;
+	line-height: 36px;
+	width: 30px;
+	height: 100%;
+	text-align: center;
+}
+
+#sosearchpro .dropdown-menu .media { 
+	margin:0px;
+	border-bottom: 1px solid #e5e5e5;
+}
+#sosearchpro .dropdown-menu {
+	padding:0px;
+	max-height: 300px;
+    overflow-y: scroll;
+}
+#sosearchpro .dropdown-menu .media:hover{
+	background-color:#e5e5e5;
+}
+#sosearchpro .dropdown-menu .media-left{
+	float:left;
+	padding: 5px;	
+}
+#sosearchpro .dropdown-menu .media-body{
+	padding: 10px;
+}
+#sosearchpro .dropdown-menu .media-body a{
+	float:left;
+} 
+#sosearchpro .dropdown-menu .media-body .box-price{
+	float: right;
+	width:100%;
+} 
+#sosearchpro .dropdown-menu .media-body .box-price span{
+	padding-right:10px;
+	float:left;
+}
+
+header.typeheader-2 .search-header-w {
+position: relative;
+top: 0px;
+z-index: 99;
+float: left;
+margin-left: 15px; }
+header.typeheader-2 .search-header-w .icon-search {
+width: 40px;
+height: 40px;
+text-align: center;
+line-height: 40px; }
+header.typeheader-2 .search-header-w .icon-search i {
+font-size: 18px;
+color: #fff; }
+header.typeheader-2 .search-header-w .icon-search.active i::before {
+content: "\f00d"; }
+header.typeheader-2 .search-header-w .icon-search:hover {
+cursor: pointer; }
+header.typeheader-2 .search-header-w #sosearchpro .search {
+display: none;
+position: absolute;
+top: 40px;
+left: -120px;
+margin-right: 0;
+padding: 0;
+width: 270px;
+border: none; }
+header.typeheader-2 .search-header-w #sosearchpro .search input {
+width: 270px;
+border: 1px solid #eaeaea;
+height: 39px;
+line-height: 39px; }
+header.typeheader-2 .search-header-w #sosearchpro .search .input-group-btn {
+position: absolute;
+right: 2px;
+top: 1px;
+height: 38px;
+line-height: 38px; }
+header.typeheader-2 .search-header-w #sosearchpro .search button {
+border-radius: 3px;
+color: #999;
+padding: 0 10px;
+height: 38px;
+line-height: 38px; }
+header.typeheader-2 .search-header-w #sosearchpro .search button i {
+color: #fff;
+font-size: 16px; }
+header.typeheader-2 .search-header-w #sosearchpro .search button span {
+display: none;
+}
+
+/* Extra Small devices (portrait phones, 395px and up) */
+@media (max-width: 575.9px) {
+	#sosearchpro .media-body {
+		padding: 0px 15px;
+	}
+	#sosearchpro{
+		width: 100%;
+	}
+	#sosearchpro .select_category select {
+		width: auto;
+	}
+	#sosearchpro .dropdown-menu{
+		left: 0px !important;
+	}
+	#sosearchpro .search button {
+		padding: 0 15px;
+	}
+}
+  
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+}
+  
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+}
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+/*  Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+}

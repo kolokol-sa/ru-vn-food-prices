@@ -1,0 +1,98 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Russia,Pyaterochka,ground_coffee,Кофе Жокей По-восточному натуральный жареный молотый 250г (250 г),12.338053760000001,False
+Russia,Pyaterochka,ground_coffee,Кофе молотый Monarch Original натуральный жареный 230г (230 г),16.82386713043478,False
+Russia,Pyaterochka,ground_coffee,Кофе Lavazza Crema e Gusto молотый 250г (250 г),20.07725376,False
+Russia,Pyaterochka,ground_coffee,Кофе Lebo Принц Лебо арабика молотый для турки 100г (100 мл),21.0052944,False
+Russia,Pyaterochka,ground_coffee,Кофе Жокей ирландские сливки молотый 150г (150 г),18.278516266666667,False
+Russia,Pyaterochka,ground_coffee,Кофе Jardin Americano Crema молотый 250г (250 г),14.06278976,False
+Russia,Pyaterochka,ground_coffee,Кофе Venetto молотый натуральный жареный 250г (250 г),14.59347776,False
+Russia,Pyaterochka,ground_coffee,Кофе молотый Живой Кофе Arabica жареный 200г (200 г),15.8648072,False
+Russia,Pyaterochka,ground_coffee,Кофе молотый Красная цена средней обжарки 100г (100 г),11.0548944,False
+Russia,Pyaterochka,ground_coffee,Кофе Fresco Arabica Blend жареный молотый 250г (250 г),17.82182976,False
+Russia,Pyaterochka,ground_coffee,Кофе Egoiste Espresso молотый 250г (250 г),24.63232576,False
+Russia,Pyaterochka,ground_coffee,Кофе молотый Piazza Del Caffe Gusto Forte темнообжаренный 250г (250 г),14.59347776,False
+Russia,Pyaterochka,ground_coffee,Кофе Monarch Gold Arabica натуральный жареный молотый 200г (200 г),19.9002472,False
+Russia,Pyaterochka,ground_coffee,Кофе молотый Julius Meinl Президент натуральный жареный 220г (220 г),23.468370181818184,False
+Russia,Pyaterochka,ground_coffee,"Кофе Carte Noire Original жареный молотый, 230г (230 г)",22.592214956521737,False
+Russia,Pyaterochka,ground_coffee,Кофе молотый Carte Noire Crema Delice 230г (230 г),22.592214956521737,False
+Russia,Lenta,ground_coffee,"Кофе молотый TCHIBO Exclusive, 250г (250г)",32.26008128,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЖОКЕЙ По-Восточному натуральный жареный, 250г (250г)",18.6669504,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЖОКЕЙ По-Восточному, 450г (450г)",20.92262008888889,False
+Russia,Lenta,ground_coffee,"Кофе молотый LAVAZZA Crema e Gusto натуральный жареный, 250г (250г)",25.64947776,False
+Russia,Lenta,ground_coffee,"Кофе молотый LAVAZZA Qualita Rossa натуральный, 250г (250г)",32.120333439999996,False
+Russia,Lenta,ground_coffee,"Кофе молотый JARDIN Dessert, 250г (250г)",26.20846912,False
+Russia,Lenta,ground_coffee,"Кофе молотый JARDIN Espresso di Milano, 250г (250г)",25.463294719999997,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЛЕНТА жареный, 500г (500г)",15.131020479999998,False
+Russia,Lenta,ground_coffee,"Кофе молотый LAVAZZA Qualita ORO натуральный жареный, 250г (250г)",48.739270399999995,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЖОКЕЙ Ирландские сливки, 150г (150г)",27.3812896,False
+Russia,Lenta,ground_coffee,"Кофе молотый JARDIN Americano Crema жареный, 250г (250г)",25.463294719999997,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЖОКЕЙ Традиционный жареный, 250г (250г)",26.20846912,False
+Russia,Lenta,ground_coffee,"Кофе молотый EGOISTE Espresso, 250г (250г)",45.1549152,False
+Russia,Lenta,ground_coffee,"Кофе молотый MONARCH Original натуральный жареный, 230г (230г)",30.410249043478263,False
+Russia,Lenta,ground_coffee,"Кофе молотый CARTE NOIRE натуральный жареный, 230г (230г)",34.946093217391294,False
+Russia,Lenta,ground_coffee,"Кофе молотый MONARCH Original Классический натуральный жареный, 70г (70г)",33.25013028571429,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЛЕНТА Amaretto натуральный жареный, 150г (150г)",17.069726933333335,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЛЕНТА Irish cream натуральный жареный, 150г (150г)",17.069726933333335,False
+Russia,Lenta,ground_coffee,"Кофе молотый 365 ДНЕЙ жареный, 250г (250г)",11.6375456,False
+Russia,Lenta,ground_coffee,"Кофе молотый JARDIN Cafe Eclair жареный, 250г (250г)",21.95677376,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЛЕНТА натуральный жареный, 250г (250г)",18.6205152,False
+Russia,Lenta,ground_coffee,"Кофе молотый EGOISTE Velvet, 200г (200г)",50.2213272,False
+Russia,Lenta,ground_coffee,Кофе молотый ALTA ROMA Vero (250г),31.562226560000003,False
+Russia,Lenta,ground_coffee,"Кофе молотый JARDIN Bravo Brazilia жареный, 250г (250г)",45.1549152,False
+Russia,Lenta,ground_coffee,"Кофе молотый JARDIN Эфиопия Эйфория жаренный, 250г (250г)",45.1549152,False
+Russia,Lenta,ground_coffee,"Кофе молотый BUSHIDO Sensei, 227г (227г)",49.73008281938327,False
+Russia,Lenta,ground_coffee,"Кофе молотый BUSHIDO Red Katana, 227г (227г)",49.73008281938327,False
+Russia,Lenta,ground_coffee,"Кофе молотый BUSHIDO Specialty, 227г (227г)",53.677610572687215,False
+Russia,Lenta,ground_coffee,"Кофе молотый BUSHIDO Black Katana, 227г (227г)",49.73008281938327,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЛЕНТА натуральный жареный с ароматом лесного ореха, 150г (150г)",17.069726933333335,False
+Russia,Lenta,ground_coffee,"Кофе молотый FRESCO Arabica Solo, 200г (200г)",27.816343200000002,False
+Russia,Lenta,ground_coffee,"Кофе молотый CARTE NOIRE Crema delice натуральный жареный, 230г (230г)",47.251901913043476,False
+Russia,Lenta,ground_coffee,"Кофе молотый EGOISTE Grand Cru, 250г (250г)",52.69599168,False
+Russia,Lenta,ground_coffee,"Кофе молотый BONVIDA натуральный жареный средняя обжарка, 1кг (1000г)",22.11188944,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЖИВОЙ КОФЕ Арабика, 200г (200г)",25.137474400000002,False
+Russia,Lenta,ground_coffee,"Кофе молотый CARTE NOIRE Intense Absolu натуральный жареный, 230г (230г)",47.251901913043476,False
+Russia,Lenta,ground_coffee,"Кофе молотый FRESCO Arabica Blend, 250г (250г)",25.46373696,False
+Russia,Lenta,ground_coffee,"Кофе молотый для турки и чашки FRESCO Arabica Gusto, 250г (250г)",24.39263168,False
+Russia,Lenta,ground_coffee,"Кофе молотый JARDIN Ориджинал оро жареный, 250г (250г)",36.216802560000005,False
+Russia,Lenta,ground_coffee,"Кофе молотый PREMIUM CLUB Classic, 250г (250г)",27.93055168,False
+Russia,Lenta,ground_coffee,"Кофе молотый PREMIUM CLUB Espresso, 250г (250г)",27.93055168,False
+Russia,Lenta,ground_coffee,"Кофе молотый POETTI Daily Arabica для чашки, 250г (250г)",25.80426176,False
+Russia,Lenta,ground_coffee,"Кофе молотый POETTI Daily Classic Crema, 250г (250г)",24.76499776,False
+Russia,Lenta,ground_coffee,"Кофе молотый POETTI Daily Mokka, 250г (250г)",24.76499776,False
+Russia,Lenta,ground_coffee,"Кофе молотый POETTI Leggenda Original натуральный жареный, 250г (250г)",33.7031104,False
+Russia,Lenta,ground_coffee,"Кофе молотый POETTI Leggenda Ruby натуральный жареный, 250г (250г)",33.7031104,False
+Russia,Lenta,ground_coffee,"Кофе молотый MACCOFFEE Pure Espresso Forte натуральный жареный, 250г (250г)",22.95181376,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЖОКЕЙ Классический жареный, 100г (100г)",25.0208336,False
+Russia,Lenta,ground_coffee,"Кофе молотый ЖОКЕЙ По-восточному жареный, 100г (100г)",25.0208336,False
+Russia,Lenta,ground_coffee,"Кофе молотый ROMEO ROSSI Crema натуральный жареный, 250г (250г)",30.1187552,False
+Russia,Lenta,ground_coffee,"Кофе молотый ROMEO ROSSI Intenso натуральный жарнный, 250г (250г)",22.02310976,False
+Russia,Lenta,ground_coffee,"Кофе молотый 365 ДНЕЙ жареный, 100г (100г)",11.6375456,False
+Russia,Lenta,ground_coffee,"Кофе молотый EGOISTE Captain, 250г (250г)",49.06608576,False
+Russia,Lenta,ground_coffee,"Кофе молотый EGOISTE Voyage, 250г (250г)",49.48621376,False
+Russia,Lenta,ground_coffee,"Кофе молотый AMBASSADOR Adora натуральный жареный, темная обжарка, 95г (95г)",31.362962526315798,False
+Russia,Lenta,ground_coffee,"Кофе молотый MONARCH Brazilian Selection натуральный жареный, 230г (230г)",22.90466713043478,False
+Russia,Lenta,ground_coffee,"Кофе молотый JULIUS MEINL Ароматный, 220г (220г)",49.936936727272716,False
+Russia,Lenta,ground_coffee,"Кофе молотый MARCO PANATTI Delicato, 250г (250г)",23.275533439999997,False
+Russia,Lenta,ground_coffee,"Кофе молотый MARCO PANATTI Intenso, 250г (250г)",21.11651776,False
+Russia,Lenta,ground_coffee,"Кофе молотый COFFESSO Crema, 250г (250г)",24.0202656,False
+Russia,Lenta,ground_coffee,"Кофе молотый COFFESSO Mokka, 250г (250г)",22.06733376,False
+Russia,Lenta,ground_coffee,"Кофе молотый COFFESSO Allure, 250г (250г)",26.29072576,False
+Russia,Lenta,ground_coffee,"Кофе молотый POETTI Soul of Havana, 200г (200г)",34.797101600000005,False
+Russia,Lenta,ground_coffee,"Кофе молотый POETTI Soul of Rome, 200г (200г)",24.239727199999997,False
+Russia,Lenta,ground_coffee,"Кофе молотый POETTI Soul of Istanbu, 200г (200г)",31.130931999999998,False
+Russia,Lenta,ground_coffee,"Кофе молотый JULIUS MEINL Prasident натуральный жареный, 220г (220г)",51.312403636363626,False
+Russia,Lenta,ground_coffee,"Кофе молотый TIBIO Gold Мокка натуральный жареный, 250г (250г)",29.74638912,False
+Russia,Lenta,ground_coffee,"Кофе молотый COFFEE TURCA Special Turkish, 250г (250г)",50.5546656,False
+Russia,Lenta,ground_coffee,"Кофе молотый MONARCH Origins Tropical Selection, 230г (230г)",45.18491060869565,False
+Russia,Lenta,ground_coffee,"Кофе молотый COFFESSO Jezva Red, 100г (100г)",26.998751999999996,False
+Russia,Lenta,ground_coffee,"Кофе молотый TCHIBO Фэмили натуральный жареный, 500г (500г)",28.30313888,False
+Russia,Lenta,ground_coffee,"Кофе молотый ALTA ROMA Caffe Latte, 250г (250г)",22.253074559999998,False
+Russia,Lenta,ground_coffee,"Кофе молотый ALTA ROMA Arabica Classico, 250г (250г)",32.26096576,False
+Russia,Lenta,ground_coffee,"Кофе молотый TIBIO Фэмили натуральный жареный, 250г (250г)",31.562226560000003,False
+Russia,Lenta,ground_coffee,"Кофе молотый TIBIO Голд Селекшн натуральный жареный, 250г (250г)",28.63017536,False
+Russia,Lenta,ground_coffee,"Кофе молотый TIBIO Голд Мокка Итальяно натуральный жареный, 250г (250г)",28.63017536,False
+Russia,Lenta,ground_coffee,"Кофе молотый COFFESSO Бленд арабики и робусты, для чашки и турки, 200г (200г)",23.3386632,False
+Russia,Lenta,ground_coffee,"Кофе молотый COFFESSO Jezva Gold 100% Arabica, 100г (100г)",33.642302400000005,False
+Russia,Lenta,ground_coffee,"Кофе молотый COFFESSO Jezva Gold 100% Arabica, 200г (200г)",31.3653192,False
+Russia,Lenta,ground_coffee,Кофе COFFESSO MASSIMO молотый м/у (250г),32.26096576,False
+Russia,Lenta,ground_coffee,Кофе COFFESSO VELUTTO молотый м/у (250г),39.42967616,False

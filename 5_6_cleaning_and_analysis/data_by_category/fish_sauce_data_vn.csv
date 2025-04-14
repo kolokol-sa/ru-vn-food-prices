@@ -1,0 +1,112 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,fish_sauce,Nước mắm Nam Ngư Đệ nhị 900ml (CHA),1.1546344444444443,False
+Vietnam,Winmart,fish_sauce,Nước mắm Nam Ngư  chai 1.2L (CHA),2.1240916666666663,False
+Vietnam,Winmart,fish_sauce,Nước mắm Knorr ngon tròn vị 15 độ đạm 750ml (CHA),3.1057488,False
+Vietnam,Winmart,fish_sauce,Nước mắm Knorr cao cấp 43 độ đạm chai thủy tinh 500ml (CHA),9.0113772,False
+Vietnam,Winmart,fish_sauce,Nước mắm cá cơm Phú Quốc Hồng Hạnh chai 650ml (CHA),5.930363384615385,False
+Vietnam,Winmart,fish_sauce,Nước mắm Phú Quốc Thanh Quốc chai 520ml (CHA),10.278592692307694,False
+Vietnam,Winmart,fish_sauce,Nước mắm Nam Ngư chai 750ml (CHA),2.718837333333333,False
+Vietnam,Winmart,fish_sauce,Nước mắm nhỉ chánh hiệu Thanh Hà 40 độ đạm chai 520ml (CHA),9.539559615384617,False
+Vietnam,Winmart,fish_sauce,Nước mắm Nam Ngư chai 900ml (CHA),2.622980888888889,False
+Vietnam,Winmart,fish_sauce,Nước mắm nhĩ chính hiệu Phú Quốc 35 độ đạm Thanh Hà chai 520ml (CHA),7.699518076923077,False
+Vietnam,Winmart,fish_sauce,Nước mắm Phú Quốc Ông Kỳ chai 525ml (CHA),9.911805333333335,False
+Vietnam,Winmart,fish_sauce,Nước mắm Phú Quốc Ông Kỳ 38 độ đạm chai 525ml (CHA),8.873568,False
+Vietnam,Winmart,fish_sauce,Nước mắm Phú Quốc Ông Kỳ 35 độ đạm chai 525ml (CHA),8.074349333333332,False
+Vietnam,Winmart,fish_sauce,Nước mắm cao cấp Barona vị xưa chai 500ml (CHA),6.5408952000000005,False
+Vietnam,Winmart,fish_sauce,Nước mắm Hạnh Phúc 40B chai 500ml (CHA),6.4781528,False
+Vietnam,Winmart,fish_sauce,Nước mắm cá cơm 60 độ đạm Hạnh Phúc  50ml (HOP),13.012512333333333,False
+Vietnam,Winmart,fish_sauce,Nước mắm cá cơm 50 độ đạm Hạnh Phúc chai 500ml (CHA),8.1643548,False
+Vietnam,Winmart,fish_sauce,Nước mắm Hạnh Phúc 60N chai 250ml (CHA),11.4661736,False
+Vietnam,Winmart,fish_sauce,Nước mắm cá cơm Cholimex chai 750g (CHA),4.276940266666666,False
+Vietnam,Winmart,fish_sauce,Nước mắm cá cơm 60 độ đạm Hạnh Phúc chai 500ml (CHA),10.823064,False
+Vietnam,Winmart,fish_sauce,Nước mắm nhỉ cá cơm 30 độ đạm 584 Nha Trang chai 500ml (CHA),4.31354,False
+Vietnam,Winmart,fish_sauce,Nước mắm Hạnh Phúc 60N 50ml (CHA),14.117040000000001,False
+Vietnam,Winmart,fish_sauce,Nước mắm Barona đặc biệt Hải Nhi chai 50ml (CHA),19.920712,False
+Vietnam,Winmart,fish_sauce,Nước mắm cá cơm siêu hạng Hưng Thịnh 35 độ đạm chai 620ml (CHA),3.788578387096774,False
+Vietnam,Winmart,fish_sauce,Nước mắm cá cơm đặc sản Hưng Thịnh 40 độ đạm chai 750ml (CHA),4.5174528,False
+Vietnam,Winmart,fish_sauce,Nước mắm CHIN-SU cá cơm biển đông 720ml (CHA),3.3222972222222227,False
+Vietnam,Winmart,fish_sauce,Nước mắm Chin Su cao cấp biển đông khẩu vị Nhật 500m (CHA),7.999656,False
+Vietnam,Winmart,fish_sauce,Nước mắm Nam Ngư cao cấp ủ chượp và đóng chai tại Phú Quốc  chai 500ml (CHA),5.0978200000000005,False
+Vietnam,Winmart,fish_sauce,Nước mắm cá cơm Thuận Phát 30N chai 620ml (CHA),4.14276935483871,False
+Vietnam,Winmart,fish_sauce,Nước mắm Cá Cơm Thuận Phát 40N chai 490ml (CHA),5.513968571428572,False
+Vietnam,Winmart,fish_sauce,Nước mắm Cá Cơm Thuận Phát 60N chai 490ml (CHA),11.60414285714286,False
+Vietnam,Winmart,fish_sauce,Nước mắm cá cơm Thuận Phát 40 độ đạm chai 610ml (CHA),5.3035327868852455,False
+Vietnam,Winmart,fish_sauce,Nước mắm Cá Cơm Than Thuận Phát chai 490ml (CHA),2.1767771428571425,False
+Vietnam,Winmart,fish_sauce,Nước mắm Khải Hoàn 38N chai 520ml (CHA),7.782470769230769,False
+Vietnam,Co.op,fish_sauce,Nước mắm Phú Quốc Phú Nhĩ Sasco truyền thống 40N 500ml (chai),8.705508,False
+Vietnam,Co.op,fish_sauce,Nước mắm Việt Nhi cốt nhĩ 35% 500ml (chai),4.1409984,False
+Vietnam,Co.op,fish_sauce,Nước mắm Làng Chài Xưa nhãn vàng 40N 500ml – F (chai),7.5839876,False
+Vietnam,Co.op,fish_sauce,Nước mắm Ngư Phát pet 750ml (chai),2.9384357333333337,False
+Vietnam,Co.op,fish_sauce,Nước mắm Tường An thủy tinh 32N 500ml (chai),5.999742,False
+Vietnam,Co.op,fish_sauce,Nước mắm Liên Thành Nhất Vị thủy tinh 500ml (chai),3.5606312,False
+Vietnam,Co.op,fish_sauce,Nước mắm Phú Quốc Thanh Quốc Ocop 35N chai thủy tinh 520ml (chai),6.296863461538461,False
+Vietnam,Co.op,fish_sauce,Nước mắm cá cơm 3 Miền 10N – 900ml (chai),1.254848,False
+Vietnam,Co.op,fish_sauce,Nước mắm Phú Quốc Thanh Quốc Ocop 40 độ đạm chai thủy tinh 6x60ml (hộp),10.260996666666667,False
+Vietnam,Co.op,fish_sauce,Nước mắm Cholimex 30N thủy tinh 500ml (chai),3.72533,False
+Vietnam,Co.op,fish_sauce,Nước mắm Barona Đại Nhất 750ml (chai),2.222126666666666,False
+Vietnam,Co.op,fish_sauce,Nước mắm Cholimex 40N thủy tinh 500ml (chai),4.940964,False
+Vietnam,Co.op,fish_sauce,Nước mắm 584 Nha Trang thủy tinh 40N – 510ml (chai),6.997007843137255,False
+Vietnam,Co.op,fish_sauce,Nước mắm cao cấp Liên Thành nhãn bạc chai thủy tinh 40 độ đạm 600ml (chai),4.823322,False
+Vietnam,Co.op,fish_sauce,Nước mắm Chinsu ngon hảo hạng 40N – 500ml (chai),8.078084,False
+Vietnam,Co.op,fish_sauce,Nước mắm Chinsu Biển Đông thủy tinh >25N – 720ml (chai),3.349529166666667,False
+Vietnam,Co.op,fish_sauce,Nước mắm Liên Thành 120g/l 1.8L (chai),2.2439122222222223,False
+Vietnam,Co.op,fish_sauce,Nước mắm cá cơm Liên Thành 30 độ đạm 4L (chai),2.8175259,False
+Vietnam,Co.op,fish_sauce,Nước mắm Knorr chai 500ml (chai),3.0743776,False
+Vietnam,Co.op,fish_sauce,Nước mắm cao cấp Liên Thành thủy tinh 40N 150ml (chai),8.470224,False
+Vietnam,Co.op,fish_sauce,Nước mắm nhĩ Coop Select 25N chai 1L (chai),2.235198,False
+Vietnam,Co.op,fish_sauce,Nước mắm nhĩ Coop Select 25N thủy tinh 500ml (chai),3.3880896000000003,False
+Vietnam,Co.op,fish_sauce,Nước mắm Hương Việt 20N chai pet 750ml (chai),2.1855269333333336,False
+Vietnam,Co.op,fish_sauce,Nước mắm Hòa Hiệp 17N chai pet 750ml (chai),2.117556,False
+Vietnam,Co.op,fish_sauce,Nước mắm Phú Quốc Thanh Quốc Ocop 40N thủy tinh 520ml (chai),7.2772134615384605,False
+Vietnam,Co.op,fish_sauce,Nước mắm 584 Nha Trang chai 25N – 2 L (chai),2.0567743,False
+Vietnam,Co.op,fish_sauce,Nước mắm nhĩ 584 Nha Trang thủy tinh 30N – 500ml (chai),4.3056972,False
+Vietnam,Co.op,fish_sauce,Nước mắm 584 Nha Trang 25N – 1L (chai),2.1528486,False
+Vietnam,Co.op,fish_sauce,Nước mắm Hồng Hạnh chai 35N 900ml (chai),4.11747,False
+Vietnam,Co.op,fish_sauce,Nước mắm Hồng Hạnh cao đạm 20N chai 4.9L (chai),1.4053017142857143,False
+Vietnam,Co.op,fish_sauce,Nước mắm lú Coop Select 32 độ đạm thủy tinh 500ml (chai),5.4821172,False
+Vietnam,Co.op,fish_sauce,Nước mắm cốt đặc biệt Lê Gia Ocop 525ml (chai),7.954840000000001,False
+Vietnam,Co.op,fish_sauce,Nước mắm Chinsu cá hồi thủy tinh 20g/l 500ml (chai),4.0625704,False
+Vietnam,Co.op,fish_sauce,Nước mắm Liên Thành pet 60g/l 900ml (chai),1.5380602222222222,False
+Vietnam,Co.op,fish_sauce,Nước mắm Knorr ngon tròn vị 15 độ đạm 750ml (chai),2.8913789333333333,False
+Vietnam,Co.op,fish_sauce,Nước mắm Hồng Hạnh siêu Hạng 35N thủy tinh 500ml (chai),5.1997764,False
+Vietnam,Co.op,fish_sauce,Nước mắm truyền thống Bảy Hồng Hạnh 20N 1.9L (chai),1.8120995789473684,False
+Vietnam,Co.op,fish_sauce,Nước mắm truyền thống cá cơm 30N 500ml (chai),4.1409984,False
+Vietnam,Co.op,fish_sauce,Nước mắm cốt nhĩ đặc biệt Hồng Hạnh 40 độ 500ml (chai),7.2075332,False
+Vietnam,Co.op,fish_sauce,Nước mắm siêu hạng Hồng Hạnh 35 độ đạm chai 1.9L (chai),3.556090631578948,False
+Vietnam,Co.op,fish_sauce,Nước mắm cá cơm than Thuận Phát chai 490ml (chai),2.6009285714285713,False
+Vietnam,Co.op,fish_sauce,Nước mắm Thuận Phát 60N thủy tinh 490ml (chai),11.204,False
+Vietnam,Co.op,fish_sauce,Nước mắm cá cơm than Thuận Phát pet 740ml (chai),2.437627027027027,False
+Vietnam,Co.op,fish_sauce,Nước mắm Barona vị xưa 20N 500ml (chai),3.7174872,False
+Vietnam,Co.op,fish_sauce,Nước mắm siêu hạng Hưng Thịnh 33-37g/L 620ml (chai),3.681056129032258,False
+Vietnam,Co.op,fish_sauce,Nước mắm nhĩ Hưng Thịnh 35 độ đạm 750ml (chai),3.9161714666666665,False
+Vietnam,Co.op,fish_sauce,Nước mắm Hạnh Phúc 50 độ đạm 500ml (chai),8.156512,False
+Vietnam,Co.op,fish_sauce,Nước mắm Hạnh Phúc 60 độ đạm lốc 10 chai x 50ml (lốc),13.034733600000001,False
+Vietnam,Co.op,fish_sauce,Nước mắm Vị Xưa 40 độ đạm chai thủy tinh 500ml (chai),7.372232,False
+Vietnam,Co.op,fish_sauce,Nước mắm Nam Ngư nhãn vàng 14g/l 650ml (chai),3.1190212307692304,False
+Vietnam,Co.op,fish_sauce,Nước mắm cá cơm Thuận Phát 40 độ đạm chai thủy tinh 610ml (chai),5.046391803278688,False
+Vietnam,Co.op,fish_sauce,Nước mắm Ông Kỳ 35N chai 525ml (chai),7.671005333333334,False
+Vietnam,Co.op,fish_sauce,Nước mắm Liên Thành nhãn vàng 600ml (chai),5.744851,False
+Vietnam,Co.op,fish_sauce,Nước mắm cá cơm Hạnh Phúc 60 độ đạm 500ml (chai),10.783850000000001,False
+Vietnam,Co.op,fish_sauce,Nước mắm Thanh Hà 35N chai 520ml (cái),7.541153846153846,False
+Vietnam,Co.op,fish_sauce,Nước mắm cá cơm Thuận Phát 30 độ đạm chai thủy tinh 610ml (chai),4.082113114754098,False
+Vietnam,Co.op,fish_sauce,Nước mắm nhỉ Phú Quốc THUYỀN XƯA 33N chai thủy tinh 500ml – CX – F (chai),7.725158,False
+Vietnam,Co.op,fish_sauce,Nước mắm nhỉ Phú Quốc THUYỀN XƯA 40N chai thủy tinh 500ml – CX – F (chai),12.273982,False
+Vietnam,Co.op,fish_sauce,Nước mắm nhỉ Phú Quốc THUYỀN XƯA 33N chai thủy tinh 65ml – CX – F (chai),9.53201846153846,False
+Vietnam,Co.op,fish_sauce,Nước mắm nhỉ Phú Quốc THUYỀN XƯA 40N chai thủy tinh 65ml – CX – F (chai),12.669138461538463,False
+Vietnam,Co.op,fish_sauce,Nước mắm nhỉ trẻ em THUYỀN XƯA 41N chai thủy tinh 65ml – CX – F (chai),19.607,False
+Vietnam,Co.op,fish_sauce,Nước mắm Hưng Thịnh 38 đ- 42g/l – 750ml (chai),4.182826666666667,False
+Vietnam,Co.op,fish_sauce,Nước mắm Coop Select 1.8L (cái),1.5424173333333335,False
+Vietnam,Co.op,fish_sauce,Nước mắm Liên Thành nhãn ngọc 40 độ chai thủy tinh 600ml (chai),6.993163333333334,False
+Vietnam,Co.op,fish_sauce,Nước mắm Coop Select 35N thủy tinh 520ml (chai),3.936482307692309,False
+Vietnam,Co.op,fish_sauce,Nước mắm Coop Select 62.5 g/l – 500ml (chai),1.6783592,False
+Vietnam,Co.op,fish_sauce,Nước mắm Coop Select pet 62.5g/L 2 lít (chai),1.137206,False
+Vietnam,Co.op,fish_sauce,Nước mắm Phú Quốc Thanh Hà 40 độ đạm chai 520ml (chai),9.366113076923076,False
+Vietnam,Co.op,fish_sauce,Nước mắm Phú Quốc Ông Kỳ 40 độ đạm chai 525ml (chai),9.5234,False
+Vietnam,Co.op,fish_sauce,Nước mắm truyền thống Liên Thành 20 độ đạm bình 4L (cái),1.999914,False
+Vietnam,Co.op,fish_sauce,Nước mắm Nam Ngư Phú Quốc 32 độ đạm chai 500ml (chai),5.1605624,False
+Vietnam,Co.op,fish_sauce,Nước mắm Hạnh Phúc 60N 12 chai x 50ml (hộp),13.019048,False
+Vietnam,Co.op,fish_sauce,Nước mắm Phú Quốc Ông Kỳ thủy tinh 38N 525ml (chai),8.358184000000001,False
+Vietnam,Co.op,fish_sauce,Nước mắm Nam Ngư 3in1 900ml (chai),2.570695555555556,False
+Vietnam,Co.op,fish_sauce,Nước mắm Nam Ngư đệ nhị chai 900ml (chai),1.0413495555555556,False
+Vietnam,Co.op,fish_sauce,Nước mắm Nam Ngư 3in1 chai 10g/l – 750ml (chai),2.74498,False
+Vietnam,Co.op,fish_sauce,Nước mắm cá cơm Hạnh Phúc 60 độ đạm 250ml (chai),11.0112912,False

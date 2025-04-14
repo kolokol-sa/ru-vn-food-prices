@@ -1,0 +1,4 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,cabbage,Bắp cải trắng (KG),0.6235026,False
+Vietnam,Co.op,cabbage,Bắp cải trắng Coop Select kg – TNX (kg),0.6235026,False
+Vietnam,Co.op,cabbage,Bắp cải trắng – kg (kg),0.5058606,False

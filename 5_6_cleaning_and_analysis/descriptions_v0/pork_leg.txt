@@ -1,0 +1,12 @@
+**Pork** (pork leg)
+
+- Overview:
+    - Russia: 4 items, no outliers.
+    - Vietnam: 8 items, no outliers.
+- Prices:
+    - Russia: Median price = 4.83 USD/kg (~ 437 RUB/kg; ~ 123200 VND/kg).
+    - Vietnam:
+        - Median price = 6.19 USD/kg (~ 560 RUB/kg; ~ 158000 VND/kg) (28% more expensive overall).
+        - The 3 cheapest items are priced at 5.23 and 5.68 USD/kg (~ 473 and 514 RUB/kg, ~ 133300 and 144900 VND/kg)
+- Key Observations:
+    - Despite being a common meat in Vietnam, pork leg is more expensive than in Russia, which could be due to factors like supply chain differences, or local market conditions.

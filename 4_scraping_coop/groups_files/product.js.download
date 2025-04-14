@@ -1,0 +1,69 @@
+/* ---------------------------------------------------
+    Page Product Detail
+-------------------------------------------------- */
+
+$(document).ready(function () {
+
+    var zoomCollection = '.large-image img';
+    $(zoomCollection).elevateZoom({
+        zoomType: "inner",
+        lensSize: "200",
+        easing: true,
+        gallery: 'thumb-slider',
+        cursor: 'pointer',
+        galleryActiveClass: "active"
+    });
+
+    var items_img = [];
+    $('#thumb-slider a.img').each(function () {
+        items_img.push({ 'src': $(this).attr('data-image') });
+    });
+
+    $('.large-image').magnificPopup({
+        items: items_img,
+        gallery: { enabled: true, preload: [0, 2] },
+        type: 'image',
+        mainClass: 'mfp-fade',
+        callbacks: {
+            open: function () {
+                var activeIndex = parseInt($('#thumb-slider .img.active').attr('data-index'));
+                var magnificPopup = $.magnificPopup.instance;
+                magnificPopup.goTo(activeIndex);
+            }
+        }
+    });
+
+    $("#thumb-slider-vertical .owl2-item").each(function () {
+        $(this).find("[data-index='0']").addClass('active');
+    });
+
+    $('.thumb-video').magnificPopup({
+        type: 'iframe',
+        iframe: {
+            patterns: {
+                youtube: {
+                    index: 'youtube.com/', // String that detects type of video (in this case YouTube). Simply via url.indexOf(index).
+                    id: 'v=', // String that splits URL in a two parts, second part should be %id%
+                    src: '//www.youtube.com/embed/%id%?autoplay=1' // URL that will be set as a source for iframe. 
+                },
+            }
+        }
+    });
+
+    var _isMobile = {
+        iOS: function () {
+            return navigator.userAgent.match(/iPhone/i);
+        },
+        any: function () {
+            return (_isMobile.iOS());
+        }
+    };
+
+    $(".thumb-vertical-outer .next-thumb").click(function () {
+        $(".thumb-vertical-outer .lSNext").trigger("click");
+    });
+
+    $(".thumb-vertical-outer .prev-thumb").click(function () {
+        $(".thumb-vertical-outer .lSPrev").trigger("click");
+    });
+});

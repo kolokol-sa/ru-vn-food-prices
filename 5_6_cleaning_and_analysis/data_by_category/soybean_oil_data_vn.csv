@@ -1,0 +1,36 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,soybean_oil,GREEN ACE Dầu đậu nành 2L (CHA),2.529303,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành Meizan chai 2L (CHA),2.5273423,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành Meizan chai 1L (CHA),2.1881412,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành Simply chai 1 lít (CHA),2.7096874,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành Simply chai 2L (CHA),2.7077267000000003,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành can  Simply chai 5L (CHA),2.66106204,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành Meizan can 5L (CHA),2.48067764,False
+Vietnam,Winmart,soybean_oil,Dầu nành Tường An can 5L (CHA),2.69949176,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành Tường An chai 2L (CHA),2.7528228,False
+Vietnam,Winmart,soybean_oil,Dầu nành Tường An chai 1L (CHA),2.7528228,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành TƯỜNG AN Marvela 2L (CHA),2.7567442,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành TƯỜNG AN Marvela 1L (CHA),2.686159,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành Gold Tiara 2L (CHA),2.6959625000000003,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành Janbee chai 1L (CHA),2.7567442,False
+Vietnam,Winmart,soybean_oil,Dầu đậu nành không biến đổi gen Amur Pearl chai 1L (CHA),2.7175302,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Meizan 2L (chai),2.3489186,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Vạn Thọ 2L (chai),2.529303,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Vạn Thọ 1L (chai),2.529303,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Simply 5L (chai),2.509696,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Coba 2L (chai),2.195984,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Coba 1L (chai),2.195984,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Tường An 1L (chai),2.5606742000000002,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Janbee 5L (chai),2.46420776,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Janbee 1L (chai),2.5998882,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Simply 400ml (chai),2.764587,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Meizan 5L (chai),2.313626,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Meizan chai 1L (chai),2.3489186,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Simply 1L (chai),2.5645956000000005,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Tường An bình 2L (chai),2.568517,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Tường An Marvela 1L (chai),2.5449886000000004,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Simply 2L (chai),2.568517,False
+Vietnam,Co.op,soybean_oil,Dầu đậu nành Tường An 5L (cái),2.5018532,False
+Vietnam,Co.op,soybean_oil,Dầu nành Coop Select 5L (chai),2.4234252,False
+Vietnam,Co.op,soybean_oil,Dầu nành Coop Select 1L (chai),2.5018532,False
+Vietnam,Co.op,soybean_oil,Dầu nành Coop Select 2L (chai),2.450875,False

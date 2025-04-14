@@ -1,0 +1,579 @@
+**Banana**
+- Overview:
+    - Russia: 4 items, no outliers.
+    - Vietnam: 9 items, with no outliers.
+- Prices:
+    - Russia:
+        - Median price = 1.88 USD/kg (~ 170 RUB/kg; ~ 47900 VND/kg).
+        - The cheapest item is priced at 1.86 USD/kg, which isn't significantly different from the median.
+    - Vietnam: Median price = 1.16 USD/kg (~ 105 RUB/kg; ~ 29500 VND/kg) (38% cheaper overall)
+    - If comparing only long bananas (most similar to those sold in Russia), the median price in Vietnam rises to 1.41 USD/kg (~ 127 RUB/kg; ~ 35900 VND/kg) (25% cheaper).
+- Key Observations:
+    - All bananas in Russia are imported and consist of a single type (long bananas). Vietnam’s market is more diverse, including locally grown bananas and imports from nearby countries.
+    - Even imported bananas in Vietnam are cheaper than in Russia, likely due to lower transportation costs.
+    - The limited data points might influence conclusions, but given the supermarkets’ large market share, the sample represents the category's available diversity.
+
+**Bread**
+
+- Overview:
+    - Russia: 147 items, with 5 outliers.
+    - Vietnam: 17 items, no outliers.
+- Prices:
+    - Russia:
+        - Median price = 2.24 USD/kg (~ 202 RUB/kg; ~ 57100 VND/kg)
+    - Vietnam:
+        - Median price = 2.92 USD/kg (~ 264 RUB/kg; ~ 74500 VND/kg) (31% more expensive overall)
+        - The 3 cheapest items are priced at 1.70, 2.20 USD/kg (~ 154, 199 RUB/kg, ~ 43500, 56000 VND/kg) (fresh baguettes) and 2.41 USD/kg (~ 218 RUB/kg, ~ 61300 VND/kg) (a packaged sandwich bread)
+- Outliers:
+    - Russia: include 2 cheapest breads below 0.81 USD/kg and 3 most expensive above 6.85 USD/kg (a premium sourdough bread with nuts and gluten-free bread)
+- Key Observations:
+    - Bread in Russia is highly diverse, made with various types of flour and preparation methods, reflecting its role as a dietary staple and high consumer demand.
+    - Vietnam’s bread selection in supermarkets is limited to a small variety of fresh baked baguettes and packaged sandwich bread, which may indicate lower demand.
+    - Bread’s higher price in Vietnam may be due to its lower popularity and limited local production. Unlike Russia, where bread is widely consumed, Vietnam relies on rice as the primary crop, with wheat being imported—contributing to higher prices and reduced diversity.
+
+**Buckwheat**
+
+- Overview:
+    - Russia: 32 items with 1 outlier.
+    - Vietnam: 1 item.
+- Prices:
+    - Russia: Median price = 1.81 USD/kg (~ 163 RUB/kg; ~ 46000 VND/kg)
+    - Vietnam: The only available item price = 4.20 USD/kg (~ 380 RUB/kg; 107000 VND/kg) (132% (2.3x) more expensive)
+- Outliers:
+    - Russia: 1 cheapest buckwheat priced at 0.42 USD/kg (~ 38 RUB/kg, ~ 10600 VND/kg)
+- Key Observations:
+    - In Russia, buckwheat is a dietary staple and widely available in various brands and packaging.
+    - In Vietnam, buckwheat is almost nonexistent in supermarkets and is considered a niche product, mostly imported from Russia. Its higher price reflects its rarity and import costs.
+    - The lack of buckwheat in Vietnamese supermarkets limits reliability of comparison.
+
+**Cabbage**
+
+- Overview:
+    - Russia: 3 items, no outliers (but 1 notable item: a "new harvest" cabbage).
+    - Vietnam: 3 items, no outliers.
+- Prices:
+    - Russia: Median price = 0.57 USD/kg (~ 52 RUB/kg; ~ 14700 VND/kg)
+    - Vietnam: Median price = 0.62 USD/kg (~ 56 RUB/kg; ~ 15900 VND/kg) (8% more expensive overall)
+    - Without "new harvest" cabbage, which is significantly more expensive, Russian median price falls to 0.51 USD/kg (~ 46 RUB/kg; ~ 13000 VND/kg), making the difference more notable (22% more expensive)
+- Key Observations:
+    - The small sample sizes in both countries make it challenging to draw solid conclusions, but overall cabbage in Russia seems notably cheaper than in Vietnam.
+
+**Carrot**
+
+- Overview:
+    - Russia: 7 items, no outliers.
+    - Vietnam: 5 items, no outliers.
+- Prices:
+    - Overall:
+        - Russia: Median price = 1.14 USD/kg (~ 103 RUB/kg; ~ 29000 VND/kg)
+        - Vietnam: Median price = 1.17 USD/kg (~ 106 RUB/kg; ~ 29900 VND/kg) (3% more expensive overall)
+    - The dataset includes baby carrots, which are more expensive than regular. If we exclude them:
+    - Regular Carrot:
+        - Russia: Median price = 0.93 USD/kg (~ 84 RUB/kg; ~ 23800 VND/kg)
+        - Vietnam: Median price = 0.98 USD/kg (~ 88 RUB/kg; ~ 24900 VND/kg) (5% more expensive)
+- Key Observations:
+    - The overall carrot price difference between Russia and Vietnam is minimal and may be insignificant.
+    - The small sample sizes in both countries may limit the robustness of the analysis.
+
+**Chicken** (fillet)
+
+- Overview:
+    - Russia: 8 items with 1 outlier.
+    - Vietnam: 10 items, no outliers.
+- Prices:
+    - Russia: Median price = 5.75 USD/kg (~ 520 RUB/kg; ~ 146600 VND/kg)
+    - Vietnam: Median price = 3.88 USD/kg (~ 351 RUB/kg; ~ 99000 VND/kg) (33% cheaper overall)
+- Outliers:
+    - Russia: the cheapest fillet priced at 3.65 USD/kg (~ 330 RUB/kg, ~ 93000 VND/kg)
+- Key Observations:
+    - The outlier indicates that affordable options comparable to Vietnam's median price may still be available in Russia.
+    - The small sample sizes in both countries make it difficult to draw broader conclusions, but the price difference is clear.
+
+**Condensed Milk**
+
+- Overview:
+    - Russia: 27 items, no outliers.
+    - Vietnam: 28 items, no outliers.
+- Prices:
+    - Russia: Median price = 5.04 USD/kg (~ 456 RUB/kg; ~ 128600 VND/kg)
+    - Vietnam: Median price = 2.72 USD/kg (~ 246 RUB/kg; ~ 69500 VND/kg) (46% cheaper overall)
+- Key Observations:
+    - The key difference between the two countries could be the ingredients. In Russia, condensed milk is typically made with whole milk and sugar, while in Vietnam, it is often made from milk powder, sugar, and sometimes vegetable oil, which likely contributes to the lower cost.
+
+**Cucumber**
+
+- Overview:
+    - Russia: 18 items, no outliers.
+    - Vietnam: 8 items, 1 outlier.
+- Prices:
+    - Russia:
+        - Median price = 4.99 USD/kg (~ 451 RUB/kg; ~ 127300 VND/kg)
+        - The 3 cheapest items are priced at 1.95, 2.44 and 4.19 USD/kg (~ 176, 221 and 379 RUB/kg, ~ 46600, 62300 and 106900 VND/kg)
+    - Vietnam: Median price = 1.14 USD/kg (~ 103 RUB/kg; ~ 29000 VND/kg) (77% (4.3x) cheaper overall)
+- Outliers:
+    - Vietnam: 1 most expensive item (mini cucumbers) priced at 2.03 USD/kg (~ 184 RUB/kg, ~ 51800 VND/kg)
+- Key Observations:
+    - Vietnam's cucumbers are significantly cheaper. Russia's cheapest items are still more expensive than Vietnam's median, making cucumbers less affordable.
+    - Price differences likely stem from higher energy costs for greenhouse production in Russia during winter, while Vietnam’s milder climate reduces energy needs. Seasonal factors may also play a role in Russia’s pricing.
+
+**Eggs**
+
+- Overview:
+    - Russia: 53 items with 5 outliers.
+    - Vietnam: 24 items, no outliers.
+- Prices:
+    - Russia:
+        - Median price = 1.51 USD (~ 137 RUB, ~ 38600 VND) per 10 eggs
+        - IQR - from 1.35 to 1.62 USD (~ 122-146 RUB, ~ 34400-41300 VND) per 10 eggs
+    - Vietnam:
+        - Median price = 1.35 USD (~ 122 RUB, ~ 34500 VND) per 10 eggs (11% cheaper overall)
+        - IQR - from 1.22 to 1.69 USD (~ 110-153 RUB, ~ 31000-43000 VND) per 10 eggs
+- Outliers:
+    - Russia: the 4 cheapest eggs below 1.04 USD (~ 94 RUB, 26600 VND) per 10 eggs and the most expensive item for 2.58 USD (~ 233 RUB, 65800 VND)
+- Key Observations:
+    - The price difference between Russia and Vietnam is not huge. And comparing interquartile ranges, which are almost identical, the difference seem insignificant.
+
+**Eggplant**
+
+- Overview:
+    - Russia: 2 items, no outliers.
+    - Vietnam: 2 items, no outliers.
+- Prices:
+    - Russia: Median price = 2.99 USD/kg (~ 271 RUB/kg; ~ 76300 VND/kg)
+    - Vietnam: Median price = 0.93 USD/kg (~ 84 RUB/kg; ~ 23700 VND/kg) (69% (3.2x) cheaper in Vietnam)
+- Key Observations:
+    - Eggplant is significantly cheaper in Vietnam compared to Russia.
+    - Vietnam's climate may favor the cultivation of eggplant, while in Russia, it might depend more on greenhouse production, especially during colder seasons, which increases costs.
+    - The limited sample size in both countries makes it challenging to draw broader conclusions.
+
+**Fish Sauce**
+
+- Overview:
+    - Russia: 1 item, no outliers.
+    - Vietnam: 111 items, no outliers.
+- Prices:
+    - Russia: Median price = 9.31 USD/l (~ 842 RUB/l; ~ 237400 VND/l).
+    - Vietnam: Median price = 5.05 USD/l (~ 456 RUB/l; ~ 128700 VND/l) (46% cheaper than in Russia).
+- Key Observations:
+    - In Russia fish sauce is a very niche product, which could contribute to the higher price due to import costs and very limited demand.
+    - The single item available in Russia limits the ability to make detailed comparisons.
+
+**Coffee** (ground)
+
+- Overview:
+    - Russia: 97 items, no outliers.
+    - Vietnam: 38 items, no outliers.
+- Prices:
+    - Russia:
+        - Median price = 26.21 USD/kg (~ 2371 RUB/kg; ~ 668300 VND/kg)
+        - The 10% of the cheapest items in Russia lie below 16.82 USD/kg (1522 RUB/kg, 429000 VND/kg)
+    - Vietnam: Median price = 12.96 USD/kg (~ 1172 RUB/kg; ~ 330400 VND/kg) (51% (2x) cheaper)
+- Key Observations:
+    - Ground coffee is significantly cheaper in Vietnam, likely due to local production, while in Russia it’s mostly imported.
+    - In Russia there are affordable coffees with prices comparable to Vietnam's median, but more than 90% of items are still significantly more expensive.
+    - Russia’s larger variety may contribute to the higher median price.
+
+**Mango**
+
+- Overview:
+    - Russia: 2 items, no outliers.
+    - Vietnam: 18 items, no outliers.
+- Prices:
+    - Russia: Median price = 6.05 USD/kg (~ 547 RUB/kg; ~ 154200 VND/kg)
+    - Vietnam: Median price = 1.88 USD/kg (~ 170 RUB/kg; ~ 48000 VND/kg) (69% (3.2x) cheaper)
+- Key Observations:
+    - Mango is significantly cheaper in Vietnam, likely due to local production.
+    - Russian mangoes are imported, which increases the cost compared to locally grown varieties in Vietnam.
+    - Russia's small sample size makes it difficult to draw conclusions about the variety of mango types or their specific price range.
+
+**Milk**
+
+- Overview:
+    - Russia: 123 items, 8 outliers.
+    - Vietnam: 93 items, 1 outlier.
+- Prices:
+    - Russia: Median price = 1.38 USD/l (~ 125 RUB/l, ~ 35200 VND/l).
+    - Vietnam:
+        - Median price = 1.88 USD/l (~ 170 RUB/l, ~ 48000 VND/l) (36% more expensive overall).
+        - The 10% cheapest milks lie below 1.42 USD/l (~ 128 RUB/l, ~ 36200 VND/l)
+- Outliers:
+    - Russia: the 1 cheapest milk at 0.72 USD/l (~ 65 RUB/l, 18300 VND/l), the 7 most expensive ones above 2.34 USD/l (~ 211 RUB/l, ~ 59300 VND/l) (all 7 - nutritional milks for children in a small package)
+    - Vietnam: the 1 most expensive milk priced at 3.88 USD/l (~ 351 RUB/l, ~ 98900 VND/l) - also a nutritional milk in a small package, for elderly people
+- Key Observations:
+    - Milk in Russia is primarily locally produced, while in Vietnam both local and imported milks are available, which contributes to a higher median price.
+    - Also, in Vietnam milk is more often sold in smaller packaging, which can raise the price per liter.
+    - While a number of options with prices comparable to Russia's is available in Vietnam, 90% of the items are still higher than Russia's median, indicating a significant difference.
+
+**Onion**
+
+- Overview:
+    - Russia: 6 items, no outliers.
+    - Vietnam: 4 items, 1 outlier.
+- Prices:
+    - Russia: Median price = 0.74 USD/kg (~ 67 RUB/kg; ~ 18800 VND/kg).
+    - Vietnam:
+        - Median price = 0.98 USD/kg (~ 88 RUB/kg; ~ 24900 VND/kg) (32% more expensive overall).
+        - The cheapest item costs 0.70 USD/kg (~ 63 RUB, ~ 17900 VND/kg)
+- Outliers:
+    - Vietnam: 1 expensive item (baby onion) priced at 2.48 USD/kg (~ 225 RUB/kg, 63300 VND/kg)
+- Key Observations:
+    - Russian onions are cheaper by median, likely due to larger domestic production and more variety available.
+    - However, the cheapest item in Vietnam has comparable price. The sample size limits the reliability of conclusions.
+
+**Orange**
+
+- Overview:
+    - Russia: 9 items, no outliers.
+    - Vietnam: 9 items, no outliers.
+- Prices:
+    - Russia: Median price = 2.33 USD/kg (~ 211 RUB/kg; ~ 59400 VND/kg).
+    - Vietnam:
+        - Median price = 1.67 USD/kg (~ 151 RUB/kg; ~ 42500 VND/kg) (28% cheaper overall).
+        - Locally produced oranges = 0.94 USD/kg (~ 85 RUB/kg; ~ 23900 VND/kg)
+        - Imported oranges = 2.86 USD/kg (~ 259 RUB/kg; ~ 72900 VND/kg).
+- Key Observations:
+    - Oranges in Vietnam are represented by locally produced and imported ones, which differ in prices significantly.
+    - Locally produced oranges in Vietnam are much cheaper than imported ones (3x) and than oranges in Russia (2.5x). But imported oranges in Vietnam are more expensive than imported oranges in Russia.
+    - The difference in imported oranges prices can be attributed to higher transportation costs and, probably, lower demand in Vietnam, as it has it's own production.
+
+**Pasta** (spaghetti)
+
+- Overview:
+    - Russia: 22 items, 1 outlier.
+    - Vietnam: 19 items, no outliers.
+- Prices:
+    - Russia: Median = 1.84 USD/kg (~ 167 RUB/kg; ~ 47000 VND/kg).
+    - Vietnam:
+        - Median = 4.20 USD/kg (~ 380 RUB/kg; ~ 107000 VND/kg) (128% (2.3x) more expensive overall)
+        - The 3 cheapest items: 2.88, 3.06 and 3.08 USD/kg (~ 260, 277 and 279 RUB/kg; ~ 73400, 78000 and 78600 VND/kg).
+- Outliers:
+    - Russia: the 1 most expensive item (imported Italian spaghetti) priced at 8.46 USD/kg (~ 765 RUB/kg, ~ 215700 VND/kg)
+- Key Observations:
+    - Spaghetti is much more expensive in Vietnam by median, with even cheapest options priced significantly higher than Russian median.
+    - In Russia, local production lowers costs, while in Vietnam, imports and lower demand for spaghetti contribute to higher prices.
+
+**Pork** (pork leg)
+
+- Overview:
+    - Russia: 4 items, no outliers.
+    - Vietnam: 8 items, no outliers.
+- Prices:
+    - Russia: Median price = 4.83 USD/kg (~ 437 RUB/kg; ~ 123200 VND/kg).
+    - Vietnam:
+        - Median price = 6.19 USD/kg (~ 560 RUB/kg; ~ 158000 VND/kg) (28% more expensive overall).
+        - The 3 cheapest items are priced at 5.23 and 5.68 USD/kg (~ 473 and 514 RUB/kg, ~ 133300 and 144900 VND/kg)
+- Key Observations:
+    - Despite being a common meat in Vietnam, pork leg is more expensive than in Russia, which could be due to factors like supply chain differences, or local market conditions.
+
+**Rice**
+
+- Overview:
+    - Russia: 101 items, 2 outliers.
+    - Vietnam: 67 items, 2 outliers.
+- Prices:
+    - Russia:
+        - Median = 2.49 USD/kg (~ 225 RUB/kg; ~ 63400 VND/kg).
+        - The 10% cheapest items are priced at 1.53 USD/kg or lower (~ 138 RUB/kg; ~ 39000 VND/kg).
+    - Vietnam:
+        - Median = 1.39 USD/kg (~ 126 RUB/kg; ~ 35400 VND/kg) (44% cheaper overall)
+        - The 10% cheapest items are priced at 0.84 USD/kg or lower (~ 76 RUB/kg; ~ 21500 VND/kg).
+- Outliers:
+    - Russia: the 1 cheapest rice for 0.614099 USD/ kg (~ 56 RUB, ~ 15700 VND/kg) and the 1 most expensive item (biriani rice) priced at 9.95 USD/kg (~ 900 RUB/kg, ~ 253700 VND/kg)
+    - Vietnam: the 2 most expensive items ("organic" rices) above 2.011678 USD/kg (~ 182 RUB/kg, 51300 VND/kg)
+- Key Observations:
+    - By median, rice in Vietnam is much cheaper than in Russia. However, the upper bound of the cheapest 10% in Russia is close to the median price in Vietnam, showing that that there are affordable options in Russia that are comparable to typical Vietnamese prices.
+    - Rice is cheaper in Vietnam likely due to its year-round tropical cultivation, lower labor costs, and larger-scale production compared to Russia’s smaller, seasonal rice farming.
+
+**Rice Noodles**
+
+- Overview:
+    - Russia: 5 items, no outliers.
+    - Vietnam: 16 items, no outliers.
+- Prices:
+    - Russia:
+        - Median = 8.17 USD/kg (~ 737 RUB/kg; ~ 207800 VND/kg)
+        - The cheapest item is priced at 7.05 USD/kg (~ 638 RUB/kg, ~ 179800 VND/kg)
+    - Vietnam: Median = 2.70 USD/kg (~ 244 RUB/kg; ~ 68800 VND/kg) (67% (3x) cheaper overall)
+- Key Observations:
+    - The significant price difference is likely due to local production in Vietnam, where rice noodles are a staple and commonly used in many dishes.
+    - In Russia, rice noodles are not common and are likely imported, leading to higher prices compared to locally produced options in Vietnam.
+
+**Salt**
+
+- Overview:
+    - Russia: 17 items, no outliers.
+    - Vietnam: 19 items, no outliers.
+- Prices:
+    - Russia:
+        - Median = 1.42 USD/kg (~ 129 RUB/kg; ~ 36300 VND/kg).
+        - The 3 cheapest items are priced at 0.15, 0.20, and 0.33 USD/kg (~ 14, 18, and 29 RUB/kg; ~ 3900, 5100, and 8300 VND/kg).
+    - Vietnam:
+        - Median = 0.32 USD/kg (~ 29 RUB/kg; ~ 8200 VND/kg) (77% (4.4x) cheaper)
+- Key Observations:
+    - By median, salt in Vietnam is much cheaper than in Russia. However, the prices of the cheapest items in Russia are similar to typical Vietnamese prices.
+    - The price difference is likely due to local production factors.
+
+**Soybean Oil**
+
+- Overview:
+    - Vietnam: 35 items, no outliers.
+- Prices:
+    - Vietnam: Median = 2.54 USD/l (~ 230 RUB/l; ~ 64900 VND/l).
+    - Russia: Not available.
+- Key Observations:
+    - Soybean oil is commonly available in Vietnam at a moderate price, but not present in the Russian dataset at the moment.
+
+**Sugar**
+
+- Overview:
+    - Russia: 23 items, 2 outliers.
+    - Vietnam: 20 items, 1 outlier.
+- Prices:
+    - Russia:
+        - Median = 1.45 USD/kg (~ 132 RUB/kg; ~ 37100 VND/kg).
+        - The 3 cheapest items: 0.66, 0.90 and 0.91 USD/kg (~ 60, 81 and 82 RUB/kg; ~ 16900, 22800 and 23100 VND/kg).
+    - Vietnam: Median = 1.22 USD/kg (~ 109 RUB/kg; ~ 31000 VND/kg) (16% cheaper overall)
+- Outliers:
+    - Russia: the 2 most expensive items (an imported sugarcane sugar and one with designer packaging) above 4.59 USD/kg (416 RUB/kg, 117100 VND/kg)
+    - Vietnam: the 1 most expensive sugar (a premium extra refined sugar) priced at 1.92 USD/kg (~ 174 RUB/kg, ~ 49000 VND/kg)
+- Key Observations:
+    - Sugar in Vietnam is cheaper by median, but the 3 cheapest options in Russia are actually cheaper than the cheapest options in Vietnam. Which means, the prices are comparable.
+
+**Sunflower Oil**
+
+- Overview:
+    - Russia: 29 items, no outliers.
+    - Vietnam: 9 items, no outliers.
+- Prices:
+    - Russia: Median = 1.76 USD/l (~ 159 RUB/l; ~ 44800 VND/l).
+    - Vietnam:
+        - Median = 3.24 USD/l (~ 293 RUB/l; ~ 82500 VND/l) (84% more expensive overall)
+        - The three cheapest options in Vietnam are priced at 2.667, 2.674 and 2.96 USD/l (~ 241, 242 and 268 RUB/l; ~ 68000, 68200 and 75600 VND/l).
+- Key Observations:
+    - In Russia, sunflower oil is a staple, which contributes to its lower price. In Vietnam, while sunflower oil is available, other types of oils are typically preferred, and sunflower oil is generally more expensive.
+    - Interestingly, some sunflower oils in Vietnam are imported from Russia, but their prices remain consistent with locally produced options, indicating that production costs in Vietnam are higher.
+
+**Tea (black)**
+
+- Overview:
+    - Russia: 270 items, with 20 outliers.
+    - Vietnam: 20 items, no outliers.
+- Prices:
+    - Russia:
+        - Median price = 23.28 USD/kg
+        - Standard package 25 tea bags x 2g - 1.16 USD/pack (~ 105 RUB/pack; ~ 29700 VND/pack)
+    - Vietnam:
+        - Median price = 32.08 USD/kg (38% more expensive overall)
+        - Standard package 25 tea bags x 2g - 1.60 USD/pack (~ 145 RUB/pack; ~ 40900 VND/pack)
+        - If comparing the cheapest locally produced varieties, the median price in Vietnam falls to 27.45 USD/kg (1.37 USD/pack, ~ 124 RUB/pack; ~ 35000 VND/pack) (still 18% more expensive)
+    - Price spread in Russia is significantly larger due to variety in raw materials and flavored options.
+- Outliers:
+    - Russia: include 9 cheapest teas below 7.60 USD/kg and 11 most expensive above 75.88 USD/kg
+- Key Observations:
+    - Black tea is a cultural staple in Russia, which may contribute to demand for a wide variety of flavors and price points. Imported raw tea is likely processed locally, keeping prices relatively low.
+    - Vietnam’s black tea market appears segmented into three groups: locally produced (cheaper), imported affordable (like Sri Lankan), and premium European imports (most expensive).
+    - Higher median prices in Vietnam may reflect the smaller demand and a preference for premium products over diverse, affordable options.
+
+**Tea (green)**
+
+- Overview:
+    - Russia: 72 items, 5 outliers.
+    - Vietnam: 61 items, 1 outlier.
+- Prices:
+    - Russia:
+        - Median price = 24.32 USD/kg
+        - Standard package 25 tea bags x 2g - 1.22 USD/pack (~ 110 RUB/pack; ~ 31000 VND/pack)
+    - Vietnam:
+        - Median price = 24.48 USD/kg
+        - Standard package 25 tea bags x 2g - 1.22 USD/pack (~ 111 RUB/pack; ~ 31200 VND/pack)
+    - Prices are nearly identical between the two countries.
+- Outliers:
+    - Russia: the 2 cheapest teas below 8.15 USD/kg (~ 737 RUB/kg, ~ 207700 VND/kg) and the 3 most expensive premium teas above 72.75 USD/kg (~ 6580 RUB/kg, ~ 1855100 VND/kg)
+    - Vietnam: 1 ultra-expensive tea priced at 277.44 USD/kg (~ 25090 RUB, ~ 7075000 VND/kg)
+- Key Observations:
+    - Green tea prices are similar in Russia and Vietnam, but product variety differs. Russia offers a mix of flavored tea bags, premium options, and loose-leaf tea, while Vietnam focuses on traditional loose-leaf tea.
+    - Russia’s variety reflects demand for diverse options, supported by imported tea processed domestically, whereas Vietnam prioritizes plain tea for everyday use or milk tea, with limited demand for premium products.
+
+**Tofu**
+
+- Overview:
+    - Russia: 5 items, no outliers.
+    - Vietnam: 9 items, no outliers.
+- Prices:
+    - Russia:
+        - Median = 6.99 USD/kg (~ 632 RUB/kg; ~ 178100 VND/kg).
+        - The cheapest item is priced at 5.75 USD/kg (~ 520 RUB/kg; ~ 146600 VND/kg).
+    - Vietnam: Median = 1.36 USD/kg (~ 123 RUB/kg; ~ 34700 VND/kg) (81% (5.1x) cheaper overall)
+- Key Observations:
+    - Tofu in Russia is notably more expensive than in Vietnam, likely due to its less common usage and potentially higher production or import costs in Russia.
+    - In Vietnam, tofu is more widely consumed and locally produced, which may contribute to its lower price.
+
+**Tomato**
+
+- Overview:
+    - Russia: 31 items, no outliers.
+    - Vietnam: 18 items, no outliers.
+- Prices:
+    - Overall:
+        - Russia: Median = 10.52 USD/kg (~ 952 RUB/kg; ~ 268400 VND/kg).
+        - Vietnam: Median = 1.87 USD/kg (~ 169 RUB/kg; ~ 47800 VND/kg) (82% (5.6x) cheaper overall)
+    - Cherry-like tomatoes are more expensive both in Russia and in Vietnam. If we separate this group:
+    - Regular tomatoes:
+        - Russia: Median = 5.59 USD/kg (~ 505 RUB/kg; ~ 142500 VND/kg).
+        - Vietnam: Median = 1.29 USD/kg (~ 117 RUB/kg; ~ 32900 VND/kg) (77% (4.3x) cheaper)
+    - Cherry-like tomatoes:
+        - Russia: Median = 13.53 USD/kg (~ 1224 RUB/kg; ~ 345000 VND/kg).
+        - Vietnam: Median = 2.99 USD/kg (~ 271 RUB/kg; ~ 76300 VND/kg) (78% (4.5x) cheaper)
+- Key Observations:
+    - Tomatoes are significantly more expensive in Russia. The difference in price can be attributed to a combination of factors, such as Russia's higher production or transportation costs, seasonal factors (as tomatoes are often grown in greenhouses during winter) and probably import costs.
+    - In Vietnam, tomatoes are generally cheaper, likely due to local production and favorable climate conditions.
+
+**Water**
+
+- Overview:
+    - Russia: 96 items, no outliers.
+    - Vietnam: 72 items, 6 outliers.
+- Prices:  
+    - Russia:
+        - Median = 0.61 USD/l (~ 55 RUB/l; ~ 15600 VND/l).
+        - The 10% cheapest items are priced at 0.27 USD/l or lower (~ 24 RUB/l; ~ 6800 VND/l).  
+    - Vietnam:
+        - Median = 0.37 USD/l (~ 34 RUB/l; ~ 9500 VND/l) (39% cheaper overall)
+        - The 10% cheapest items are priced at 0.23 USD/l or lower (~ 21 RUB/l; ~ 5900 VND/l).
+- Outliers:
+    - Vietnam: the 6 most expensive items (Evian - premium water) priced above 0.91 USD/l (~ 82 RUB/l, ~ 23200 VND/l) 
+- Key Observations:  
+    - Water in Vietnam is cheaper than in Russia by median price. However, at the lower end of the price spectrum, affordable options in both countries are comparable.  
+
+**Water Spinach**  
+
+- Overview:
+    - Vietnam: 11 items, no outliers.
+- Prices:  
+    - Vietnam: Median = 1.89 USD/kg (~ 171 RUB/kg; ~ 48200 VND/kg).  
+    - Not available in Russia.
+- Key Observations:  
+    - Water spinach is a common vegetable in Vietnam but is not typically found in Russian markets.
+
+**Yogurt**
+
+- Overview:
+    - Russia: 158 items, no outliers.
+    - Vietnam: 63 items, no outliers.
+- Prices:
+    - Russia:
+        - Median = 5.82 USD/kg (~ 527 RUB/kg; ~ 148500 VND/kg).
+        - The 10% cheapest items are priced at 3.14 USD/kg (~ 284 RUB/kg; ~ 80200 VND/kg) or lower.
+    - Vietnam: Median = 3.31 USD/kg (~ 300 RUB/kg; ~ 84500 VND/kg) (43% cheaper overall)
+- Key Observations:
+    - Yogurt is generally cheaper in Vietnam.
+    - Russia's 10% cheapest group lies below Vietnam's median, which means affordable and comparable options are available. But, actually, the other 90% are exactly higher than Vietnam's median, so generally, price difference is significant.
+    - Vietnam's lower prices likely reflect differences in production costs and simpler product offerings (Russia has a wider range of flavors and quality).
+
+---------------------------------------------------------------------------------------------
+
+**Cooking oils**
+- Prices:
+    - Russia:
+        - Sunflower Oil: Median = 1.76 USD/l (~159 RUB/l; ~44800 VND/l).
+    - Vietnam:
+        - Sunflower Oil: Median = 3.24 USD/l (~293 RUB/l; ~82500 VND/l).  
+        - Soybean Oil: Median = 2.54 USD/l (~230 RUB/l; ~64900 VND/l).
+- Affordability:
+    - In Russia, sunflower oil is a staple and significantly cheaper than oils in Vietnam.  
+    - In Vietnam, cooking oils are generally more expensive, with sunflower oil priced considerably higher than in Russia.  
+
+**Dairy Products**
+
+- Cheaper in Vietnam:  
+    - Yogurt (43% cheaper overall).  
+
+- More Expensive in Vietnam:  
+    - Milk (36% more expensive overall, though Vietnam’s cheapest options are comparable to Russia’s median).  
+
+- Key Observations:  
+  - Milk:  
+    - Milk is primarily locally produced in Russia, keeping prices relatively low. In Vietnam, milk prices are higher, likely due to a mix of local and imported products and smaller packaging sizes, which increase the price per liter.  
+    - While Vietnam offers some affordable options, the majority of products are priced higher than Russia’s median, reflecting a notable difference in affordability.  
+
+  - Yogurt:  
+    - Yogurt is significantly cheaper in Vietnam, likely due to simpler product offerings and lower production costs.  
+    - Russia’s wider variety of yogurt flavors and quality levels contributes to a higher median price, with most items exceeding Vietnam’s median.  
+  - These differences highlight how local production and product diversity impact the affordability of dairy products in each country.  
+
+
+**Drinks (Tea and Coffee)**
+
+- Cheaper in Vietnam:  
+    - Coffee (2x cheaper; median price 51% lower).  
+
+- Comparable Prices:  
+    - Green tea (nearly identical median prices, with slight variations in product variety).  
+
+- More Expensive in Vietnam:  
+    - Black tea (38% more expensive overall; locally produced varieties narrow the gap but remain 18% more expensive).  
+
+- Key Observations:  
+  - Tea:  
+    - Black tea is a cultural staple in Russia, leading to lower median prices and a wider variety, including flavored and affordable options. In Vietnam, black tea demand is smaller and segmented into local and imported categories, driving up the median price.  
+    - Green tea is priced similarly in both countries, but Russia’s offerings emphasize flavored tea bags and premium options, while Vietnam focuses on traditional loose-leaf tea for daily use or milk tea preparation.  
+
+  - Coffee:  
+    - Vietnam’s robust coffee industry allows for significantly lower prices and abundant availability of ground coffee. Russia’s reliance on imports contributes to higher prices, though some affordable options are available.
+
+**Fruit**  
+
+- Significantly Cheaper in Vietnam:  
+    - Mango (3.2x cheaper).  
+    - Banana (38% cheaper overall, or 25% for long bananas).
+    - Oranges (28% cheaper overall, but imported oranges in Russia are more affordable than imported oranges in Vietnam).  
+
+- Key Observations:  
+    - Fruit prices in Vietnam are generally lower, likely due to local production and lower transportation costs.  
+
+**Meat**
+
+- Cheaper in Vietnam:  
+    - Chicken (33% cheaper).  
+
+- More Expensive in Vietnam:  
+    - Pork (28% more expensive).
+
+- Key Observations:  
+    - Chicken is cheaper in Vietnam, likely due to local production and lower supply chain costs.  
+    - Pork is more expensive in Vietnam despite being a common meat, which could be due to factors like supply chain differences or local market conditions.  
+    - The limited sample sizes in both countries may affect the reliability of these conclusions.
+
+**Staples**
+
+- Cheaper in Vietnam:  
+    - Rice (44% cheaper overall, but some affordable options in Russia are comparable).
+    - Rice noodles (3x cheaper)
+
+- More Expensive in Vietnam:  
+    - Spaghetti (2.3x more expensive).
+    - Buckwheat (2.3x more expensive)
+
+- Key Observations:
+  - While basic staples are widely available and generally affordable in both Russia and Vietnam, the specific staples differ by country. In Vietnam, rice and rice noodles dominate as the most affordable and commonly consumed staples. In Russia, buckwheat and pasta (represented here by spaghetti) take on that role.  
+  - Rice is a staple in both countries. However, in Russia, it is slightly more expensive on average, likely due to higher production costs.  
+  - These differences highlight the cultural and agricultural contexts of each country, with staple foods reflecting local diets, availability, and production capabilities.
+
+**Vegetables**
+
+- Significantly Cheaper in Vietnam:  
+    - Tomatoes (regular: 4.3x cheaper, cherry-like: 4.5x cheaper).  
+    - Cucumbers (4.3x cheaper).  
+    - Eggplants (3.2x cheaper).
+- Comparable Prices:
+    - Carrots (price difference of only 3–5%).
+- More Expensive in Vietnam:  
+    - Cabbage (22% more expensive).  
+    - Onions  (32% more expensive, but Vietnam's cheapest options are on par).  
+- Unique to Vietnam:  
+    - Water spinach is a staple in Vietnam, priced similarly to other affordable vegetables, but it’s not available in Russia.  
+
+- Key Observations:  
+    - Vietnam’s favorable climate likely drives lower prices for most vegetables, reducing the need for costly greenhouse production.  
+    - Russia’s reliance on greenhouses and seasonal imports, especially during colder months, leads to higher prices for items like cucumbers, tomatoes, and eggplants.  
+    - Staple vegetables like cabbage and carrots have smaller price differences, reflecting their adaptability to both climates.

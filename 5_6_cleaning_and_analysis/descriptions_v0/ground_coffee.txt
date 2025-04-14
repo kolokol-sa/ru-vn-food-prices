@@ -1,0 +1,14 @@
+**Coffee** (ground)
+
+- Overview:
+    - Russia: 97 items, no outliers.
+    - Vietnam: 38 items, no outliers.
+- Prices:
+    - Russia:
+        - Median price = 26.21 USD/kg (~ 2371 RUB/kg; ~ 668300 VND/kg)
+        - The 10% of the cheapest items in Russia lie below 16.82 USD/kg (1522 RUB/kg, 429000 VND/kg)
+    - Vietnam: Median price = 12.96 USD/kg (~ 1172 RUB/kg; ~ 330400 VND/kg) (51% (2x) cheaper)
+- Key Observations:
+    - Ground coffee is significantly cheaper in Vietnam, likely due to local production, while in Russia it’s mostly imported.
+    - In Russia there are affordable coffees with prices comparable to Vietnam's median, but more than 90% of items are still significantly more expensive.
+    - Russia’s larger variety may contribute to the higher median price.

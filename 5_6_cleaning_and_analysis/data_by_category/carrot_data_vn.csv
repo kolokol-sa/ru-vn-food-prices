@@ -1,0 +1,6 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,carrot,Cà rốt (KG),0.9764286,False
+Vietnam,Co.op,carrot,Cà rốt nhỏ 400g – F (kg),2.8430150000000003,False
+Vietnam,Co.op,carrot,Cà rốt Coop Select kg (bịch),1.1724986,False
+Vietnam,Co.op,carrot,Cà rốt baby Coop Select 200g (vỉ),3.705723,False
+Vietnam,Co.op,carrot,Cà rốt Đà Lạt – Kg (kg),0.5842886,False

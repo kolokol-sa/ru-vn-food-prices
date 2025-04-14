@@ -1,0 +1,21 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,sugar,Đường mía thượng hạng Biên Hòa gói 500g (G1),1.3960184,False
+Vietnam,Winmart,sugar,Đường mía thượng hạng Biên Hòa gói 1kg (G1),1.2077912,False
+Vietnam,Winmart,sugar,Đường trắng cao cấp Biên Hòa Daily gói 1kg (G1),1.3646472,False
+Vietnam,Winmart,sugar,Đường túi Biên Hòa Pure 1kg (G1),1.2901406,False
+Vietnam,Co.op,sugar,Đường mía nguyên chất Coop Select 1kg (gói),1.3293546,False
+Vietnam,Co.op,sugar,Đường mía thượng hạng Biên Hòa 1kg (bịch),1.215634,False
+Vietnam,Co.op,sugar,Đường tinh luyện Biên Hòa hủ 800g (hộp),1.921486,True
+Vietnam,Co.op,sugar,Đường mía cao cấp Biên Hòa 1kg (bịch),1.1724986,False
+Vietnam,Co.op,sugar,Đường tinh luyện Biên Hòa 1kg (bịch),1.097992,False
+Vietnam,Co.op,sugar,Đường tinh luyện Biên Hòa 500g (bịch),1.2705336,False
+Vietnam,Co.op,sugar,Đường mía thượng hạng Biên Hòa 500g (bịch),1.3489616,False
+Vietnam,Co.op,sugar,Đường tinh luyện Quảng Ngãi 1 kg (bịch),1.17642,False
+Vietnam,Co.op,sugar,Đường kính trắng An Khê Ocop 1 kg (bịch),1.039171,False
+Vietnam,Co.op,sugar,Đường mía thiên nhiên Biên Hòa 1kg (bịch),1.3960184,False
+Vietnam,Co.op,sugar,Đường mía khoáng chất Biên Hòa 1kg (bịch),1.37249,False
+Vietnam,Co.op,sugar,Đường mía cao cấp Biên Hòa 500g (bịch),1.2862192000000001,False
+Vietnam,Co.op,sugar,Đường kính trắng RS Coop Happy 2kg – BH (bịch),1.019564,False
+Vietnam,Co.op,sugar,Đường tinh luyện RE Coop Select 1kg TP (bịch),1.1528916,False
+Vietnam,Co.op,sugar,Đường tinh luyện RE Coop Select 500g (bịch),1.215634,False
+Vietnam,Co.op,sugar,Đường trắng đồn điền TH 1kg (gói),1.117599,False

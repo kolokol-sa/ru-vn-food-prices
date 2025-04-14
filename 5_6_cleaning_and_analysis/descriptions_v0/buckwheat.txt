@@ -1,0 +1,14 @@
+**Buckwheat**
+
+- Overview:
+    - Russia: 32 items with 1 outlier.
+    - Vietnam: 1 item.
+- Prices:
+    - Russia: Median price = 1.81 USD/kg (~ 163 RUB/kg; ~ 46000 VND/kg)
+    - Vietnam: The only available item price = 4.20 USD/kg (~ 380 RUB/kg; 107000 VND/kg) (132% (2.3x) more expensive)
+- Outliers:
+    - Russia: 1 cheapest buckwheat priced at 0.42 USD/kg (~ 38 RUB/kg, ~ 10600 VND/kg)
+- Key Observations:
+    - In Russia, buckwheat is a dietary staple and widely available in various brands and packaging.
+    - In Vietnam, buckwheat is almost nonexistent in supermarkets and is considered a niche product, mostly imported from Russia. Its higher price reflects its rarity and import costs.
+    - The lack of buckwheat in Vietnamese supermarkets limits reliability of comparison.

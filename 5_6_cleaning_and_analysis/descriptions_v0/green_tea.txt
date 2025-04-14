@@ -1,0 +1,19 @@
+**Tea (green)**
+
+- Overview:
+    - Russia: 72 items, 5 outliers.
+    - Vietnam: 61 items, 1 outlier.
+- Prices:
+    - Russia:
+        - Median price = 24.32 USD/kg
+        - Standard package 25 tea bags x 2g - 1.22 USD/pack (~ 110 RUB/pack; ~ 31000 VND/pack)
+    - Vietnam:
+        - Median price = 24.48 USD/kg
+        - Standard package 25 tea bags x 2g - 1.22 USD/pack (~ 111 RUB/pack; ~ 31200 VND/pack)
+    - Prices are nearly identical between the two countries.
+- Outliers:
+    - Russia: the 2 cheapest teas below 8.15 USD/kg (~ 737 RUB/kg, ~ 207700 VND/kg) and the 3 most expensive premium teas above 72.75 USD/kg (~ 6580 RUB/kg, ~ 1855100 VND/kg)
+    - Vietnam: 1 ultra-expensive tea priced at 277.44 USD/kg (~ 25090 RUB, ~ 7075000 VND/kg)
+- Key Observations:
+    - Green tea prices are similar in Russia and Vietnam, but product variety differs. Russia offers a mix of flavored tea bags, premium options, and loose-leaf tea, while Vietnam focuses on traditional loose-leaf tea.
+    - Russia’s variety reflects demand for diverse options, supported by imported tea processed domestically, whereas Vietnam prioritizes plain tea for everyday use or milk tea, with limited demand for premium products.

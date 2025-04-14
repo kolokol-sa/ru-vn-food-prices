@@ -1,0 +1,12 @@
+**Mango**
+
+- Overview:
+    - Russia: 2 items, no outliers.
+    - Vietnam: 18 items, no outliers.
+- Prices:
+    - Russia: Median price = 6.05 USD/kg (~ 547 RUB/kg; ~ 154200 VND/kg)
+    - Vietnam: Median price = 1.88 USD/kg (~ 170 RUB/kg; ~ 48000 VND/kg) (69% (3.2x) cheaper)
+- Key Observations:
+    - Mango is significantly cheaper in Vietnam, likely due to local production.
+    - Russian mangoes are imported, which increases the cost compared to locally grown varieties in Vietnam.
+    - Russia's small sample size makes it difficult to draw conclusions about the variety of mango types or their specific price range.

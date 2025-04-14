@@ -1,0 +1,273 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Russia,Pyaterochka,black_tea,Чай Greenfield Kenyan Sunrise черный в пакетиках 100х2г (200 г),24.3226472,False
+Russia,Pyaterochka,black_tea,Чай черный Greenfield Golden Ceylon 100шт. (200 г),22.1114472,False
+Russia,Pyaterochka,black_tea,Чай черный Азерчай Букет 25х2г (25 шт),16.2501088,False
+Russia,Pyaterochka,black_tea,"Чай черный Curtis Blue Berries blues чёрная смородина, ежевика, черника и василёк 20х1.8г (20 шт)",34.39337333333333,False
+Russia,Pyaterochka,black_tea,Чай черный Greenfield Золотой Цейлон 25х2г (25 шт),30.954588800000003,False
+Russia,Pyaterochka,black_tea,Чай Tess Pleasure черный с шиповником и яблоком в пакетиках 25х1.5г (38 г),38.3245184,False
+Russia,Pyaterochka,black_tea,Чай черный Greenfield Earl Grey Fantasy с бергамотом 25х2г (25 шт),30.954588800000003,False
+Russia,Pyaterochka,black_tea,Чай черный Tess Forest Dream в пирамидках 20х1.8г (36 г),33.779151111111105,False
+Russia,Pyaterochka,black_tea,Чай Richard Lord Grey черный бергамот-лимон 25х2г (50 г),29.7163168,False
+Russia,Pyaterochka,black_tea,Чай черный Принцесса Нури Высокогорный 100х2г (100 шт),10.2262472,False
+Russia,Pyaterochka,black_tea,Чай Азерчай Букет черный байховый крупнолистовой 100г (100 г),21.5580944,False
+Russia,Pyaterochka,black_tea,Чай Greenfield Spring Melody черный в пакетиках 25х1.5г (45 г),31.2486784,False
+Russia,Pyaterochka,black_tea,Чай черный Лисма Насыщенный индийский 25х1.8г (25 шт),13.75612088888889,False
+Russia,Pyaterochka,black_tea,Чай Curtis Sunny Lemon черный в пакетиках 20х1.47г (34 г),35.34535510204081,False
+Russia,Pyaterochka,black_tea,Чай черный Tess Pleasure шиповник-яблоко 100х1.5г (100 шт),19.38411626666667,False
+Russia,Pyaterochka,black_tea,Чай Greenfield Earl Grey Fantasy черный с бергамотом 100х2г (200 г),25.262407200000002,False
+Russia,Pyaterochka,black_tea,Чай черный Greenfield Earl Grey Fantasy с бергамотом 100г (100 г),18.794094400000002,False
+Russia,Pyaterochka,black_tea,Чай черный Принцесса Нури Высокогорный 25х2г (25 шт),12.8227488,False
+Russia,Pyaterochka,black_tea,Чай черный Greenfield Золотой Цейлон листовой 100г (100 г),18.794094400000002,False
+Russia,Pyaterochka,black_tea,Чай черный Азерчай Букет 100х2г (100 шт),11.3318472,False
+Russia,Pyaterochka,black_tea,Чай черный Richard Royal ceylon байховый 100х2г (100 шт),16.3070472,False
+Russia,Pyaterochka,black_tea,Чай черный Майский Лесные ягоды 25х1.5г (37 г),21.460433066666667,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Charming Thyme с чабрецом 25х2г (25 шт),22.1097888,False
+Russia,Pyaterochka,black_tea,Чай черный Akbar Akbar Mountain Fresh 25х2г (25 шт),15.4761888,False
+Russia,Pyaterochka,black_tea,Чай Tess Санрайз черный в пакетиках 100х1.8г (180 г),18.57346577777778,False
+Russia,Pyaterochka,black_tea,Чай черный Richard Lord Grey с бергамотом 90г (90 г),17.934060444444448,False
+Russia,Pyaterochka,black_tea,Чай черный Ahmad Tea Earl Grey 25х2г (25 шт),29.7163168,False
+Russia,Pyaterochka,black_tea,Чай черный Ahmad Tea Mango Magic с ароматом манго 25х1.5г (25 шт),39.62175573333333,False
+Russia,Pyaterochka,black_tea,Чай Greenfield Золотой цейлон черный цейлонский листовой 200г (200 г),14.3722472,False
+Russia,Pyaterochka,black_tea,Чай Greenfield Kenyan Sunrise черный в пакетиках 25х2г (50 г),30.954588800000003,False
+Russia,Pyaterochka,black_tea,Чай черный Richard Royal Peach & Mint с ароматом персика и мяты 25х1.7г (25 шт),28.612928,False
+Russia,Pyaterochka,black_tea,Чай черный Richard Royal classic Эрл Грей с бергамотом 100х2г (100 шт),17.1362472,False
+Russia,Pyaterochka,black_tea,Чай Akbar Цейлон черный в пакетиках 100х2г (200 г),23.604007199999998,False
+Russia,Pyaterochka,black_tea,Чай Richard Роял Цейлон черный в сашетах 25х2г (50 г),24.320988800000002,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Mysterious Berry с ягодами и травами 25x1.5г (25 шт),29.4797184,False
+Russia,Pyaterochka,black_tea,Чай черный Принцесса Нури Магия бергамота 100х2г (100 шт),11.0554472,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Earl Grey 25х2г (25 шт),22.1097888,False
+Russia,Pyaterochka,black_tea,Чай Richard Королевский цейлон черный листовой 90г (90 г),17.934060444444448,False
+Russia,Pyaterochka,black_tea,Чай черный Ahmad Strawberry Cream с ароматом клубники со сливками 25х1.5г (25 шт),35.37625173333333,False
+Russia,Pyaterochka,black_tea,Чай черный Greenfield Spring Melody 100х1.5г (100 шт),27.241246933333333,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Magnetic Mint с мятой 25x2г (25 шт),23.436508800000002,False
+Russia,Pyaterochka,black_tea,Чай черный Майский Корона Российской Империи 200г (200 г),13.9300072,False
+Russia,Pyaterochka,black_tea,Чай черный Richard Royal Berries Selection лесные ягоды 25х1.7г (25 шт),39.01857505882354,False
+Russia,Pyaterochka,black_tea,Чай черный Майский Отборный Цейлон 25х2г (25 шт),16.0953248,False
+Russia,Pyaterochka,black_tea,Чай Азерчай Букет черный байховый крупнолистовой 200г (200 г),17.8548872,False
+Russia,Pyaterochka,black_tea,Чай черный Майский Корона Российской Империи цейлонский листовой 100г (100 г),16.0964304,False
+Russia,Pyaterochka,black_tea,Чай черный Ahmad Tea Earl Grey с ароматом бергамота 100х2г (100 шт),26.0031592,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Highborn Earl Grey с ароматом бергамота 100х2г (100 шт),16.0306472,False
+Russia,Pyaterochka,black_tea,Чай черный Принцесса Канди цейлонский 100х2г (100 шт),11.0554472,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Highborn Earl Grey с ароматом бергамота 100г (100 г),14.703374400000001,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Famous Ceylon 100г (100 г),14.703374400000001,False
+Russia,Pyaterochka,black_tea,Чай черный Ahmad Tea Классический листовой 200г (200 г),13.8194472,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Famous Ceylon 100х2г (100 шт),16.0306472,False
+Russia,Pyaterochka,black_tea,Чай черный Curtis Delicate Black 25х1.7г (25 шт),37.71786917647059,False
+Russia,Pyaterochka,black_tea,Чай Ahmad Tea Earl Grey черный 200г (200 г),21.0500712,False
+Russia,Pyaterochka,black_tea,Чай черный Richard Королевский английский завтрак 100x2г (100 шт),17.1362472,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Цейлонский 25х2г (50 г),22.1097888,False
+Russia,Pyaterochka,black_tea,Чай черный Принцесса Канди Медиум цейлонский 100г (100 г),9.9492944,False
+Russia,Pyaterochka,black_tea,Чай черный Dilmah Ceylon Orange Pekoe крупнолистовой 250г (250 г),16.344748159999998,False
+Russia,Pyaterochka,black_tea,Чай черный байховый индийский 100х1.6г (100 шт),7.600308999999998,False
+Russia,Pyaterochka,black_tea,Чай черный Beta Tea ОРА крупнолистовой 250г (250 г),14.59347776,False
+Russia,Pyaterochka,black_tea,Чай черный Майский Корона Российской Империи цейлонский 100х2г (100 шт),16.0306472,False
+Russia,Pyaterochka,black_tea,Чай черный Ahmad Tea Earl Grey с ароматом бергамота листовой 100г (100 мл),22.287790400000002,False
+Russia,Pyaterochka,black_tea,Чай черный Dilmah Ceylon Orange Pekoe крупнолистовой 100г (100 г),21.0495184,False
+Russia,Pyaterochka,black_tea,Чай Крепкие Традиции черный 25х2г (50 г),10.390428799999999,False
+Russia,Pyaterochka,black_tea,Чай черный Tess Banana Split 20х1.8г (20 шт),40.84270666666667,False
+Russia,Pyaterochka,black_tea,Чай черный Красная Цена 20х2г (40 г),7.183635999999999,True
+Russia,Pyaterochka,black_tea,Чай черный Крепкие традиции Цейлонский крупнолистовой 250г (250 г),7.07539776,True
+Russia,Pyaterochka,black_tea,Чай черный Tess Санрайз в пакетиках 25х1.8г (45 г),29.480209777777777,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Apple Orchard 100x1.5г (100 шт),22.111262933333332,False
+Russia,Pyaterochka,black_tea,Чай черный Assand Kenyan tea 100х2г (100 шт),16.0306472,False
+Russia,Pyaterochka,black_tea,Чай Красная цена черный мелколистовой 100г (100 г),3.3156943999999995,True
+Russia,Pyaterochka,black_tea,Чай черный Крепкие Традиции байховый 100х2г (200 г),9.9498472,False
+Russia,Pyaterochka,black_tea,Чай черный Akbar GFold цейлонский 25х2г (25 шт),21.048412799999998,False
+Russia,Pyaterochka,black_tea,Чай черный Akbar Limited Edition крупнолистовой 200г (200 г),13.4877672,False
+Russia,Pyaterochka,black_tea,Чай черный Ahmad Tea Английский завтрак 100х2г (100 шт),26.0031592,False
+Russia,Pyaterochka,black_tea,Чай черный Champion Pekoe цейлонский 100г (100 г),21.0052944,False
+Russia,Pyaterochka,black_tea,Чай черный Greenfield Fine Ceylon байховый цейлонский крупнолистовой 90г (90 г),23.339216,False
+Russia,Pyaterochka,black_tea,Чай черный Крепкие Традиции крупнолистовой 200г (200 г),7.1858472,True
+Russia,Pyaterochka,black_tea,Чай черный Dilmah Английский завтрак 100x2г (100 шт),26.622295199999996,False
+Russia,Pyaterochka,black_tea,Чай черный Beta tea Golden quality 100х1.5г (100 шт),33.16726293333333,False
+Russia,Pyaterochka,black_tea,Чай черный Принцесса Гита Индийский 100х2г (100 шт),9.9056232,False
+Russia,Pyaterochka,black_tea,Чай черный Curtis Tender Moments ароматизированный 100х1.5г (100 шт),25.79659626666667,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA English №1 с бергамотом, 100пак (100пак)",32.294576000000006,False
+Russia,Lenta,black_tea,"Чай черный ПРИНЦЕССА КАНДИ Цейлонский листовой, 200г (200г)",14.0234304,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA English Breakfast, 100пак (100пак)",35.8485272,False
+Russia,Lenta,black_tea,"Чай черный ПРИНЦЕССА НУРИ Солнце Цейлона листовой, 250г (250г)",16.60566976,False
+Russia,Lenta,black_tea,"Чай черный ПРИНЦЕССА НУРИ Высокогорный байховый листовой, 100пак (100пак)",18.853244000000004,False
+Russia,Lenta,black_tea,"Чай черный ПРИНЦЕССА НУРИ Высокогорный байховый, 100пак (100пак)",12.3379432,False
+Russia,Lenta,black_tea,"Чай черный ПРИНЦЕССА НУРИ Отборный, 100пак (100пак)",18.853244000000004,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Tea Earl Grey с бергамотом байховый, 100пак (100пак)",35.8485272,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Golden Ceylon, 25пак (25пак)",31.5073888,False
+Russia,Lenta,black_tea,"Чай черный 365 ДНЕЙ, 100пак (100пак)",5.4966746666666655,True
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Golden Ceylon листовой, 100г (100г)",22.0556144,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Earl Grey Fantasy с ароматом бергамота листовой, 100г (100г)",20.8947344,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Earl Grey Fantasy с ароматом бергамота, 25пак (25пак)",31.5073888,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Christmas Mystery, 25пак (25пак)",42.009851733333335,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA English Breakfast, 25пак (25пак)",41.429043199999995,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Tea Earl Grey с ароматом бергамота байховый, 25пак (25пак)",41.429043199999995,False
+Russia,Lenta,black_tea,"Чай черный DILMAH Цейлонский листовой, 100г (100г)",18.849374400000002,False
+Russia,Lenta,black_tea,"Чай черный DILMAH Цейлонский листовой, 250г (250г)",16.91523776,False
+Russia,Lenta,black_tea,"Чай черный DILMAH Цейлонский, 100пак (100пак)",26.185030400000002,False
+Russia,Lenta,black_tea,"Чай черный МАЙСКИЙ Отборный Цейлонский байховый листовой, 100пак (100пак)",18.7946472,False
+Russia,Lenta,black_tea,"Чай черный МАЙСКИЙ Корона Российской Империи Цейлонский байховый листовой, 200г (200г)",20.6570304,False
+Russia,Lenta,black_tea,"Чай черный AKBAR Красно-белая серия Ceylon байховый, 25пак (25пак)",16.292121599999998,False
+Russia,Lenta,black_tea,"Чай черный AKBAR Gold байховый, 25пак (25пак)",32.1198912,False
+Russia,Lenta,black_tea,"Чай черный МАЙСКИЙ Корона Российской Империи Цейлонский байховый листовой, 100пак (100пак)",18.7946472,False
+Russia,Lenta,black_tea,"Чай черный МАЙСКИЙ Корона Российской Империи Цейлонский байховый листовой, 25пак (25пак)",18.9919968,False
+Russia,Lenta,black_tea,"Чай черный МАЙСКИЙ Корона Российской Империи Цейлонский байховый листовой, 100г (100г)",18.6282544,False
+Russia,Lenta,black_tea,"Чай черный МАЙСКИЙ Отборный байховый, 25пак (25пак)",19.235228799999994,False
+Russia,Lenta,black_tea,"Чай черный ЛИСМА Крепкий, 25х2г (25пак)",16.0068768,False
+Russia,Lenta,black_tea,"Чай черный DILMAH Цейлонский, 25пак (25пак)",37.2565088,False
+Russia,Lenta,black_tea,"Чай черный ЗОЛОТАЯ ЧАША Лимон байховый, 20пак (20пак)",21.657475555555553,False
+Russia,Lenta,black_tea,"Чай черный ЛИСМА Крепкий Индийский байховый, 100пак (100пак)",11.0554472,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Spring Melody, 25пак (25пак)",42.009851733333335,False
+Russia,Lenta,black_tea,"Чай черный 365 ДНЕЙ байховый, 20пак (20пак)",6.464688888888889,True
+Russia,Lenta,black_tea,"Чай черный TESS Pleasure с добавками листовой, 100г (100г)",22.354126400000002,False
+Russia,Lenta,black_tea,"Чай черный TESS Sunrise листовой, 100г (100г)",22.354126400000002,False
+Russia,Lenta,black_tea,"Чай черный МАЙСКИЙ Лесные Ягоды байховый, 25х1,5г (25пак)",26.70834773333333,False
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА цейлонский, 25пак (25пак)",20.959964799999998,False
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА Earl Grеy с ароматом бергамота байховый, 25пак (25пак)",20.959964799999998,False
+Russia,Lenta,black_tea,"Чай черный ПРИНЦЕССА НУРИ Высокогорный байховый, 25пак (25пак)",21.4243168,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Golden Ceylon Цейлонский, 100пак (100пак)",26.621189599999997,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Earl Grey Fantasy с ароматом бергамота, 100пак (100пак)",26.5614872,False
+Russia,Lenta,black_tea,"Чай черный TESS Kenya, 25пак (25пак)",31.4410528,False
+Russia,Lenta,black_tea,"Чай черный ПРИНЦЕССА НУРИ Цейлонский Пекое крупнолистовой, 100г (100г)",25.0296784,False
+Russia,Lenta,black_tea,"Чай черный NEWBY Assam байховый, листовой, 100г (100г)",107.9054544,True
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Barberry Garden листовой, 100г (100г)",20.8947344,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Golden Ceylon листовой, 200г (200г)",24.6720168,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Earl Grey Fantasy с ароматом бергамота листовой, 200г (200г)",24.6720168,False
+Russia,Lenta,black_tea,"Чай черный HYLEYS Английский Аристократический байховый листовой, 250г (250г)",17.53437376,False
+Russia,Lenta,black_tea,"Чай черный HYLEYS Английский Аристократический байховый листовой, 500г (500г)",16.36818688,False
+Russia,Lenta,black_tea,"Чай черный HYLEYS Английский фаворит Индийский, листовой, 200г (200г)",22.635501599999998,False
+Russia,Lenta,black_tea,"Чай черный BASILUR Восточная коллекция Masala Chai Цейлонский байховый листовой, 100г (100г)",46.551288,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Цейлонский Оранж Пеко листовой, 200г (200г)",26.9429192,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Kenyan Sunrise листовой, 200г (200г)",23.3386632,False
+Russia,Lenta,black_tea,"Чай черный BASILUR Восточная Коллекция Волшебные Ночи Magic Night листовой, 100г (100г)",40.732515199999995,False
+Russia,Lenta,black_tea,"Чай черный HYLEYS Эрл Грей с ароматом бергамота байховый листовой, 200г (200г)",16.273879199999996,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Earl Grey байховый листовой ароматизированный, 100г (100г)",32.359806400000004,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA English Breakfast листовой, 100г (100г)",32.359806400000004,False
+Russia,Lenta,black_tea,"Чай черный AKBAR Gold цейлонский байховый, среднелистовой, 250г (250г)",21.445986559999998,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Summer Thyme с чабрецом байховый листовой, 100г (100г)",32.359806400000004,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Earl Grey с бергамотом байховый листовой, 200г (200г)",28.279589600000005,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA English Breakfast листовой, 200г (200г)",26.9429192,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Цейлонский Оранж Пеко листовой, 500г (500г)",23.98024288,False
+Russia,Lenta,black_tea,"Чай черный 365 ДНЕЙ байховый листовой, 200г (200г)",5.820431200000001,True
+Russia,Lenta,black_tea,"Чай черный 365 ДНЕЙ байховый, листовой, 100г (100г)",4.6545760000000005,True
+Russia,Lenta,black_tea,"Чай черный NEWBY Darjeeling байховый, 100г (100г)",149.0813152,True
+Russia,Lenta,black_tea,"Чай черный TESS Pleasure с ароматом тропических фруктов и растительными компонентами байховый, листовой, 200г (200г)",19.8449672,False
+Russia,Lenta,black_tea,"Чай черный TESS Санрайз байховый цейлонский, листовой, 200г (200г)",19.8449672,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Классический листовой, 200г (200г)",22.4652392,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Классический листовой, 500г (500г)",22.414492159999998,False
+Russia,Lenta,black_tea,"Чай черный RICHARD Royal Ceylon Цейлонский листовой, 90г (90г)",25.488993777777775,False
+Russia,Lenta,black_tea,"Чай черный ЛИСМА Индийский байховый, 25пак (25пак)",17.78541866666667,False
+Russia,Lenta,black_tea,"Чай черный АЗЕРЧАЙ байховый с чабрецом листовой, 100г (100г)",27.0087024,False
+Russia,Lenta,black_tea,"Чай черный АЗЕРЧАЙ Букет листовой, 100г (100г)",27.0087024,False
+Russia,Lenta,black_tea,"Чай черный АЗЕРЧАЙ с ароматом бергамота листовой, 100г (100г)",17.106948799999998,False
+Russia,Lenta,black_tea,"Чай черный RICHARD Lord Grey Цейлонский с ароматом бергамота и лимона, 
+листовой, 90г (90г)",25.488993777777775,False
+Russia,Lenta,black_tea,"Чай черный RICHARD Royal Ceylon Цейлонский листовой, 180г (180г)",24.16903022222222,False
+Russia,Lenta,black_tea,"Чай черный ЧАЙНАЯ ПЛАНТАЦИЯ с облепихой байховый листовой, 80г (80г)",21.820398,False
+Russia,Lenta,black_tea,"Чай черный ЧАЙНАЯ ПЛАНТАЦИЯ Таежный байховый листовой, 80г (80г)",21.820398,False
+Russia,Lenta,black_tea,"Чай черный ЧАЙНАЯ ПЛАНТАЦИЯ Миндальный пирог байховый листовой, 80г (80г)",21.820398,False
+Russia,Lenta,black_tea,"Чай черный ЧАЙНАЯ ПЛАНТАЦИЯ Дикая вишня с розой байховый листовой, 80г (80г)",21.820398,False
+Russia,Lenta,black_tea,"Чай черный ЧАЙНАЯ ПЛАНТАЦИЯ Груша с гранатом байховый листовой, 80г (80г)",21.820398,False
+Russia,Lenta,black_tea,"Чай черный ЧАЙНАЯ ПЛАНТАЦИЯ с клюквой байховый листовой, 80г (80г)",21.820398,False
+Russia,Lenta,black_tea,"Чай черный RICHARD Royal Love Цейлонский листовой, ж/б, 80г (80г)",74.28111799999999,False
+Russia,Lenta,black_tea,"Чай черный BASILUR Избранная классика Earl Grey, листовой, 100г (100г)",46.551288,False
+Russia,Lenta,black_tea,"Чай черный DOLCE ALBERO с ароматом ягод, 20пак (20пак)",40.730304,False
+Russia,Lenta,black_tea,"Чай черный AKBAR Limited Edition байховый, листовой, 200г (200г)",21.5299016,False
+Russia,Lenta,black_tea,"Чай черный СТАРИННЫЕ ГОРОДА РУСИ Москва байховый листовой, ж/б, 150г (150г)",42.67542293333333,False
+Russia,Lenta,black_tea,"Чай черный DOLCE ALBERO Orange Pekoe, листовой, 100г (100г)",19.7836064,False
+Russia,Lenta,black_tea,"Чай черный DOLCE ALBERO Earl Grey, листовой, 100г (100г)",19.7836064,False
+Russia,Lenta,black_tea,"Чай черный RICHARD Christmas Toy Новогодняя игрушка Микс, листовой, 20г (20г)",164.728872,True
+Russia,Lenta,black_tea,"Чай черный БОНТОН Счастливый день с ароматом земляники, крупнолистовой, 100г (100г)",58.04289440000001,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Классический, 100х2г (100пак)",28.279589600000005,False
+Russia,Lenta,black_tea,"Чай черный BONVIDA байховый, крупнолистовой, 400г (400г)",11.638927599999999,False
+Russia,Lenta,black_tea,"Чай черный ПРИНЦЕССА НУРИ Золото Шри-Ланки листовой, 200г (200г)",17.6061272,False
+Russia,Lenta,black_tea,"Чай черный AHMAD TEA Эрл грей, листовой, 500г (500г)",22.00121888,False
+Russia,Lenta,black_tea,"Чай черный ШАХ GOLD гранулированный, 230г (230г)",17.456462608695652,False
+Russia,Lenta,black_tea,"Чай черный КРАСНОДАРСКИЙ ГОСТ ЧАЙ РУЧНОЙ СБОР листовой, 100г (100г)",20.3972144,False
+Russia,Lenta,black_tea,"Чай черный КРАСНОДАРСКИЙ ГОСТ ЧАЙ РУЧНОЙ СБОР с лесными ягодами байховый, листовой, 100г (100г)",21.5580944,False
+Russia,Lenta,black_tea,"Чай черный КРАСНОДАРСКИЙ ГОСТ ЧАЙ РУЧНОЙ СБОР с бергамотом байховый, листовой, 100г (100г)",22.7742544,False
+Russia,Lenta,black_tea,"Чай черный AKBAR Голд байховый цейлонский, крупнолистовой, 250г (250г)",24.61021376,False
+Russia,Lenta,black_tea,"Чай черный КРАСНОДАРСКИЙ ГОСТ ЧАЙ РУЧНОЙ СБОР байховый, листовой, 40г (40г)",31.506836,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Спринг Мелоди байховый, листовой, 100г (100г)",20.8947344,False
+Russia,Lenta,black_tea,"Чай черный АЗЕРЧАЙ с ароматом бергамота, 25пак (25пак)",25.3690976,False
+Russia,Lenta,black_tea,"Чай черный GREENFIELD Кениан санрайз, 100г (100г)",23.391179199999996,False
+Russia,Lenta,black_tea,"Чай черный AKBAR крупнолистовой, 100г (100г)",24.3220944,False
+Russia,Lenta,black_tea,"Чай черный DILMAH Golden pekoe цейлонский, листовой, 100г (100г)",34.9126368,False
+Russia,Lenta,black_tea,"Чай черный DILMAH цейлонский со вкусом бергамота и ванили, листовой, 100г (100г)",30.2591664,False
+Russia,Lenta,black_tea,"Чай черный НЕОБЫЧАЙНЫЙ цейлонский, листовой, 400г (400г)",13.294563599999998,False
+Russia,Lenta,black_tea,"Чай черный НЕОБЫЧАЙНЫЙ Цейлонский с ароматом бергамота, крупнолистовой, 200г (200г)",18.1589272,False
+Russia,Lenta,black_tea,"Чай черный HYSON Маракуйя цейлонский c ароматом маракуйи и растительными компонентами, листовой, 100г (100г)",37.2465584,False
+Russia,Lenta,black_tea,"Чай черный HYSON Фруктовая фантазия цейлонский c ароматом вишни и растительными компонентами, листовой, 100г (100г)",37.2465584,False
+Russia,Lenta,black_tea,"Чай черный HYSON Саусеп цейлонский c ароматом саусепа и растительными компонентами, листовой, 100г (100г)",37.2465584,False
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА PREMIUM с чабрецом, 400г (400г)",16.0032836,False
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА PREMIUM Эрл Грей, 400г (400г)",12.512351599999999,False
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА PREMIUM Английский завтрак, 400г (400г)",12.512351599999999,False
+Russia,Lenta,black_tea,"Чай черный ШАХ Gold байховый цейлонский, листовой, 200г (200г)",33.985591199999995,False
+Russia,Lenta,black_tea,"Чай черный ПРИНЦЕССА КАНДИ Медиум, 250г (250г)",10.799500799999999,False
+Russia,Lenta,black_tea,Чай черный АЗЕРЧАЙ Байховый с аром. бергамота к/уп (250г),15.73401472,False
+Russia,Lenta,black_tea,Чай черный HILLTOP Цейлонское утро к/уп (50г),61.21486079999999,False
+Russia,Lenta,black_tea,"Чай черный ТРИ ДРУЖНЫХ СЛОНА, 100пак (100пак)",17.980372799999998,False
+Russia,Lenta,black_tea,"Чай черный SHENNUN Китайский с бергамотом, 200г (200г)",17.980372799999998,False
+Russia,Lenta,black_tea,"Чай черный RICHARD Royal English Breakfast листовой, 180г (180г)",26.89617688888889,False
+Russia,Lenta,black_tea,"Чай черный RICHARD Royal Kenya листовой, 180г (180г)",26.89617688888889,False
+Russia,Lenta,black_tea,"Чай черный BERNLEY Инглиш Классик Цейлонский, листовой, 100г (100г)",23.391179199999996,False
+Russia,Lenta,black_tea,"Чай черный ЗЕЛЕНАЯ ПАНДА Праздничный, листовой, 100г ()",29.9053744,False
+Russia,Lenta,black_tea,"Чай черный TEATALE Мелодия Рождества Снеговик, листовой, 50г (50г)",29.9595488,False
+Russia,Lenta,black_tea,"Чай черный ЗАВТРАК ИМПЕРАТОРА байховый цейлонский, листовой, 100г (100г)",18.042286400000002,False
+Russia,Lenta,black_tea,"Чай черный ЗОЛОТАЯ ЧАША Индийский байховый, 20пак (20пак)",18.423595555555554,False
+Russia,Lenta,black_tea,"Чай черный RICHE NATUR Bohemia с ароматом бергамота и айвы, листовой, 100г (100г)",80.6502032,True
+Russia,Lenta,black_tea,"Чай черный RICHE NATUR Felicity с цукатами ананаса и ароматом земляники, листовой, 100г (100г)",80.6502032,True
+Russia,Lenta,black_tea,"Чай черный RICHE NATUR Paradise с цукатами и ароматом манго и карамболы, листовой, 100г (100г)",80.6502032,True
+Russia,Lenta,black_tea,"Чай черный CURTIS Perfect Brunch, 100саш (100саш)",30.403349647058825,False
+Russia,Lenta,black_tea,"Чай черный TEATALE Сочные фрукты с ароматом бергамота, 100г (100г)",39.1371344,False
+Russia,Lenta,black_tea,"Чай черный TEATALE Сочные фрукты с ароматом апельсина и манго, 100г (100г)",38.407438400000004,False
+Russia,Lenta,black_tea,"Чай черный TEATALE Сочные фрукты с ароматом ананаса, 100г (100г)",38.4041216,False
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА Русский музей Земляника со сливками крупный листовой, 400г (400г)",14.549419599999998,False
+Russia,Lenta,black_tea,"Чай черный RICHARD Energy Tea, 20пак (20пак)",60.925063529411766,False
+Russia,Lenta,black_tea,"Чай черный NADIN Гранат, розмарин с ароматом граната, листовой, 100г (100г)",23.216494400000002,False
+Russia,Lenta,black_tea,"Чай черный МАСТЕР ТИМ Все в шоколаде, 24пак (48г)",49.86486333333334,False
+Russia,Lenta,black_tea,"Чай черный RICHARD Royal Postcards Tea Assortment Зима ассорти, 17,1г (17,1г)",130.5965754385965,True
+Russia,Lenta,black_tea,"Чай черный CURTIS Summer Vibe c чабрецом, мятой и ароматом цитрусовых,  100пак (100пак)",22.111262933333332,False
+Russia,Lenta,black_tea,"Чай черный WILLIAMS Black Crystal Премиум Пеко байховый цейлонский элитный, листовой, 100г (100г)",23.9351344,False
+Russia,Lenta,black_tea,"Чай черный WILLIAMS Violet Crystal байховый листовой с лепестками василька, шиповником и ароматом и кусочками манго, листовой, 100г (100г)",23.9351344,False
+Russia,Lenta,black_tea,"Чай черный WILLIAMS Azure Crystal цейлонский с лепестками подсолнечника и натуральными кусочками земляники, листовой, 100г (100г)",23.9351344,False
+Russia,Lenta,black_tea,"Чай черный WILLIAMS Purple Crystal байховый листовой с лепестками календулы и ароматом тропических фруктов, листовой, 100г (100г)",23.9351344,False
+Russia,Lenta,black_tea,"Чай черный WILLIAMS Assam Crystal индийский ассам с высоким содержанием чайных почек, листовой, 100г (100г)",23.9351344,False
+Russia,Lenta,black_tea,"Чай черный TEATALE Christmas Time байховый с ароматом сливы среднелистовой, 50г (50г)",29.9595488,False
+Russia,Lenta,black_tea,"Чай черный WILLIAMS Bright Crystal OPA отборный цейлонский, крупнолистовой, 100г (100г)",23.9351344,False
+Russia,Lenta,black_tea,"Чай черный TEATONE с ароматом барбариса, 15пак (15пак)",94.58612740740742,True
+Russia,Lenta,black_tea,"Чай черный BASILUR Винтажные цветы Жасминовая мечта, листовой, 75г (75г)",57.41307093333333,False
+Russia,Lenta,black_tea,"Чай черный NADIN с чабрецом, крупнолистовой, 50г (50г)",23.989308800000003,False
+Russia,Lenta,black_tea,"Чай черный ВЫБОР СЕМЬИ с чабрецом, 100пак (100пак)",8.014985777777778,False
+Russia,Lenta,black_tea,"Чай черный ВЫБОР СЕМЬИ с ароматом Бергамота, среднелистовой, 100г (100г)",10.2256944,False
+Russia,Lenta,black_tea,"Чай черный ВЫБОР СЕМЬИ с чабрецом, среднелистовой, 100г (100г)",10.115134399999999,False
+Russia,Lenta,black_tea,"Чай черный ВЫБОР СЕМЬИ с мятой, среднелистовой, 100г (100г)",10.115134399999999,False
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА крупнолистовой, 200г (200г)",10.4750072,False
+Russia,Lenta,black_tea,"Чай черный JOLLY в пакетиках для разовой заварки, 100пак (100пак)",17.456871200000002,False
+Russia,Lenta,black_tea,"Чай черный ВЫБОР СЕМЬИ байховый гранулированный, 180г (180г)",7.112079111111112,True
+Russia,Lenta,black_tea,"Чай черный ВЫБОР СЕМЬИ байховый гранулированный, 100г (100г)",8.1471664,False
+Russia,Lenta,black_tea,"Чай черный AKBAR Сливочная карамель, листовой, 100г (100г)",60.2839456,False
+Russia,Lenta,black_tea,"Чай черный AKBAR Грейпфрут и арбуз, листовой, 100г (100г)",60.2839456,False
+Russia,Lenta,black_tea,"Чай черный AKBAR Смородина и мята, листовой, 100г (100г)",60.2839456,False
+Russia,Lenta,black_tea,"Чай черный RICHARD Royal Moro orange&Passion flower, 25пак (25пак)",52.84768,False
+Russia,Lenta,black_tea,"Чай черный CURTIS Perfect Brunch листовой, 100г (100г)",25.136921599999997,False
+Russia,Lenta,black_tea,"Чай черный CURTIS Tender Moments листовой, 100г (100г)",26.067836800000002,False
+Russia,Lenta,black_tea,"Чай черный KIOKO с ароматом бергамота, 25пак (25пак)",75.877328,False
+Russia,Lenta,black_tea,"Чай черный ЛИСМА Садовые ягоды с чабрецом, 25пак (25пак)",17.68665173333333,False
+Russia,Lenta,black_tea,"Чай черный IN-STICK Top choice Ассорти 3 Апельсин-миндаль, трюфель-какао, амаретто, 12пак (12пак)",58.18680666666666,False
+Russia,Lenta,black_tea,"Чай черный NADIN С Праздником, крупнолистовой, 50г (50г)",34.271388800000004,False
+Russia,Lenta,black_tea,"Чай черный NADIN Счастливого Нового года! крупнолистовой, 50г (50г)",34.271388800000004,False
+Russia,Lenta,black_tea,"Чай черный МАЙСКИЙ Новогодний медальон, листовой, 20г (20г)",119.67567199999999,True
+Russia,Lenta,black_tea,"Чай черный TEATALE Новогодняя мечта Бодрящий бергамот, 50г (50г)",29.9595488,False
+Russia,Lenta,black_tea,"Чай черный TEATALE Мелодия Рождества Варежки, 50г (50г)",29.9595488,False
+Russia,Lenta,black_tea,"Чай черный TEATALE Время подарков, 50г (50г)",29.9595488,False
+Russia,Lenta,black_tea,"Чай черный ВКУСЫ МИРА Праздничный апельсин, листовой, 50г (50г)",53.9510688,False
+Russia,Lenta,black_tea,"Чай черный ВКУСЫ МИРА Альпийский глинтвейн, листовой, 50г (50г)",53.9510688,False
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА Русские узоры с ароматом клубника со сливками, 20пир (20пир)",80.84423600000001,True
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА Русские узоры Клубника со сливками, листовой, 85г (85г)",49.29545223529412,False
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА Русские узоры с облепихой и грушей, листовой, 85г (85г)",49.29545223529412,False
+Russia,Lenta,black_tea,"Чай черный ЛЕНТА Апельсиновый новый год ароматизированный с добавками растительного сырья, 20г (20г)",145.46931999999998,True
+Russia,Lenta,black_tea,"Чай черный TEATALE Garden Flowers Purple байховый с чабрецом, среднелистовой, 50г (50г)",32.3520672,False
+Russia,Lenta,black_tea,"Чай черный TEATALE Garden Flowers Pink с лесными ягодами байховый, среднелистовой, 50г (50г)",32.3520672,False
+Russia,Lenta,black_tea,"Чай черный МАЙСКИЙ Ароматный бергамот, 25пак (25пак)",28.860582400000002,False
+Russia,Lenta,black_tea,"Чай черный AKBAR Gold цейлонский крупнолистовой, 100г (100г)",32.3531728,False
+Russia,Lenta,black_tea,"Чай черный ПРИНЦЕССА НУРИ Высокогорный листовой, 100г (100г)",14.4380304,False
+Russia,Lenta,black_tea,"Чай черный ШАХ ГОЛД Индийский, 25пак (25пак)",23.524956800000002,False
+Russia,Lenta,black_tea,"Чай черный BONVIDA Английский Завтрак для заваривания в 
+чайнике, 20пак (20пак)",41.0719344,False

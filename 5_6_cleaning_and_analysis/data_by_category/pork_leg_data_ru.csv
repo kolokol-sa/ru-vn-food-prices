@@ -1,0 +1,5 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Russia,Pyaterochka,pork_leg,Окорок свиной бескостный охлажденный (Цена за 1 кг),3.31668944,False
+Russia,Lenta,pork_leg,Окорок свиной ЛЕНТА FRESH на кости (),4.539519893333333,False
+Russia,Lenta,pork_leg,"Окорок свиной ЛЕНТА FRESH бескостный, весовой ()",5.12102864,False
+Russia,Lenta,pork_leg,"Окорок из свинины, бескостный, вакуумная упаковка, весовой ()",5.1205864,False

@@ -1,0 +1,6 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Russia,Lenta,rice_noodles,"Лапша рисовая SEN SOY Premium Fo-Kho, 200г (200г)",9.310257599999998,False
+Russia,Lenta,rice_noodles,"Вермишель рисовая SEN SOY Premium Hu-Teu, 200г (200г)",8.728159199999999,False
+Russia,Lenta,rice_noodles,"Лапша рисовая AROY-D 10мм, 454г (454г)",7.049782907488988,False
+Russia,Lenta,rice_noodles,"Лапша рисовая PAN-ASIAN, 250г (250г)",7.451301760000001,False
+Russia,Lenta,rice_noodles,"Вермишель рисовая PAN-ASIAN, 200г (200г)",8.1477192,False

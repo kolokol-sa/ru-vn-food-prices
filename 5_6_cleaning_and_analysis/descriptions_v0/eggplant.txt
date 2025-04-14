@@ -1,0 +1,12 @@
+**Eggplant**
+
+- Overview:
+    - Russia: 2 items, no outliers.
+    - Vietnam: 2 items, no outliers.
+- Prices:
+    - Russia: Median price = 2.99 USD/kg (~ 271 RUB/kg; ~ 76300 VND/kg)
+    - Vietnam: Median price = 0.93 USD/kg (~ 84 RUB/kg; ~ 23700 VND/kg) (69% (3.2x) cheaper in Vietnam)
+- Key Observations:
+    - Eggplant is significantly cheaper in Vietnam compared to Russia.
+    - Vietnam's climate may favor the cultivation of eggplant, while in Russia, it might depend more on greenhouse production, especially during colder seasons, which increases costs.
+    - The limited sample size in both countries makes it challenging to draw broader conclusions.

@@ -1,0 +1,12 @@
+**Meat**
+
+- Cheaper in Vietnam:  
+    - Chicken (33% cheaper).  
+
+- More Expensive in Vietnam:  
+    - Pork (28% more expensive).
+
+- Key Observations:  
+    - Chicken is cheaper in Vietnam, likely due to local production and lower supply chain costs.  
+    - Pork is more expensive in Vietnam despite being a common meat, which could be due to factors like supply chain differences or local market conditions.  
+    - The limited sample sizes in both countries may affect the reliability of these conclusions.

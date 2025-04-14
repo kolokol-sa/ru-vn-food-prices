@@ -1,0 +1,9 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,cucumber,Dưa chuột baby WinEco gói 500g (KH),1.3254332,False
+Vietnam,Winmart,cucumber,Dưa chuột WinEco gói 500g (KH),1.2470052,False
+Vietnam,Winmart,cucumber,Dưa leo cocktail Globalgap 500g (KH),2.0312852,True
+Vietnam,Co.op,cucumber,Dưa leo Coop Select kg (kg),0.9372146,False
+Vietnam,Co.op,cucumber,Dưa leo kg – HN – CX (kg),1.137206,False
+Vietnam,Co.op,cucumber,Dưa leo – kg (kg),0.9097648,False
+Vietnam,Co.op,cucumber,Dưa leo giống Nhật Coop Select kg (kg),1.3685686000000001,False
+Vietnam,Co.op,cucumber,Dưa leo baby Coop Select (kg),1.1332846,False
