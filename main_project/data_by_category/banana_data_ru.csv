@@ -1,0 +1,5 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Russia,Pyaterochka,banana,Бананы Global Village (Цена за 1 кг),1.87940944,False
+Russia,Pyaterochka,banana,Бананы Красная Цена фасованные (Цена за 1 кг),1.87940944,False
+Russia,Lenta,banana,"Бананы, весовые ()",1.9783790666666665,False
+Russia,Lenta,banana,"Бананы, фасованные, весовые ()",1.862067314285714,False

@@ -1,0 +1,15 @@
+**Pasta** (spaghetti)
+
+- Overview:
+    - Russia: 22 items, 1 outlier.
+    - Vietnam: 19 items, no outliers.
+- Prices:
+    - Russia: Median = 1.84 USD/kg (~ 167 RUB/kg; ~ 47000 VND/kg).
+    - Vietnam:
+        - Median = 4.20 USD/kg (~ 380 RUB/kg; ~ 107000 VND/kg) (128% (2.3x) more expensive overall)
+        - The 3 cheapest items: 2.88, 3.06 and 3.08 USD/kg (~ 260, 277 and 279 RUB/kg; ~ 73400, 78000 and 78600 VND/kg).
+- Outliers:
+    - Russia: the 1 most expensive item (imported Italian spaghetti) priced at 8.46 USD/kg (~ 765 RUB/kg, ~ 215700 VND/kg)
+- Key Observations:
+    - Spaghetti is much more expensive in Vietnam by median, with even cheapest options priced significantly higher than Russian median.
+    - In Russia, local production lowers costs, while in Vietnam, imports and lower demand for spaghetti contribute to higher prices.

@@ -1,0 +1,6 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Russia,Pyaterochka,tofu,Тофу VegaNova Классический 250г (250 г),5.7486777600000005,False
+Russia,Lenta,tofu,"Продукт белковый РОССОЯ Тофу натуральный, 120г (120г)",8.245012,False
+Russia,Lenta,tofu,"Продукт соевый REGALIO VEGAN Тофу Классический, 200г (200г)",6.9868392,False
+Russia,Lenta,tofu,"Тофу VEG`S Оригинальный, 250г (250г)",6.27936576,False
+Russia,Lenta,tofu,"Тофу ЛЕНТА LIFE, 120г (120г)",8.733318666666667,False

@@ -1,0 +1,19 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,mango,Xoài cát chu (KG),2.1528486,False
+Vietnam,Winmart,mango,Xoài tứ quý (KG),1.803844,False
+Vietnam,Winmart,mango,Xoài dài giống Đài Loan (KG),1.097992,False
+Vietnam,Winmart,mango,Xoài cát hòa lộc (KG),3.097906,False
+Vietnam,Winmart,mango,Xoài giống Úc (KG),1.9567786,False
+Vietnam,Winmart,mango,Xoài keo (KG),0.9764286,False
+Vietnam,Winmart,mango,Xoài keo bao vàng (KG),1.5646386,False
+Vietnam,Co.op,mango,Xoài cát Cần Giờ Coop Select M kg (kg),3.490046,False
+Vietnam,Co.op,mango,Xoài giống úc kg (kg),1.5646386,False
+Vietnam,Co.op,mango,Xoài xanh giống Thái (kg),2.1097132,False
+Vietnam,Co.op,mango,Xoài cát Hòa Lộc L2 – kg (kg),3.509653,False
+Vietnam,Co.op,mango,Xoài cát chu – kg (kg),1.9959926000000001,False
+Vietnam,Co.op,mango,Xoài giống Đài Loan L1 kg (kg),0.725459,False
+Vietnam,Co.op,mango,Xoài cát chu da vàng – kg (kg),2.1528486,False
+Vietnam,Co.op,mango,Xoài keo vàng (kg),0.568603,False
+Vietnam,Co.op,mango,Xoài Tứ Quý (kg),1.4077826,False
+Vietnam,Co.op,mango,Xoài cát Hòa Lộc L1 – kg (kg),3.9959066,False
+Vietnam,Co.op,mango,Xoài keo (kg),0.6235026,False

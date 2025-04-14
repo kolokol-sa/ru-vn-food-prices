@@ -1,0 +1,14 @@
+**Yogurt**
+
+- Overview:
+    - Russia: 158 items, no outliers.
+    - Vietnam: 63 items, no outliers.
+- Prices:
+    - Russia:
+        - Median = 5.82 USD/kg (~ 527 RUB/kg; ~ 148500 VND/kg).
+        - The 10% cheapest items are priced at 3.14 USD/kg (~ 284 RUB/kg; ~ 80200 VND/kg) or lower.
+    - Vietnam: Median = 3.31 USD/kg (~ 300 RUB/kg; ~ 84500 VND/kg) (43% cheaper overall)
+- Key Observations:
+    - Yogurt is generally cheaper in Vietnam.
+    - Russia's 10% cheapest group lies below Vietnam's median, which means affordable and comparable options are available. But, actually, the other 90% are exactly higher than Vietnam's median, so generally, price difference is significant.
+    - Vietnam's lower prices likely reflect differences in production costs and simpler product offerings (Russia has a wider range of flavors and quality).

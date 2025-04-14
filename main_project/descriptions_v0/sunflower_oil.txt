@@ -1,0 +1,13 @@
+**Sunflower Oil**
+
+- Overview:
+    - Russia: 29 items, no outliers.
+    - Vietnam: 9 items, no outliers.
+- Prices:
+    - Russia: Median = 1.76 USD/l (~ 159 RUB/l; ~ 44800 VND/l).
+    - Vietnam:
+        - Median = 3.24 USD/l (~ 293 RUB/l; ~ 82500 VND/l) (84% more expensive overall)
+        - The three cheapest options in Vietnam are priced at 2.667, 2.674 and 2.96 USD/l (~ 241, 242 and 268 RUB/l; ~ 68000, 68200 and 75600 VND/l).
+- Key Observations:
+    - In Russia, sunflower oil is a staple, which contributes to its lower price. In Vietnam, while sunflower oil is available, other types of oils are typically preferred, and sunflower oil is generally more expensive.
+    - Interestingly, some sunflower oils in Vietnam are imported from Russia, but their prices remain consistent with locally produced options, indicating that production costs in Vietnam are higher.

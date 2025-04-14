@@ -1,0 +1,9 @@
+**Water Spinach**  
+
+- Overview:
+    - Vietnam: 11 items, no outliers.
+- Prices:  
+    - Vietnam: Median = 1.89 USD/kg (~ 171 RUB/kg; ~ 48200 VND/kg).  
+    - Not available in Russia.
+- Key Observations:  
+    - Water spinach is a common vegetable in Vietnam but is not typically found in Russian markets.

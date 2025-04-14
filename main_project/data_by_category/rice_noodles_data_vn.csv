@@ -1,0 +1,17 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,rice_noodles,Bún khô Safoco gói 400g (G1),2.9116395,False
+Vietnam,Winmart,rice_noodles,Bún tươi Safoco gói 300g (G1),2.849550666666667,False
+Vietnam,Co.op,rice_noodles,Bún gạo khô WAIWAI 500g (10x50g) (bịch),3.6469020000000003,False
+Vietnam,Co.op,rice_noodles,Bún bò huế Minh Hảo 400g – KM (gói),2.3038225,False
+Vietnam,Co.op,rice_noodles,Bún tươi sấy Nuffam 400g (bịch),2.6959625000000003,False
+Vietnam,Co.op,rice_noodles,Bún gạo Nàng Hương Bình Tây – 300g (bịch),2.4835533333333335,False
+Vietnam,Co.op,rice_noodles,Bún gạo xào Sa Đéc Sa Giang 400g (bịch),2.274412,False
+Vietnam,Co.op,rice_noodles,Bún tươi Safaco 300g (bịch),2.8103366666666667,False
+Vietnam,Co.op,rice_noodles,Bún khô Safoco 400g (gói),2.823408,False
+Vietnam,Co.op,rice_noodles,Phở khô Hùng Lô Thiên Nhiên Xanh 500g – MB (gói),2.7606656000000003,False
+Vietnam,Co.op,rice_noodles,Bún khô wai wai 500g (gói),3.6469020000000003,False
+Vietnam,Co.op,rice_noodles,Bún tươi Mikiri sợi lớn 400g (gói),2.6959625000000003,False
+Vietnam,Co.op,rice_noodles,Bún gạo Coop Select 300g (gói),1.8953433333333334,False
+Vietnam,Co.op,rice_noodles,Bún khô Coop Select 250g (gói),1.9920712,False
+Vietnam,Co.op,rice_noodles,Bún khô Coop Select 400g (gói),1.9508965,False
+Vietnam,Co.op,rice_noodles,Bún gạo Coop Select 500g (gói),1.686202,False

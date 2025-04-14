@@ -1,0 +1,67 @@
+/* ---------------------------------------------------
+	Owl carousel - Slider
+-------------------------------------------------- */
+
+jQuery(document).ready(function($) {
+	jQuery( ".search-header-w .icon-search" ).click(function() {
+		jQuery('#sosearchpro .search').slideToggle(200);
+		jQuery(this).toggleClass('active');
+	});
+});
+
+jQuery(document).ready(function ($) {
+	intOwl2();	
+});
+
+function intOwl2() {
+	"use strict";
+	// Content slider
+	$('.yt-content-slider').each(function () {
+		var $slider = $(this);
+		var $panels = $slider.children('div');
+		var data = $slider.data();
+		// Remove unwanted br's
+		// $slider.children(':not(.yt-content-slide)').remove();
+		// Apply Owl Carousel
+		$slider.owlCarousel2({
+			responsiveClass: true,
+			mouseDrag: true,
+			video: true,
+			lazyLoad: (data.lazyload == 'yes') ? true : false,
+			autoplay: (data.autoplay == 'yes') ? true : false,
+			autoWidth: (data.autowidth == 'yes') ? true : false,
+			autoHeight: (data.autoheight == 'yes') ? true : false,
+			autoplayTimeout: data.delay * 1000,
+			smartSpeed: data.speed * 1000,
+			autoplayHoverPause: (data.hoverpause == 'yes') ? true : false,
+			center: (data.center == 'yes') ? true : false,
+			loop: (data.loop == 'yes') ? true : false,
+			dots: (data.pagination == 'yes') ? true : false,
+			nav: (data.arrows == 'yes') ? true : false,
+			dotClass: "owl2-dot",
+			dotsClass: "owl2-dots",
+			margin: data.margin,
+			navText: ['', ''],
+			responsive: {
+				0: {
+					items: data.items_column4
+				},
+				480: {
+					items: data.items_column3
+				},
+				767: {
+					items: data.items_column2
+				},
+				991: {
+					items: data.items_column1
+				},
+				1199: {
+					items: data.items_column0
+				},
+				1400: {
+					items: data.items_column0
+				},
+			}
+		});
+	});
+}

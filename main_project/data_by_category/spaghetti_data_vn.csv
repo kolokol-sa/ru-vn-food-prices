@@ -1,0 +1,20 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,spaghetti,Mì Ý Angel Hair Barilla hộp 500g (G1),5.921314,False
+Vietnam,Winmart,spaghetti,Mì Spaghettini n.3 Barilla hộp 500g (G1),5.921314,False
+Vietnam,Winmart,spaghetti,Mì Spaghetti Barilla số 5 hộp 500g (G1),5.921314,False
+Vietnam,Winmart,spaghetti,Mì Ý spaghetti số 3 Pasta Zara gói 500g (G1),2.8783076,False
+Vietnam,Winmart,spaghetti,Mì spaghetti số 25 Santa Lucia gói 500g (G1),3.3802468,False
+Vietnam,Winmart,spaghetti,Mì sợi tròn spaghetti Golden Farm gói 500g (G1),3.0822204,False
+Vietnam,Winmart,spaghetti,Mì Spaghetti Olivoilà sợi N.5 500g (HOP),3.7096444,False
+Vietnam,Winmart,spaghetti,Mì Ý Agnesi Spaghettini N’2 500g (G1),4.862536,False
+Vietnam,Winmart,spaghetti,Mì Ý Agnesi Spaghettini N’3 500g (G1),4.862536,False
+Vietnam,Winmart,spaghetti,Mì Ý Ottogi 500g (G1),3.3645612000000003,False
+Vietnam,Co.op,spaghetti,Mì spaghetti Pietro Coricelli 500g – KM (gói),4.195898,False
+Vietnam,Co.op,spaghetti,Mì ý Spaghetti Panzani 400g (bịch),4.254719,False
+Vietnam,Co.op,spaghetti,Mì Angel Hair San Remo N9 500g – CX – F (bịch),3.2390764,False
+Vietnam,Co.op,spaghetti,Mì spaghetti San Remo số 5 gói 500g (gói),3.2077052,False
+Vietnam,Co.op,spaghetti,Mì Spaghetti N5 Olivoila 500g (hộp),4.195898,False
+Vietnam,Co.op,spaghetti,Mì Bucatini PASTA ZARA s7 500g (gói),4.156684,False
+Vietnam,Co.op,spaghetti,Mì Spaghetti Barilla N5 500g (hộp),5.591916400000001,False
+Vietnam,Co.op,spaghetti,Mì Spaghetti Barilla N1 500g (hộp),5.6938728,False
+Vietnam,Co.op,spaghetti,Mì spaghetti Golden Farm 500g (gói),3.058692,False

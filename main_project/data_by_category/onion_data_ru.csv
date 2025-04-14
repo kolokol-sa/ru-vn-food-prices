@@ -1,0 +1,7 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Russia,Pyaterochka,onion,Лук репчатый (Цена за 1 кг),0.66324944,False
+Russia,Pyaterochka,onion,Лук-репка Выгодно в сетке (Цена за 1 кг),0.53610544,False
+Russia,Lenta,onion,"Лук репчатый, фасованный, весовой ()",0.8147534933333332,False
+Russia,Lenta,onion,"Лук репчатый, весовой ()",0.6401424,False
+Russia,Lenta,onion,"Лук репчатый, 500г (500г)",2.09599648,False
+Russia,Lenta,onion,"Лук репчатый отборный, 1кг (1000г)",1.39736784,False

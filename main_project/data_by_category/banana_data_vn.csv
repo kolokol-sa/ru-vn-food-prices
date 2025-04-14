@@ -1,0 +1,10 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,banana,Chuối cau (KG),0.8980006,False
+Vietnam,Winmart,banana,Chuối dole (KG),1.5646386,False
+Vietnam,Winmart,banana,Chuối sứ (KG),0.8195726,False
+Vietnam,Winmart,banana,Chuối Fesepia (KG),1.4469966,False
+Vietnam,Co.op,banana,Chuối sáp sống kg (kg),1.156813,False
+Vietnam,Co.op,banana,Chuối cau (kg),0.6235026,False
+Vietnam,Co.op,banana,Chuối sứ – kg (kg),0.7529088,False
+Vietnam,Co.op,banana,Chuối vàng Laha giống Philippin kg – Bảo Phương (kg),1.3685686000000001,False
+Vietnam,Co.op,banana,Chuối Coop Select L1 kg (kg),1.2509266,False

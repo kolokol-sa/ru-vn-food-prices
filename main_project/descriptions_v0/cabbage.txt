@@ -1,0 +1,11 @@
+**Cabbage**
+
+- Overview:
+    - Russia: 3 items, no outliers (but 1 notable item: a "new harvest" cabbage).
+    - Vietnam: 3 items, no outliers.
+- Prices:
+    - Russia: Median price = 0.57 USD/kg (~ 52 RUB/kg; ~ 14700 VND/kg)
+    - Vietnam: Median price = 0.62 USD/kg (~ 56 RUB/kg; ~ 15900 VND/kg) (8% more expensive overall)
+    - Without "new harvest" cabbage, which is significantly more expensive, Russian median price falls to 0.51 USD/kg (~ 46 RUB/kg; ~ 13000 VND/kg), making the difference more notable (22% more expensive)
+- Key Observations:
+    - The small sample sizes in both countries make it challenging to draw solid conclusions, but overall cabbage in Russia seems notably cheaper than in Vietnam.

@@ -1,0 +1,14 @@
+**Staples**
+
+- Cheaper in Vietnam:  
+    - Rice (44% cheaper overall, but some affordable options in Russia are comparable).
+    - Rice noodles (3x cheaper)
+
+- More Expensive in Vietnam:  
+    - Spaghetti (2.3x more expensive).
+    - Buckwheat (2.3x more expensive)
+
+- Key Observations:
+  - While basic staples are widely available and generally affordable in both Russia and Vietnam, the specific staples differ by country. In Vietnam, rice and rice noodles dominate as the most affordable and commonly consumed staples. In Russia, buckwheat and pasta (represented here by spaghetti) take on that role.  
+  - Rice is a staple in both countries. However, in Russia, it is slightly more expensive on average, likely due to higher production costs.  
+  - These differences highlight the cultural and agricultural contexts of each country, with staple foods reflecting local diets, availability, and production capabilities.

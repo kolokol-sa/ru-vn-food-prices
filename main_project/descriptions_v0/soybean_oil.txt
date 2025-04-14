@@ -1,0 +1,9 @@
+**Soybean Oil**
+
+- Overview:
+    - Vietnam: 35 items, no outliers.
+- Prices:
+    - Vietnam: Median = 2.54 USD/l (~ 230 RUB/l; ~ 64900 VND/l).
+    - Russia: Not available.
+- Key Observations:
+    - Soybean oil is commonly available in Vietnam at a moderate price, but not present in the Russian dataset at the moment.
