@@ -1,8 +1,0 @@
-country,supermarket,product_category,product_name,normalized_price,is_outlier
-Russia,Pyaterochka,carrot,Морковь мытая упаковка 1кг (1 кг),1.13865744,False
-Russia,Pyaterochka,carrot,Морковь мини 250г (250 г),3.8912697599999997,False
-Russia,Pyaterochka,carrot,Морковь целая очищенная в вакууме 500г (500 г),2.27731488,False
-Russia,Lenta,carrot,"Морковь мытая, 1кг (1000г)",0.8733134399999999,False
-Russia,Lenta,carrot,"Морковь мытая, весовая ()",0.9320208,False
-Russia,Lenta,carrot,"Морковь мытая, 600г (600г)",1.3578610666666666,False
-Russia,Lenta,carrot,"Морковь, весовая ()",0.40730304,False

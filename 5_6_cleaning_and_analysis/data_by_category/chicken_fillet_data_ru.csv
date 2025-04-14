@@ -1,9 +1,0 @@
-country,supermarket,product_category,product_name,normalized_price,is_outlier
-Russia,Pyaterochka,chicken_fillet,Филе куриное охлажденное (Цена за 1 кг),3.64836944,True
-Russia,Pyaterochka,chicken_fillet,Филе грудки цыплёнка Петелинка охлаждённое (Цена за 1 кг),4.97508944,False
-Russia,Lenta,chicken_fillet,"Филе грудки куриное ЛЕНТА FRESH, весовое ()",5.8198783999999995,False
-Russia,Lenta,chicken_fillet,"Филе куриное ПЕТЕЛИНКА, весовое ()",5.761171040000001,False
-Russia,Lenta,chicken_fillet,"Филе грудки куриное ПЕРВАЯ СВЕЖЕСТЬ, весовое ()",5.470385955555556,False
-Russia,Lenta,chicken_fillet,"Филе куриное ТРОЕКУРОВО, 900г (900г)",5.561045155555556,False
-Russia,Lenta,chicken_fillet,"Филе куриное ПЕТЕЛИНКА, 550г (550г)",6.120802618181818,False
-Russia,Lenta,chicken_fillet,"Филе куриной грудки НАША ПТИЧКА малое, 450г (450г)",5.748874311111111,False

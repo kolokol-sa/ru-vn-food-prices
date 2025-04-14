@@ -1,5 +1,0 @@
-country,supermarket,product_category,product_name,normalized_price,is_outlier
-Vietnam,Winmart,onion,Hành tây (KG),1.0548566,False
-Vietnam,Co.op,onion,Hành tây baby 300g – F (kg),2.4835533333333335,True
-Vietnam,Co.op,onion,Củ hành tây Coop Select kg – TNX (túi),0.9764286,False
-Vietnam,Co.op,onion,Hành tây Đà Lạt kg (kg),0.7019306000000001,False
