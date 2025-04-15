@@ -3,3 +3,4 @@ A comparison of grocery prices between Russia and Vietnam using scraped data fro
 
 - explain why I chose those categories
 - expain how I filtered products (e.g. that I excluded drinking yogurt or pickled cucumbers)
+- mention website structure (how the products are requested to be displayed on the website)
