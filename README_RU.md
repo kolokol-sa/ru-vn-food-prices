@@ -10,9 +10,9 @@
 > *2) пролистывайте слайды и наводите мышь на элементы графиков, чтобы узнать больше*
 
 Чтобы **вникнуть в детали**, обратитесь к подробным описаниям в ноутбуках (Jupyter Notebooks):
-- Сбор данных: [Пятерочка](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/1_scraping_pyaterochka/scraping_pyaterochka.ipynb), [Лента](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/2_scraping_lenta/scraping_lenta.ipynb), [Winmart](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/3_scraping_winmart/scraping_winmart.ipynb), [Co.op](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/4_scraping_coop/scraping_coop.ipynb)
-- [Объединение и очистка данных](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/5_6_cleaning_and_analysis/aggregation_and_cleaning.ipynb)
-- [Анализ](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/5_6_cleaning_and_analysis/analysis.ipynb)
+- Сбор данных: [Пятерочка](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/9abfec621802c6b0f894cf5416a99793d1f585d8/1_scraping_pyaterochka/scraping_pyaterochka.ipynb), [Лента](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/9abfec621802c6b0f894cf5416a99793d1f585d8/2_scraping_lenta/scraping_lenta.ipynb), [Winmart](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/9abfec621802c6b0f894cf5416a99793d1f585d8/3_scraping_winmart/scraping_winmart.ipynb), [Co.op](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/9abfec621802c6b0f894cf5416a99793d1f585d8/4_scraping_coop/scraping_coop.ipynb)
+- [Объединение и очистка данных](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/9abfec621802c6b0f894cf5416a99793d1f585d8/5_6_cleaning_and_analysis/aggregation_and_cleaning.ipynb)
+- [Анализ](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/9abfec621802c6b0f894cf5416a99793d1f585d8/5_6_cleaning_and_analysis/analysis.ipynb)
 > *Совет: чтобы сделать код интерактивным, нажмите "Execute on Binder" в верхнем правом углу*
 
 👇 **В описании ниже** можно узнать больше об идее проекта, выборе продуктов для анализа и структуре файлов.
