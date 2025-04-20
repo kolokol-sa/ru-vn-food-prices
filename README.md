@@ -1,5 +1,7 @@
 # Grocery Price Comparison: Russia vs. Vietnam
 
+[Описание на русском языке](README_RU.md)
+
 This project explores grocery prices in **four supermarket chains** — *Pyaterochka* and *Lenta* in Russia, *WinMart* and *Co.op* in Vietnam — across 31 everyday product categories.
 It compares costs between the two countries and presents the results through structured analysis and interactive visualizations.  
 
@@ -43,7 +45,7 @@ To ensure fair comparisons, I applied basic filtering rules within each category
 These filtering decisions improved consistency without overcomplicating the analysis.
 
 ## 🗂️ Repository Structure
-| | _Note: `4_scraping_coop` also contains a sample HTML file used to extract categories._ | |
+
 The project is organized by workflow stage — from scraping data to cleaning, analysis, and insights. Here's a breakdown of what each part contains:
 
 | **Workflow Step**           | **Files & Folders** | **Description** |
