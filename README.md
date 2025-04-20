@@ -1,11 +1,22 @@
-### Grocery Price Comparison: Russia vs. Vietnam
+# Grocery Price Comparison: Russia vs. Vietnam
 
-Goal:  
-This project compares grocery prices across Russian and Vietnamese supermarkets, focusing on 31 everyday product categories. It aims to explore price differences, visualize cost disparities, and practice data collection, cleaning, and analysis — making it a comprehensive portfolio project for data analytics.
+This project explores grocery prices in **four supermarket chains** — *Pyaterochka* and *Lenta* in Russia, *WinMart* and *Co.op* in Vietnam — across 31 everyday product categories.
+It compares costs between the two countries and presents the results through structured analysis and interactive visualizations.  
 
-👉  View the Project Summary and Visualizations in Tableau [here](https://public.tableau.com/views/GroceryPricesRussiavs_Vietnam/Final?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) (Tableau Public)
+To **explore the results**, view the [interactive Tableau Story](https://public.tableau.com/views/GroceryPricesRussiavs_Vietnam/Final?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).  
+> *Tips:*  
+> *1) click "See this in full screen" button at the bottom right corner*  
+> *2) click through slides and hover over elements to see more detail*  
 
-### Project Motivation
+To **follow the process**, see the core notebooks:
+- Scraping: [Pyaterochka](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/1_scraping_pyaterochka/scraping_pyaterochka.ipynb), [Lenta](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/2_scraping_lenta/scraping_lenta.ipynb), [Winmart](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/3_scraping_winmart/scraping_winmart.ipynb), [Co.op](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/4_scraping_coop/scraping_coop.ipynb)
+- [Aggregation & Cleaning](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/5_6_cleaning_and_analysis/aggregation_and_cleaning.ipynb)
+- [Analysis](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/main/5_6_cleaning_and_analysis/analysis.ipynb)
+> *Tip: to make the code interactive, click "Execute on Binder" button at the top right corner of the notebook.*
+
+👇 **See the sections below** for more background on the project’s motivation, product selection approach, and detailed repository structure.
+
+## 🧠 Project Motivation
 
 As someone who moved from Russia to Vietnam, I'm personally familiar with the difference in grocery prices between the two countries. While I had a general sense of the price gap, I was curious to quantify it and present the results in a clear, visual, and shareable format.
 
@@ -14,65 +25,33 @@ The project also served as a portfolio piece to sharpen my practical skills in:
 - **Python** for web scraping and automation
 - **pandas** for data cleaning and transformation
 - **Jupyter Notebook** for documenting the workflow
-- **Tableau** Public for building interactive visualizations
+- **Tableau** for building interactive visualizations
 - Data storytelling and communication
 
-### Product Selection Criteria
+## 🧃 Product Selection & Filtering
 
-To reflect a realistic picture of grocery prices, I selected 31 categories of essential food items that are widely available and consumed in both Russia and Vietnam.
+To reflect a realistic picture of grocery prices, I selected **31 categories** of essential food items that are widely available and consumed in both Russia and Vietnam.
 
-While some categories represent universal staples (e.g., milk, eggs, rice), others highlight region-specific preferences, such as buckwheat for Russia and water spinach for Vietnam. These choices help capture both overlap and cultural variety in grocery shopping habits.
+While many categories cover universal staples (e.g., milk, eggs, rice), a few represent region-specific preferences — for example, buckwheat buckwheat for Russia and water spinach for Vietnam. These choices aim to balance overlap with cultural variety.
 
-### Filtering Rules per Category
+To ensure fair comparisons, I applied basic filtering rules within each category, based on typical product availability and consumer expectations:
 
-To ensure fair comparisons, I applied simple filtering rules within each category, based on product availability and typical consumer expectations:
+- **Chicken**: Only **chicken fillet** was included — a standard cut available in both countries that reasonably represents overall chicken pricing.
+- **Milk**: Only **plain milk** was used, excluding flavored or sweetened versions (common in Vietnam), to focus on the base product.
+- **Green Tea**: Included **all loose-leaf green tea products**, even flavored blends. While the inclusion criteria were somewhat subjective, I considered all such items as fulfilling a similar role in everyday tea consumption.
 
-- **Chicken:** Only chicken fillet was included — a standard cut available in both countries that reasonably represents overall chicken pricing.
-- **Milk:** Only plain milk was used, excluding flavored or sweetened versions (commonly found in Vietnam) to focus on the base product.
-- **Green Tea:** Included all loose-leaf green tea products, including flavored variations. While the definition is somewhat subjective, I considered all loose tea blends containing green tea as part of the same category, since they serve the same purpose for most consumers.
+These filtering decisions improved consistency without overcomplicating the analysis.
 
-These filtering decisions helped improve consistency without overcomplicating the analysis.
+## 🗂️ Repository Structure
+| | _Note: `4_scraping_coop` also contains a sample HTML file used to extract categories._ | |
+The project is organized by workflow stage — from scraping data to cleaning, analysis, and insights. Here's a breakdown of what each part contains:
 
-### Repository Structure
-
-The project is organized into folders corresponding to each stage of the workflow — from data collection to analysis and final insights:
-
-📁 1_scraping_pyaterochka/
-📁 2_scraping_lenta/
-📁 3_scraping_winmart/
-📁 4_scraping_coop/
-
-Each of these folders contains:
-- `categories-*.csv` — list of categories found on the supermarket site  
-- `scraped_products-*.csv` — raw scraped product data  
-- `filtered_products-*.csv` — filtered list with relevant items only  
-- `scraping_*.ipynb` — scraping code used for that supermarket  
-> *Note: `4_scraping_coop/` also includes a sample HTML file used to extract category data.*
-
-📁 5_6_cleaning_and_analysis/
-
-Contains cleaned data, analysis notebooks, and summary outputs:
-- `aggregation_and_cleaning.ipynb` — cleaning and preprocessing steps  
-- `analysis.ipynb` — exploratory analysis  
-- `category-comparison.csv` — **final price comparison results** with median prices by country, category, and calculated VN/RU price ratios  
-- `category_reports_v0/` — full written insights by category  
-- `category_reports_v1/` — key points used in visualization  
-- `data_by_category/` — per-category CSVs, including item lists and summary stats  
-- `data_general_summary/` — overall stats (e.g., item counts by country, category, supermarket)  
-- `clean_products-2025-03-12-local.csv` — final cleaned product list with prices in local currencies  
-- `clean_products-2025-03-12-usd.csv` — same as above, with all prices converted to USD  
-- `filtered_products-2025-03-03-pyaterochka.csv`  
-  `filtered_products-2025-03-04-lenta.csv`  
-  `filtered_products-2025-03-06-winmart.csv`  
-  `filtered_products-2025-03-07-coop.csv`  
-  — consolidated filtered product lists from folders 1–4  
-
-### Visualization
-
-The final results are presented as a **Tableau Story**, showcasing key insights and price differences between Russia and Vietnam.  
-It highlights the most and least expensive categories, relative affordability, and other notable patterns observed in the data.
-
-👉 [**View the Tableau Story**](https://public.tableau.com/views/GroceryPricesRussiavs_Vietnam/Final?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-### About the Author
-I’m a self-driven data enthusiast working on portfolio projects to deepen my understanding of real-world data analysis. This project reflects my curiosity, analytical mindset, and attention to detail.
+| **Workflow Step**           | **Files & Folders** | **Description** |
+|-----------------------------|----------------------|----------------|
+| 🛒 Data Scraping | [`1_scraping_pyaterochka`](1_scraping_pyaterochka/)<br>[`2_scraping_lenta`](2_scraping_lenta/)<br>[`3_scraping_winmart`](3_scraping_winmart/)<br>[`4_scraping_coop`](4_scraping_coop/)<br> | |
+| | Each folder includes:<br>• `categories-*.csv`<br>• `scraped_products-*.csv`<br>• `filtered_products-*.csv`<br>• `scraping_*.ipynb` | <br>– product categories from the supermarket site<br>– full scraped product data<br>– filtered relevant items<br>– notebook documenting scraping and filtering |
+| 🧼 Aggregation & Cleaning | [`5_6_cleaning_and_analysis`](5_6_cleaning_and_analysis/) | |
+| | 4 x `filtered_products-*.csv`<br><br>[`aggregation_and_cleaning.ipynb`](5_6_cleaning_and_analysis/aggregation_and_cleaning.ipynb)<br><br>[`clean_products-2025-03-12-local.csv`](5_6_cleaning_and_analysis/clean_products-2025-03-12-local.csv)<br>[`clean_products-2025-03-12-usd.csv`](5_6_cleaning_and_analysis/clean_products-2025-03-12-usd.csv) | – consolidated filtered product lists from folders 1–4<br>– notebook documenting cleaning and preparation for analysis<br><br>– final cleaned product list (local currencies)<br><br>– same, converted to USD |
+| 📊 Exploratory Analysis | [`5_6_cleaning_and_analysis`](5_6_cleaning_and_analysis/) | |
+| | [`analysis.ipynb`](5_6_cleaning_and_analysis/analysis.ipynb)<br>[`data_general_summary`](5_6_cleaning_and_analysis/data_general_summary/)<br><br>[`data_by_category`](5_6_cleaning_and_analysis/data_by_category/)<br><br>[`category-comparison.csv`](5_6_cleaning_and_analysis/category-comparison.csv)<br><br>[`category_reports_v0`](5_6_cleaning_and_analysis/category_reports_v0/)<br>[`category_reports_v1`](5_6_cleaning_and_analysis/category_reports_v1/) | – exploratory data analysis notebook<br>– item counts by country, supermarket, category + full list of analyzed products<br>– item lists & summary stats (median, min, max, etc.) per category<br>– summary table of median prices and VN/RU price ratios by category & country<br>– detailed insights and observations per category<br>– condensed key points used in the visualization | 
+| 📈 Visualization | Available in [Tableau Public](https://public.tableau.com/views/GroceryPricesRussiavs_Vietnam/Final?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
