@@ -10,9 +10,9 @@
 > *2) пролистывайте слайды и наводите мышь на элементы графиков, чтобы узнать больше*
 
 Чтобы **вникнуть в детали**, обратитесь к подробным описаниям в ноутбуках (Jupyter Notebooks):
-- Сбор данных: [Пятерочка](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/1b06bd7963979fe4e7b9de66e154ae5690131a01/1_scraping_pyaterochka/scraping_pyaterochka.ipynb), [Лента](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/1b06bd7963979fe4e7b9de66e154ae5690131a01/2_scraping_lenta/scraping_lenta.ipynb), [Winmart](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/1b06bd7963979fe4e7b9de66e154ae5690131a01/3_scraping_winmart/scraping_winmart.ipynb), [Co.op](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/1b06bd7963979fe4e7b9de66e154ae5690131a01/4_scraping_coop/scraping_coop.ipynb)
-- [Объединение и очистка данных](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/1b06bd7963979fe4e7b9de66e154ae5690131a01/5_6_cleaning_and_analysis/aggregation_and_cleaning.ipynb)
-- [Анализ](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/1b06bd7963979fe4e7b9de66e154ae5690131a01/5_6_cleaning_and_analysis/analysis.ipynb)
+- Сбор данных: [Пятерочка](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/94a9c8af83cbf5ec62a682516ce566e22d209b89/1_scraping_pyaterochka/scraping_pyaterochka.ipynb), [Лента](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/94a9c8af83cbf5ec62a682516ce566e22d209b89/2_scraping_lenta/scraping_lenta.ipynb), [Winmart](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/94a9c8af83cbf5ec62a682516ce566e22d209b89/3_scraping_winmart/scraping_winmart.ipynb), [Co.op](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/94a9c8af83cbf5ec62a682516ce566e22d209b89/4_scraping_coop/scraping_coop.ipynb)
+- [Объединение и очистка данных](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/94a9c8af83cbf5ec62a682516ce566e22d209b89/5_6_cleaning_and_analysis/aggregation_and_cleaning.ipynb)
+- [Анализ](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/94a9c8af83cbf5ec62a682516ce566e22d209b89/5_6_cleaning_and_analysis/analysis.ipynb)
 > *Совет: чтобы сделать код интерактивным, нажмите "Execute on Binder" в верхнем правом углу*
 
 👇 **В описании ниже** можно узнать больше об идее проекта, выборе продуктов для анализа и структуре файлов.
@@ -22,7 +22,6 @@
 Как человек, переехавший из России во Вьетнам, я представляю себе разницу в ценах на продукты между ними. Но мне было интересно измерить эту разницу более точно и показать результаты в форме, которая будет понятной и наглядной для всех.
 
 Также этот проект - часть моего портфолио аналитика данных, и он помог прокачать практические навыки:
-The project also served as a portfolio piece to sharpen my practical skills in:
 
 - **Python** для скрейпинга и автоматизации
 - **pandas** для очистки и обработки данных
