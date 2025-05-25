@@ -1,0 +1,4 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Russia,Pyaterochka,cabbage,Капуста белокочанная (Цена за 1 кг),0.44212944000000004,False
+Russia,Lenta,cabbage,"Капуста белокочанная, весовая ()",0.57480144,False
+Russia,Lenta,cabbage,"Капуста белокочанная новый урожай, весовая ()",1.1640739555555555,False

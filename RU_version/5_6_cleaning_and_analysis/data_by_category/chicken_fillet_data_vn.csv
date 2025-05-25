@@ -1,0 +1,11 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,chicken_fillet,Fillet gà CP khay 500g (G1),3.9919852000000002,False
+Vietnam,Winmart,chicken_fillet,UNITEK Ức gà Fillet không da công nghiệp (KG),3.9174786,False
+Vietnam,Winmart,chicken_fillet,3F Phi lê ức gà không da (KG),4.1919766,False
+Vietnam,Winmart,chicken_fillet,Ức gà Slim & Fit 3F (KG),4.6233306,False
+Vietnam,Co.op,chicken_fillet,Phi lê gà công nghiệp Coop Select 500g – JF (vỉ),3.5763168000000003,False
+Vietnam,Co.op,chicken_fillet,File gà công nghiệp 500g – Leboucher (vỉ),3.842972,False
+Vietnam,Co.op,chicken_fillet,Ức gà file CN kg-KU (kg),3.842972,False
+Vietnam,Co.op,chicken_fillet,Ức gà không da Ba Huân 500g (cái),3.5292600000000003,False
+Vietnam,Co.op,chicken_fillet,Ức gà có xương BH 500g (cái),2.431268,False
+Vietnam,Co.op,chicken_fillet,File ức gà vĩ 500g – CP (vỉ),3.9214,False

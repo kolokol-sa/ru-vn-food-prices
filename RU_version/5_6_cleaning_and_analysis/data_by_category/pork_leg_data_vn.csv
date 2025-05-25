@@ -1,0 +1,9 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,pork_leg,MEATDELI Thịt đùi heo (S) (KG),5.6821086,False
+Vietnam,Winmart,pork_leg,MEATDELI Thịt Nạc đùi heo (S) (KG),5.9566066,False
+Vietnam,Co.op,pork_leg,PREORDER – Thịt đùi heo 500g hút chân không – Vissan (túi),6.431096,False
+Vietnam,Co.op,pork_leg,Nạc đùi heo CP 300g (vĩ),5.228533333333334,False
+Vietnam,Co.op,pork_leg,Nạc đùi heo Vissan (kg),6.9408780000000005,False
+Vietnam,Co.op,pork_leg,Thịt đùi heo 300g – CP (vỉ),6.797093333333334,False
+Vietnam,Co.op,pork_leg,Thịt đùi heo Vissan kg (kg),6.8232360000000005,False
+Vietnam,Co.op,pork_leg,Thịt đùi heo chuẩn ngon (S) kg (kg),5.6821086,False

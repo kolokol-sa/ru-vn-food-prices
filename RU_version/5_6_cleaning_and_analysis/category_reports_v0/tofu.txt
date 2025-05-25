@@ -1,0 +1,13 @@
+**Tofu**
+
+- Overview:
+    - Russia: 5 items, no outliers.
+    - Vietnam: 9 items, no outliers.
+- Prices:
+    - Russia:
+        - Median = 6.99 USD/kg (~ 632 RUB/kg; ~ 178100 VND/kg).
+        - The cheapest item is priced at 5.75 USD/kg (~ 520 RUB/kg; ~ 146600 VND/kg).
+    - Vietnam: Median = 1.36 USD/kg (~ 123 RUB/kg; ~ 34700 VND/kg) (81% (5.1x) cheaper overall)
+- Key Observations:
+    - Tofu in Russia is notably more expensive than in Vietnam, likely due to its less common usage and potentially higher production or import costs in Russia.
+    - In Vietnam, tofu is more widely consumed and locally produced, which may contribute to its lower price.

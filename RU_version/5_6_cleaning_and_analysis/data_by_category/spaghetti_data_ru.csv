@@ -1,0 +1,23 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Russia,Pyaterochka,spaghetti,Спагетти Шебекинские №2 тонкие 450г (450 г),1.5721631999999999,False
+Russia,Pyaterochka,spaghetti,Макароны Makfa Спагетти 450г (450 г),1.5721631999999999,False
+Russia,Pyaterochka,spaghetti,Макароны Barilla Спагетти n.5 450г (450 г),2.7023320888888893,False
+Russia,Pyaterochka,spaghetti,Макароны Baisad спагетти 450г (450 г),1.4247498666666667,False
+Russia,Pyaterochka,spaghetti,"Спагетти Зерница высший сорт, 500г (500 г)",1.21593888,False
+Russia,Pyaterochka,spaghetti,"Спагетти Trattoria di Maestro Turatti, 450г (450 г)",2.3337987555555553,False
+Russia,Pyaterochka,spaghetti,Спагетти Красная цена 400г (400 г),0.5801636,False
+Russia,Pyaterochka,spaghetti,Спагетти Liguori №3 450г (450 г),3.685087644444445,False
+Russia,Lenta,spaghetti,"Макароны PASTA ZARA Спагетти, 500г (500г)",2.6766576,False
+Russia,Lenta,spaghetti,"Макароны DE CECCO Спагетти №12, 500г (500г)",8.45761888,True
+Russia,Lenta,spaghetti,"Макароны 365 ДНЕЙ Спагетти, группа В высший сорт, 400г (400г)",0.6492636,False
+Russia,Lenta,spaghetti,"Макароны AIDA Спагетти группа А высший сорт, 500г (500г)",1.8618304,False
+Russia,Lenta,spaghetti,"Макароны AMERIA Спагетти №3, группа В высший сорт, 900г (900г)",1.2406060444444447,False
+Russia,Lenta,spaghetti,"Макароны GRANMULINO Premium Спагетти, 400г (400г)",2.9710236,False
+Russia,Lenta,spaghetti,"Макароны безглютеновые FEDERICI Спагетти, 400г (400г)",5.8207076,False
+Russia,Lenta,spaghetti,"Макароны ШЕБЕКИНСКИЕ Спагеттини №001, 450г (450г)",1.9652654222222223,False
+Russia,Lenta,spaghetti,"Макароны GRAND DI PASTA Спагетти, 450г (450г)",2.5600782222222227,False
+Russia,Lenta,spaghetti,"Макароны MAKFA Спагетти, вермишель длинная, 450г (450г)",1.8424209777777774,False
+Russia,Lenta,spaghetti,"Макароны MARCO PANATTI Спагетти группа А высший сорт, 800г (800г)",1.2505718,False
+Russia,Lenta,spaghetti,"Макароны ЛЕНТА Спагетти группа А, высший сорт, 450г (450г)",1.552508088888889,False
+Russia,Lenta,spaghetti,"Макароны MARCO PANATTI Спагетти, 400г (400г)",2.6199955999999998,False
+Russia,Lenta,spaghetti,"Макароны ВЫБОР СЕМЬИ Спагетти группа В, 400г (400г)",1.1661316,False

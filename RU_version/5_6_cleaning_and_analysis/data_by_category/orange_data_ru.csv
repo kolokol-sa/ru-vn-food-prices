@@ -1,0 +1,10 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Russia,Pyaterochka,orange,Апельсины (Цена за 1 кг),1.6582894400000001,False
+Russia,Pyaterochka,orange,Апельсины фасованные (Цена за 1 кг),1.6582894400000001,False
+Russia,Pyaterochka,orange,Апельсины Global Village отборные (Цена за 1 кг),2.58699344,False
+Russia,Lenta,orange,"Апельсины, весовые ()",1.7457424000000001,False
+Russia,Lenta,orange,"Апельсины для сока, фасованные, весовые ()",2.094981929411765,False
+Russia,Lenta,orange,"Апельсины красные, с красной мякотью, весовые ()",3.2593088,False
+Russia,Lenta,orange,"Апельсины отборные Навел, фасованные, весовые ()",3.2591924210526315,False
+Russia,Lenta,orange,"Апельсины с красной мякотью, весовые ()",2.9099391999999997,False
+Russia,Lenta,orange,"Апельсины отборные Навел, весовые ()",2.3282356571428573,False

@@ -1,0 +1,21 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,black_tea,Trà đen Cozy hương dâu hộp 50g (HOP),29.096788,False
+Vietnam,Winmart,black_tea,Trà Cozy hương đào hộp 50g (HOP),29.096788,False
+Vietnam,Winmart,black_tea,Trà Ceylon Dilmah hương bạc hà hộp 30g (HOP),64.04953333333333,False
+Vietnam,Winmart,black_tea,Trà Dilmah Ceylon Gold – hộp 50g/ 25 túi lọc (HOP),33.72404,False
+Vietnam,Winmart,black_tea,Trà đen hảo hạng túi lọc VINATEA hộp 50g (HOP),25.959668,False
+Vietnam,Winmart,black_tea,Trà hoa cúc mật ong Vinatea hộp 40g (HOP),43.233435,False
+Vietnam,Co.op,black_tea,Trà Twinings English Breakfast 100g (hộp),71.36948,False
+Vietnam,Co.op,black_tea,Trà túi lọc Cozy bạc hà hộp giấy 25 gói x 2g – CX (hộp),31.606484000000002,False
+Vietnam,Co.op,black_tea,Trà túi lọc Twinings Lady Grey 25x2g – CX – F (hộp),124.70052,False
+Vietnam,Co.op,black_tea,Trà túi lọc Twinings English Breakfast 50g – F (hộp),113.7206,False
+Vietnam,Co.op,black_tea,Trà đen túi lọc Coop Select hộp giấy 25x2g (hộp),24.70482,False
+Vietnam,Co.op,black_tea,Trà Lipton vàng hộp 50 gói x 2g (hộp),27.4498,False
+Vietnam,Co.op,black_tea,Trà Lipton nhãn vàng hộp 25 gói x 2g (hộp),32.54762,False
+Vietnam,Co.op,black_tea,Trà hương dâu túi lọc Coop Select 50g (hộp),25.332244,False
+Vietnam,Co.op,black_tea,Trà hương Bạc hà túi lọc Coop Select 2g x 25gói (50g) (hộp),25.332244,False
+Vietnam,Co.op,black_tea,Trà Dilmah dâu hộp giấy 20 gói x 1.5g (hộp),64.04953333333333,False
+Vietnam,Co.op,black_tea,Trà Dilmah đào hộp giấy 20 gói x 1.5g (hộp),64.04953333333333,False
+Vietnam,Co.op,black_tea,Trà Dilmah bạc hà hộp giấy 20 gói x 1.5g (hộp),64.04953333333333,False
+Vietnam,Co.op,black_tea,Trà đào túi lọc Coop Select 50g (hộp),25.332244,False
+Vietnam,Co.op,black_tea,Trà việt quất túi lọc Coop Select 2g x 25gói (50g) (hộp),25.332244,False

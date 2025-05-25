@@ -1,0 +1,39 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,ground_coffee,Café xay Trung Nguyên Sáng Tạo 8 gói 250g (G1),50.037064,False
+Vietnam,Winmart,ground_coffee,Café Chế phin Trung Nguyên gói 500g (G1),12.313196,False
+Vietnam,Winmart,ground_coffee,Cà phê rang xay Sáng Tạo 2 Trung Nguyên gói 340g (G1),12.57154705882353,False
+Vietnam,Winmart,ground_coffee,Cà phê Sáng Tạo 1 Trung Nguyên gói 340g (G1),10.841517647058826,False
+Vietnam,Winmart,ground_coffee,Cà phê rang xay Sáng Tạo 4 Trung Nguyên gói 340g (G1),17.41562941176471,False
+Vietnam,Winmart,ground_coffee,Cà phê Sáng Tạo số 5 gói 340g (G1),21.22169411764706,False
+Vietnam,Winmart,ground_coffee,Cà phê Sáng Tạo số 3 Trung Nguyên gói 340g (G1),15.33959411764706,False
+Vietnam,Winmart,ground_coffee,Cà phê chế phin 5 Trung Nguyên gói 500g (G1),23.371544,False
+Vietnam,Winmart,ground_coffee,Cà phê Nâu Trung Nguyên Sức sống gói 500g (G1),10.823064,False
+Vietnam,Winmart,ground_coffee,Cà phê rang xay đặc biệt Trung Nguyên gói 500g (G1),7.293804000000001,False
+Vietnam,Winmart,ground_coffee,Cà phê Khát Vọng Trung Nguyên gói 500g (G1),8.548652,False
+Vietnam,Winmart,ground_coffee,Café Mr.Viet bột arabica 250g (G1),23.4029152,False
+Vietnam,Winmart,ground_coffee,Cà phê bột Mr.Viet hương chồn 250g (G1),27.716455200000002,False
+Vietnam,Co.op,ground_coffee,Cafe rang xay King Inspire Blend 3 gói 500g (gói),15.371888,False
+Vietnam,Co.op,ground_coffee,Cà phê Phố rang xay gói 450g (gói),9.629215555555556,False
+Vietnam,Co.op,ground_coffee,Cà phê rang xay Expert Blend King 2 gói 500g (gói),9.41136,False
+Vietnam,Co.op,ground_coffee,Cà phê rang xay K-Morning gói 227g (gói),12.86979295154185,False
+Vietnam,Co.op,ground_coffee,Cà phê Arabica Mê Trang gói 500g (gói),6.27424,False
+Vietnam,Co.op,ground_coffee,Cà phê sáng tạo 8 Trung Nguyên 500g (hộp),47.527368,False
+Vietnam,Co.op,ground_coffee,Cà phê xay HIGHLANDS moka gói 200g (bịch),22.842155,False
+Vietnam,Co.op,ground_coffee,Cà phê OB Mê Trang 500g (gói),7.293804000000001,False
+Vietnam,Co.op,ground_coffee,Cà phê chế phin số 5 Trung Nguyên 500g (gói),21.9127832,False
+Vietnam,Co.op,ground_coffee,Cà phê rang xay King Coffee Golden hộp 450g (hộp),34.15975111111111,False
+Vietnam,Co.op,ground_coffee,Cà phê Highlands truyền thống gói 200g (gói),16.27381,False
+Vietnam,Co.op,ground_coffee,Cà phê I Trung Nguyên khát vọng gói 500g (gói),7.921228,False
+Vietnam,Co.op,ground_coffee,Cà phê rang xay K-BLACK gói 454g (gói),18.48413215859031,False
+Vietnam,Co.op,ground_coffee,Cà phê Highlands culi 200g (gói),20.979490000000002,False
+Vietnam,Co.op,ground_coffee,Cà phê rang xay In.Blend King gói 500g (gói),11.097562,False
+Vietnam,Co.op,ground_coffee,Cà Phê Trung Nguyên Sáng Tạo 1 Gói 340g (gói),10.345575882352941,False
+Vietnam,Co.op,ground_coffee,Cà Phê Trung Nguyên Gourmet Blend Hộp 500g (hộp),13.0425764,False
+Vietnam,Co.op,ground_coffee,Cà Phê Trung Nguyên Nâu gói 500g (gói),10.101526400000001,False
+Vietnam,Co.op,ground_coffee,Cà Phê Sạch Mê Trang MC Số 1 Gói 500g (gói),8.901578,False
+Vietnam,Co.op,ground_coffee,Cà Phê Phin số 1 Trung Nguyên gói 500g (gói),11.6387152,False
+Vietnam,Co.op,ground_coffee,Cà Phê Trung Nguyên Sáng Tạo 2 Arabica Rob gói 340g (gói),11.971803529411766,False
+Vietnam,Co.op,ground_coffee,Cà Phê Trung Nguyên Sáng Tạo 3 Gói 340g (gói),14.405378235294119,False
+Vietnam,Co.op,ground_coffee,Cà phê xay Trung Nguyên chữ S gói 500g (gói),6.6114804000000005,False
+Vietnam,Co.op,ground_coffee,Cà Phê Trung Nguyên Sáng Tạo 4 Gói 340g (gói),16.46988,False
+Vietnam,Co.op,ground_coffee,Cà Phê Trung Nguyên Sáng Tạo 5 Gói 340g (gói),20.183676470588235,False

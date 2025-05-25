@@ -1,0 +1,145 @@
+$(document).ready(function () {
+
+	/* ---------------------------------------------------
+		Header Top link
+	-------------------------------------------------- */
+
+	$(".header-top-right .top-link > li").mouseenter(function () {
+		$(".header-top-right .top-link > li.account").addClass('inactive');
+	});
+	$(".header-top-right .top-link > li").mouseleave(function () {
+		$(".header-top-right .top-link > li.account").removeClass('inactive');
+	});
+	$(".header-top-right .top-link > li.account").mouseenter(function () {
+		$(".header-top-right .top-link > li.account").removeClass('inactive');
+	});
+
+	/* ---------------------------------------------------
+		Resonsive Header Top
+	-------------------------------------------------- */
+	$(".collapsed-block .expander").click(function (e) {
+		var collapse_content_selector = $(this).attr("href");
+		var expander = $(this);
+
+		if (!$(collapse_content_selector).hasClass("open")) {
+			expander.addClass("open").html("<i class='fa fa-angle-up'></i>");
+		}
+		else expander.removeClass("open").html("<i class='fa fa-angle-down'></i>");
+
+		if (!$(collapse_content_selector).hasClass("open")) $(collapse_content_selector).addClass("open").slideDown("normal");
+		else $(collapse_content_selector).removeClass("open").slideUp("normal");
+		e.preventDefault()
+	})
+
+	/* ---------------------------------------------------
+		Accordion to Bonus page
+	-------------------------------------------------- */
+	$("ul.yt-accordion li").each(function () {
+		if ($(this).index() > 0) {
+			$(this).children(".accordion-inner").css('display', 'none');
+		}
+		else {
+			$(this).find(".accordion-heading").addClass('active');
+		}
+
+		var ua = navigator.userAgent,
+			event = (ua.match(/iPad/i)) ? "touchstart" : "click";
+		$(this).children(".accordion-heading").bind(event, function () {
+			$(this).addClass(function () {
+				if ($(this).hasClass("active")) return "";
+				return "active";
+			});
+
+			$(this).siblings(".accordion-inner").slideDown(350);
+			$(this).parent().siblings("li").children(".accordion-inner").slideUp(350);
+			$(this).parent().siblings("li").find(".active").removeClass("active");
+		});
+	});
+
+	/* ---------------------------------------------------
+		Back to Top
+	-------------------------------------------------- */
+	$(".back-to-top").addClass("hidden-top");
+	
+	$(window).scroll(function () {
+		if ($(this).scrollTop() === 0) {
+			$(".back-to-top").addClass("hidden-top")
+		} else {
+			$(".back-to-top").removeClass("hidden-top")
+		}
+	});
+
+	$('.back-to-top').click(function () {
+		$('body,html').animate({ scrollTop: 0 }, 1200);
+		return false;
+	});
+	/* ---------------------------------------------------
+		Range slider && Filter  Reset
+	-------------------------------------------------- */
+	if ($('#slider').length) {
+		window.startRangeValues = [28.00, 562.00];
+		$('#slider').slider({
+			range: true,
+			min: 10.00,
+			max: 580.00,
+			values: window.startRangeValues,
+			step: 0.01,
+			slide: function (event, ui) {
+				var min = ui.values[0].toFixed(2),
+					max = ui.values[1].toFixed(2),
+					range = $(this).siblings('.range');
+				range.children('.min_value').val(min).next().val(max);
+				range.children('.min_val').text('$' + min).next().text('$' + max);
+			},
+
+			create: function (event, ui) {
+
+				var $this = $(this),
+					min = $this.slider("values", 0).toFixed(2),
+					max = $this.slider("values", 1).toFixed(2),
+					range = $this.siblings('.range');
+
+				range.children('.min_value').val(min).next().val(max);
+
+				range.children('.min_val').text('$' + min).next().text('$' + max);
+
+			}
+
+		});
+
+	}
+
+	if (!window.startRangeValues) return;
+	var startValues = window.startRangeValues,
+		min = startValues[0].toFixed(2),
+		max = startValues[1].toFixed(2);
+
+	$('.filter_reset').on('click', function () {
+
+		var form = $(this).closest('form'),
+			range = form.find('.range');
+
+		console.log(startValues);
+
+		// form.find('#slider').slider('option','values', startValues);
+
+		form.find('#slider').slider('values', 0, min);
+		form.find('#slider').slider('values', 1, max);
+
+		form.find('.options_list').children().eq(0).children().trigger('click');
+
+		range.children('.min_value').val(min).next().val(max);
+
+		range.children('.min_val').text('$' + min).next().text('$' + max);
+
+	});
+});
+
+/* ---------------------------------------------------
+	Other Query
+-------------------------------------------------- */
+$(document).ready(function ($) {
+	$('.date').datetimepicker({
+		pickTime: false
+	});
+});

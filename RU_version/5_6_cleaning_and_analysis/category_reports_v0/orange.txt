@@ -1,0 +1,15 @@
+**Orange**
+
+- Overview:
+    - Russia: 9 items, no outliers.
+    - Vietnam: 9 items, no outliers.
+- Prices:
+    - Russia: Median price = 2.33 USD/kg (~ 211 RUB/kg; ~ 59400 VND/kg).
+    - Vietnam:
+        - Median price = 1.67 USD/kg (~ 151 RUB/kg; ~ 42500 VND/kg) (28% cheaper overall).
+        - Locally produced oranges = 0.94 USD/kg (~ 85 RUB/kg; ~ 23900 VND/kg)
+        - Imported oranges = 2.86 USD/kg (~ 259 RUB/kg; ~ 72900 VND/kg).
+- Key Observations:
+    - Oranges in Vietnam are represented by locally produced and imported ones, which differ in prices significantly.
+    - Locally produced oranges in Vietnam are much cheaper than imported ones (3x) and than oranges in Russia (2.5x). But imported oranges in Vietnam are more expensive than imported oranges in Russia.
+    - The difference in imported oranges prices can be attributed to higher transportation costs and, probably, lower demand in Vietnam, as it has it's own production.

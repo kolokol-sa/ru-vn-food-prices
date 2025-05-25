@@ -1,0 +1,68 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,rice,Gạo Ngọc Nương ST 25 đặc sản 3Kg (G1),1.607774,False
+Vietnam,Winmart,rice,Gạo ST25 Giống Cây Trồng TW túi 3kg (G1),1.3986326666666666,False
+Vietnam,Winmart,rice,Gạo Ngọc Nương Lức đỏ túi 1kg (G1),1.999914,False
+Vietnam,Winmart,rice,Gạo ST25  Ngọc Nương túi 5Kg (G1),1.4822892,False
+Vietnam,Winmart,rice,Gạo Lúa Tôm ST25 Ngọc Nương túi 5Kg (G1),1.5607172,False
+Vietnam,Winmart,rice,Gạo Japonica Neptune bịch 5kg (G1),1.0791692800000001,False
+Vietnam,Winmart,rice,Gạo Ngọc Nương ST25 3 Kg (G1),1.5032033333333334,False
+Vietnam,Co.op,rice,Gạo Neptune ST25 Gold 35SGC – 7kg (bịch),1.579764,False
+Vietnam,Co.op,rice,Gạo thơm thượng hạng Neptune nhãn vàng 5kg (bịch),1.55993292,False
+Vietnam,Co.op,rice,Gạo thơm mùa vàng ST 25 Coop Finest 5 kg (túi),1.4038612000000001,False
+Vietnam,Co.op,rice,Gạo tấm thơm Hom mali Na Siam 2kg (bịch),1.1470095,False
+Vietnam,Co.op,rice,Gạo sinh thái Cà Mau ST25 VG 5kg (bịch),2.0116782,False
+Vietnam,Co.op,rice,Gạo ST25 lúa tôm sinh thái Coop Finest 5kg (bịch),1.8744292,False
+Vietnam,Co.op,rice,Gạo lài sữa Đồng Việt 5kg (bịch),0.8744722,False
+Vietnam,Co.op,rice,Gạo Jasmine Coop Select 5kg – KG (bịch),1.0666208,False
+Vietnam,Co.op,rice,Gạo thơm ST 25 thượng hạng Đồng Việt 5kg (bịch),1.5254246,False
+Vietnam,Co.op,rice,Gạo thơm thượng hạng Nàng Sen Phú Quý 4kg – CX – F (bịch),1.6469880000000001,False
+Vietnam,Co.op,rice,Gạo thơm Cát tường ST25 lúa tôm 5kg (túi),1.48856344,False
+Vietnam,Co.op,rice,Gạo ST25 hữu cơ Kim Thiên Lộc 5kg (túi),1.607774,False
+Vietnam,Co.op,rice,Gạo giống Nhật Coop Select 5 kg – King Green (bịch),1.2509266,False
+Vietnam,Co.op,rice,Gạo Nàng Hoa Coop Select 5 kg – King Green (bịch),1.078385,False
+Vietnam,Co.op,rice,Gạo tấm thơm 1kg (bịch),1.019564,False
+Vietnam,Co.op,rice,Gạo ST24 Ocop Kim Thiên Lộc 5kg (túi),1.3881756,False
+Vietnam,Co.op,rice,Gạo Jasmine Coop Select 7kg (bịch),1.069982,False
+Vietnam,Co.op,rice,Gạo Nàng Sen Tài Lộc túi 4 kg – F (bịch),1.6469880000000001,False
+Vietnam,Co.op,rice,Gạo thơm ST25 lúa tôm Coop Finest 5kg (túi),1.803844,False
+Vietnam,Co.op,rice,Gạo thơm ST25 lúa tôm Coop Finest 3 kg (bịch),1.7646300000000001,False
+Vietnam,Co.op,rice,Gạo ngon Cỏ May túi 5kg (bịch),0.88780496,False
+Vietnam,Co.op,rice,Gạo thơm Neptune ST24 túi 5kg (gói),1.56777572,False
+Vietnam,Co.op,rice,Gạo Nàng Hương Ocop Kim Thiên Lộc 5kg (bịch),1.3842542,False
+Vietnam,Co.op,rice,Gạo thơm đặc sản ST25 Neptune 5kg (bịch),1.7881584000000001,False
+Vietnam,Co.op,rice,Gạo ST25 Thiên Bình Home Rice 5kg – CX (bịch),1.490132,False
+Vietnam,Co.op,rice,Gạo OM 18 Coop Select 5 kg (bịch),0.8234940000000001,False
+Vietnam,Co.op,rice,Gạo thơm ST25 Coop Finest 7 kg (bịch),1.7310180000000002,False
+Vietnam,Co.op,rice,Gạo Thơm Đài loan 5kg (bịch),1.117599,False
+Vietnam,Co.op,rice,Gạo Hạt Ngọc Trời Thiên Long bịch 5Kg (bịch),1.0862278,False
+Vietnam,Co.op,rice,Gạo Hạt Ngọc Trời Bạch Dương bịch 5Kg (bịch),1.15995012,False
+Vietnam,Co.op,rice,Gạo trắng nở xốp Coop Happy 5kg (gói),0.725459,False
+Vietnam,Co.op,rice,Gạo thơm làng ta Vua Gạo 5kg (bịch),0.98505568,False
+Vietnam,Co.op,rice,Gạo thơm đậm đà Vua Gạo 5kg (bịch),1.3803328000000001,False
+Vietnam,Co.op,rice,Gạo Nhật Sushi Rice cao cấp 5kg (bịch),1.5803242,False
+Vietnam,Co.op,rice,Gạo thơm Cát Tường ST24 lúa tôm 5kg (bịch),1.35602012,False
+Vietnam,Co.op,rice,Gạo thơm Jasmine Tấn Vương 5kg (bịch),0.78428,False
+Vietnam,Co.op,rice,Gạo thơm bắc đẩu Hạt Ngọc Trời 5kg (bịch),1.26974932,False
+Vietnam,Co.op,rice,Gạo thơm ST24 Coop Finest 7kg (bịch),1.411704,False
+Vietnam,Co.op,rice,Gạo Đài thơm 8 Coop Select 5 kg (bịch),1.0117212,False
+Vietnam,Co.op,rice,Gạo thơm ST 21 Coop Select 5 kg (bịch),1.0744636,False
+Vietnam,Co.op,rice,Gạo trắng xốp mềm Coop Happy 5kg (bịch),0.725459,False
+Vietnam,Co.op,rice,Gạo thơm lài 5kg (gói),0.9842714,False
+Vietnam,Co.op,rice,Gạo thơm ST25 thượng hạng Coop Finest 2kg (bịch),1.803844,False
+Vietnam,Co.op,rice,Gạo thơm ST25 thượng hạng Coop Finest 5kg (bịch),1.7646300000000001,False
+Vietnam,Co.op,rice,Gạo Nhật Fuji Sakura bịch 5kg (gói),1.627381,False
+Vietnam,Co.op,rice,Gạo Japonica Neptune bịch 5kg (gói),1.26190652,False
+Vietnam,Co.op,rice,Gạo Cỏ May Long Châu 66 5kg (gói),1.65639936,False
+Vietnam,Co.op,rice,Gạo Hommali Na Siam thơm 5kg (bịch),1.9489358,False
+Vietnam,Co.op,rice,Gạo Cỏ May Hiểu về trái tim túi 5kg (bịch),1.3254332,False
+Vietnam,Co.op,rice,Gạo thơm lài Lotus Rice Jasmine túi 2kg – CX – F (bịch),1.0489745,False
+Vietnam,Co.op,rice,Gạo hữu cơ Sakura ECOBA Organic 1kg (hộp),4.1409984,True
+Vietnam,Co.op,rice,Gạo hữu cơ ngọc mễ ECOBA Organic 1kg – CX – F (hộp),3.882186,True
+Vietnam,Co.op,rice,Gạo Hương Lài Thiên Kim túi 5kg (bịch),0.78428,False
+Vietnam,Co.op,rice,Gạo Thiên Kim Tây Đô túi 5kg (bịch),0.725459,False
+Vietnam,Co.op,rice,Gạo trắng hạt dài 5% Tấn Vương 5kg (bịch),0.725459,False
+Vietnam,Co.op,rice,Gạo Hạt Ngọc Trời Tiên Nữ bịch 5Kg (bịch),1.4783678,False
+Vietnam,Co.op,rice,Gạo Tài Nguyên 5kg (bịch),1.08858064,False
+Vietnam,Co.op,rice,Gạo Jasmine XH 5kg (bịch),0.9764286,False
+Vietnam,Co.op,rice,Gạo Pathumthani Na Siam Thơm Bịch 5Kg (bịch),1.6116954000000001,False
+Vietnam,Co.op,rice,Gạo thơm ST25 plus lúa tôm Neptune 5kg (bịch),1.9763856,False

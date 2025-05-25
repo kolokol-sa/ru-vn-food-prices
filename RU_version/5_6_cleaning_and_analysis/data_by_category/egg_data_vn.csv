@@ -1,0 +1,25 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,egg,Trứng gà Ba Huân hộp 10 quả (HOP),0.13254332,False
+Vietnam,Winmart,egg,Trứng gà hộp 6 quả Ba Huân (HOP),0.13398116666666665,False
+Vietnam,Winmart,egg,Trứng Gà Sạch O'LALA hộp 10_Size L (HOP),0.1196027,False
+Vietnam,Winmart,egg,Trứng Gà Ta O'LALA Sạch giỏ 10 (HOP),0.1686202,False
+Vietnam,Co.op,egg,Trứng gà hồng 10 trứng – VFood (hộp),0.1490132,False
+Vietnam,Co.op,egg,Trứng gà tươi Tafa 600g – Hộp nhựa (vỉ),0.13685686,False
+Vietnam,Co.op,egg,Trứng gà vỉ 10 trứng x 60g – NTX (vỉ),0.117642,False
+Vietnam,Co.op,egg,Trứng gà không phôi Vfarm hộp 6 trứng – F (vỉ),0.1215634,False
+Vietnam,Co.op,egg,Trứng gà ác V.food 10trứng/giỏ – F (giỏ),0.156856,False
+Vietnam,Co.op,egg,Trứng gà ta Coop Select 10 trứng – VTD (vỉ),0.16665950000000002,False
+Vietnam,Co.op,egg,Trứng gà Ba Huân XL vỉ 10 trứng (vỉ),0.1313669,False
+Vietnam,Co.op,egg,Trứng gà Omega3 & DHA 6 trứng/hộp – VTD (hộp),0.20129853333333333,False
+Vietnam,Co.op,egg,Trứng gà không phôi L1 10 trứng/hộp – Vfarm (vỉ),0.1215634,False
+Vietnam,Co.op,egg,Trứng gà VFood hộp 6 trứng (hộp),0.1215634,False
+Vietnam,Co.op,egg,Trứng gà gộc Ba Huân vĩ 10 trứng (cái),0.17254160000000002,False
+Vietnam,Co.op,egg,Trứng gà Ba Huân DHA hộp 6 trứng (hộp),0.20652706666666668,False
+Vietnam,Co.op,egg,Trứng gà Ba Huân Omega 3 hộp 6 trứng (hộp),0.20914133333333332,False
+Vietnam,Co.op,egg,Trứng gà gộc Vfood vĩ 4 trứng (vỉ),0.16175775,False
+Vietnam,Co.op,egg,Trứng gà Ba Huân vĩ 6 trứng (vỉ),0.1215634,False
+Vietnam,Co.op,egg,Trứng gà ta Vfood giỏ 10 trứng (giỏ),0.1686202,False
+Vietnam,Co.op,egg,Trứng gà ác Ba Huân giỏ 10 trứng (giỏ),0.176463,False
+Vietnam,Co.op,egg,Trứng gà Coop Select size L 10T (BH) (hộp),0.1215634,False
+Vietnam,Co.op,egg,Trứng Gà Coop Select Loại 1 vĩ 10 Trứng (hộp),0.1215634,False
+Vietnam,Co.op,egg,Trứng Gà Coop Select Loại 1 vỉ 6 Trứng (hộp),0.1215634,False

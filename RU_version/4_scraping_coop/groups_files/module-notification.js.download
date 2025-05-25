@@ -1,0 +1,32 @@
+Vue.component('modal-notification', {
+    props: ['store'],
+    data() {
+        return {
+            limitOrder: false,
+            warning: '',
+            messeger: '',
+
+        }
+    },
+    watch: {
+        'store': function() {
+            var returnDay = new Date();
+            if( typeof(this.store.maxorder) !== 'undefined' ) {
+                returnDay.setDate(returnDay.getDate() + 1);
+                this.messeger = "Hiện tại đã đến ngưỡng giới hạn đơn hàng, "
+                                    + " siêu thị "+ this.store.ten +" xin tạm dừng nhận thêm đơn hàng mới để đảm bảo chất lượng phục vụ.<br>"
+                                    + "Quý khách vui lòng quay lại đặt hàng vào ngày mai " + returnDay.toLocaleDateString('en-GB') 
+                                    + ". Mong Quý khách thông cảm và tiếp tục ủng hộ CoopOnline.vn.";
+                this.limitOrder = ( parseInt(this.store.countOrder) >= parseInt(this.store.maxorder) );
+            } else {
+                this.limitOrder = false;
+            }
+
+            if( typeof(this.store.messenger) !== 'undefined' )  {
+                this.warning = this.store.messenger;
+            } else { 
+                this.warning = '';
+            }
+        }
+    },
+});

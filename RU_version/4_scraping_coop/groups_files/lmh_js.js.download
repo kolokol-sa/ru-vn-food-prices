@@ -1,0 +1,213 @@
+$(document).ready(function () {
+
+	lazyLoadInit.update();
+
+	$(".txtMoney").keydown(function (e) {
+		// Allow: backspace, delete, tab, escape, enter and .
+		if ($.inArray(e.keyCode, [46, 8, 9, 27, 13, 110, 190]) !== -1 ||
+			// Allow: Ctrl+A, Command+A
+			(e.keyCode == 65 && (e.ctrlKey === true || e.metaKey === true)) ||
+			// Allow: home, end, left, right, down, up
+			(e.keyCode >= 35 && e.keyCode <= 40)) {
+			// let it happen, don't do anything
+			return;
+		}
+		// Ensure that it is a number and stop the keypress
+		if ((e.shiftKey || (e.keyCode < 48 || e.keyCode > 57)) && (e.keyCode < 96 || e.keyCode > 105)) {
+			e.preventDefault();
+		}
+	});
+
+	$(".txtMoney").keyup(function () {
+		if ($(this).val() == '') {
+			$(this).val(0);
+		} else {
+			var value = vndjs_decode($(this).val());
+			$(this).val(vndjs(value));
+		}
+	});
+
+	$tab = $('.ltabs-tab');
+
+	$tab.on('click.ltabs-tab', function () {
+
+		$this = $(this);
+
+		if ($this.parent('.ltabs-tabs').hasClass('ltabs-open')) {
+			$this.parent('.ltabs-tabs').removeClass('ltabs-open');
+		}
+
+		// $this.parent().parent().find('.ltabs-tab-selected').html($this.text());
+		//console.log( $this.parent().parent().parent().find('.ltabs-tab-selected').html() );
+		//$('.ltabs-tab-selected').html($this.text());
+
+		if ($this.hasClass('tab-sel')) return false;
+		$tab.removeClass('tab-sel');
+		$this.addClass('tab-sel');
+	});
+
+	enableSelectBoxes();
+
+});
+
+	function enableSelectBoxes() {
+
+		$tab_wrap = $('.ltabs-tabs-wrap');
+		$tab_label_select = $('.ltabs-tab-selected');
+
+		//$tab_label_select.html($('.ltabs-tab').filter('.tab-sel').children('.ltabs-tab-label').html());
+
+		if ($(window).innerWidth() <= 991) {
+			$tab_wrap.addClass('ltabs-selectbox');
+		} else {
+			$tab_wrap.removeClass('ltabs-selectbox');
+		}
+
+		$('span.ltabs-tab-selected, span.ltabs-tab-arrow').click(function () {
+			if ($(this).parent().find('.ltabs-tabs').hasClass('ltabs-open')) {
+				$(this).parent().find('.ltabs-tabs').removeClass('ltabs-open');
+			} else {
+				$(this).parent().find('.ltabs-tabs').addClass('ltabs-open');
+			}
+		});
+	}
+
+	$(window).resize(function () {
+		enableSelectBoxes();
+	});
+
+	function addNotice(title, thumb, text, type) {
+		$.jGrowl.defaults.closer = false;
+		//Stop jGrowl
+		//$.jGrowl.defaults.sticky = true;
+		var tpl = thumb + '<h3>' + text + '</h3>';
+		$.jGrowl(tpl, {
+			life: 3000,
+			header: title,
+			speed: 'slow',
+			position: 'bottom-right',
+			theme: type
+		});
+	}
+
+	function intOwl(element) {
+		$(element).owlCarousel2({
+			nav: false,
+			dots: false,
+			loop: false,
+			autoplay: false,
+			lazyLoad: true,
+			autoplayHoverPause: true,
+			autoplayTimeout: 5000,
+			autoplaySpeed: 5000,
+			navRewind: true,
+			navText: ['', ''],
+			margin: 10,
+			responsive: {
+				0: {
+					items: 2,
+					nav: 16 <= 1 ? false : ((true) ? true : false),
+				},
+				767: {
+					items: 3,
+					nav: 16 <= 2 ? false : ((true) ? true : false),
+				},
+				991: {
+					items: 4,
+					nav: 16 <= 3 ? false : ((true) ? true : false),
+				},
+				1199: {
+					items: 6,
+					nav: 16 <= 5 ? false : ((true) ? true : false),
+				},
+				1400: {
+					items: 6,
+					nav: 16 <= 5 ? false : ((true) ? true : false),
+				},
+			}
+		});
+	}
+
+	function vndjs(obs = 0) {
+		if( typeof(obs) != 'undefined' && obs != 'null' ){
+			return obs.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+		}	
+		return 0;
+	}
+
+	function vndjs_decode(obs) {
+		if (obs == '') return 0;
+		else return parseInt(obs.toString().replace(/,/g, ''));
+	}
+
+	function removeVie(str) {
+		str = str.replace(/à|á|ạ|ả|ã|â|ầ|ấ|ậ|ẩ|ẫ|ă|ằ|ắ|ặ|ẳ|ẵ/g,"a"); 
+		str = str.replace(/è|é|ẹ|ẻ|ẽ|ê|ề|ế|ệ|ể|ễ/g,"e"); 
+		str = str.replace(/ì|í|ị|ỉ|ĩ/g,"i"); 
+		str = str.replace(/ò|ó|ọ|ỏ|õ|ô|ồ|ố|ộ|ổ|ỗ|ơ|ờ|ớ|ợ|ở|ỡ/g,"o"); 
+		str = str.replace(/ù|ú|ụ|ủ|ũ|ư|ừ|ứ|ự|ử|ữ/g,"u"); 
+		str = str.replace(/ỳ|ý|ỵ|ỷ|ỹ/g,"y"); 
+		str = str.replace(/đ/g,"d");
+		str = str.replace(/À|Á|Ạ|Ả|Ã|Â|Ầ|Ấ|Ậ|Ẩ|Ẫ|Ă|Ằ|Ắ|Ặ|Ẳ|Ẵ/g, "A");
+		str = str.replace(/È|É|Ẹ|Ẻ|Ẽ|Ê|Ề|Ế|Ệ|Ể|Ễ/g, "E");
+		str = str.replace(/Ì|Í|Ị|Ỉ|Ĩ/g, "I");
+		str = str.replace(/Ò|Ó|Ọ|Ỏ|Õ|Ô|Ồ|Ố|Ộ|Ổ|Ỗ|Ơ|Ờ|Ớ|Ợ|Ở|Ỡ/g, "O");
+		str = str.replace(/Ù|Ú|Ụ|Ủ|Ũ|Ư|Ừ|Ứ|Ự|Ử|Ữ/g, "U");
+		str = str.replace(/Ỳ|Ý|Ỵ|Ỷ|Ỹ/g, "Y");
+		str = str.replace(/Đ/g, "D");
+		str = str.replace(/\u0300|\u0301|\u0303|\u0309|\u0323/g, ""); 
+		str = str.replace(/\u02C6|\u0306|\u031B/g, ""); 
+		str = str.replace(/ + /g," ");
+		str = str.trim();
+		str = str.replace(/!|@|%|\^|\*|\(|\)|\+|\=|\<|\>|\?|\/|,|\.|\:|\;|\'|\"|\&|\#|\[|\]|~|\$|_|`|-|{|}|\||\\/g," ");
+		return str;
+	}
+
+	function printgiaohang(idprint, store) {
+		// window.location.hostname
+		window.open(window.location.origin + 'quan-ly/?slug=print&id=' + idprint + '&store=' + store, '_blank');
+	}
+
+	function printkhachhang(idprint, store) {
+		window.open(window.location.origin + 'quan-ly/?slug=print_thongtin&id=' + idprint + '&store=' + store, '_blank');
+	}
+
+	function printthongtin(idprint, store) {
+		window.open(window.location.origin + 'khach-hang/?slug=print_thongtin&id=' + idprint + '&store=' + store, '_blank');
+	}
+
+	$(function () {
+		$('input').keyup(function (e) {
+			if (e.which == 13) {
+				$(this).find().next('input').focus();
+			}
+		});
+	});
+
+	function setCookie(key, value, expiry) {
+		var expires = new Date();
+		expires.setTime(expires.getTime() + (expiry * 60 * 1000));
+		document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
+	}
+
+	function getCookie(key) {
+		var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+		return keyValue ? keyValue[2] : null;
+	}
+
+	function eraseCookie(key) {
+		var keyValue = getCookie(key);
+		setCookie(key, keyValue, '-1');
+	}
+
+	function convertDate(date, num = 19) {
+		date.setHours(date.getHours() + 7);
+		const isoDateTime = date.toISOString();
+		const mysqlDateTime = isoDateTime.replace('T', ' ').slice(0, num);
+		return mysqlDateTime;
+	}
+
+	function strippedContent(str){
+		if ( typeof(str) == 'undefined' || ( str == null ) || ( str == 'null' ) || str == '') return '';
+		else return str.toString().replace( /(<([^>]+)>)/ig , "");
+	}

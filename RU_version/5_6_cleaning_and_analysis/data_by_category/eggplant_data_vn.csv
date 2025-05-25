@@ -1,0 +1,3 @@
+country,supermarket,product_category,product_name,normalized_price,is_outlier
+Vietnam,Winmart,eggplant,Cà tím dài (KG),0.8587866000000001,False
+Vietnam,Co.op,eggplant,Cà tím màng co (kg),0.999957,False

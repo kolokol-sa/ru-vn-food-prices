@@ -1,0 +1,17 @@
+**Bread**
+
+- Overview:
+    - Russia: 147 items, with 5 outliers.
+    - Vietnam: 17 items, no outliers.
+- Prices:
+    - Russia:
+        - Median price = 2.24 USD/kg (~ 202 RUB/kg; ~ 57100 VND/kg)
+    - Vietnam:
+        - Median price = 2.92 USD/kg (~ 264 RUB/kg; ~ 74500 VND/kg) (31% more expensive overall)
+        - The 3 cheapest items are priced at 1.70, 2.20 USD/kg (~ 154, 199 RUB/kg, ~ 43500, 56000 VND/kg) (fresh baguettes) and 2.41 USD/kg (~ 218 RUB/kg, ~ 61300 VND/kg) (a packaged sandwich bread)
+- Outliers:
+    - Russia: include 2 cheapest breads below 0.81 USD/kg and 3 most expensive above 6.85 USD/kg (a premium sourdough bread with nuts and gluten-free bread)
+- Key Observations:
+    - Bread in Russia is highly diverse, made with various types of flour and preparation methods, reflecting its role as a dietary staple and high consumer demand.
+    - Vietnam’s bread selection in supermarkets is limited to a small variety of fresh baked baguettes and packaged sandwich bread, which may indicate lower demand.
+    - Bread’s higher price in Vietnam may be due to its lower popularity and limited local production. Unlike Russia, where bread is widely consumed, Vietnam relies on rice as the primary crop, with wheat being imported—contributing to higher prices and reduced diversity.

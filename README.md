@@ -1,6 +1,6 @@
 # Grocery Price Comparison: Russia vs. Vietnam
 
-[Описание на русском языке](README_RU.md)
+[Версия проекта на русском языке](README_RU.md)
 
 This project explores grocery prices in **four supermarket chains** — *Pyaterochka* and *Lenta* in Russia, *WinMart* and *Co.op* in Vietnam — across 31 everyday product categories.
 It compares costs between the two countries and presents the results through structured analysis and interactive visualizations.  
