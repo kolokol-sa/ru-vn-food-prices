@@ -1,13 +1,13 @@
-**Sunflower Oil**
+**Масло подсолнечное**
 
-- Overview:
-    - Russia: 29 items, no outliers.
-    - Vietnam: 9 items, no outliers.
-- Prices:
-    - Russia: Median = 1.76 USD/l (~ 159 RUB/l; ~ 44800 VND/l).
-    - Vietnam:
-        - Median = 3.24 USD/l (~ 293 RUB/l; ~ 82500 VND/l) (84% more expensive overall)
-        - The three cheapest options in Vietnam are priced at 2.667, 2.674 and 2.96 USD/l (~ 241, 242 and 268 RUB/l; ~ 68000, 68200 and 75600 VND/l).
-- Key Observations:
-    - In Russia, sunflower oil is a staple, which contributes to its lower price. In Vietnam, while sunflower oil is available, other types of oils are typically preferred, and sunflower oil is generally more expensive.
-    - Interestingly, some sunflower oils in Vietnam are imported from Russia, but their prices remain consistent with locally produced options, indicating that production costs in Vietnam are higher.
+- Общая информация:
+    - Россия: 29 позиций, без выбросов.
+    - Вьетнам: 9 позиций, без выбросов.
+- Цены:
+    - Россия: Медиана = 1.76 USD/л (~ 159 RUB/л; ~ 44800 VND/л).
+    - Вьетнам:
+        - Медиана = 3.24 USD/л (~ 293 RUB/л; ~ 82500 VND/л) (на 84% дороже).
+        - Три самых дешевых позиции: 2.667, 2.674 и 2.96 USD/л (~ 241, 242 и 268 RUB/л; ~ 68000, 68200 и 75600 VND/л).
+- Основные наблюдения:
+    - В России подсолнечное масло является основным маслом для готовки, что делает его дешевле и доступнее. Во Вьетнаме популярны другие виды масел (например, соевое), а подсолнечное масло более дорогое.
+    - Некоторая часть подсолнечного масла во Вьетнаме импортируется из России, однако цены на него сопоставимы с ценами от местных производителей. Возможно, стоимость производства во Вьетнаме выше.

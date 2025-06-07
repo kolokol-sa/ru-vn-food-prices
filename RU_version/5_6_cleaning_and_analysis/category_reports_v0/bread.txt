@@ -1,17 +1,17 @@
-**Bread**
+**Хлеб**
 
-- Overview:
-    - Russia: 147 items, with 5 outliers.
-    - Vietnam: 17 items, no outliers.
-- Prices:
-    - Russia:
-        - Median price = 2.24 USD/kg (~ 202 RUB/kg; ~ 57100 VND/kg)
-    - Vietnam:
-        - Median price = 2.92 USD/kg (~ 264 RUB/kg; ~ 74500 VND/kg) (31% more expensive overall)
-        - The 3 cheapest items are priced at 1.70, 2.20 USD/kg (~ 154, 199 RUB/kg, ~ 43500, 56000 VND/kg) (fresh baguettes) and 2.41 USD/kg (~ 218 RUB/kg, ~ 61300 VND/kg) (a packaged sandwich bread)
-- Outliers:
-    - Russia: include 2 cheapest breads below 0.81 USD/kg and 3 most expensive above 6.85 USD/kg (a premium sourdough bread with nuts and gluten-free bread)
-- Key Observations:
-    - Bread in Russia is highly diverse, made with various types of flour and preparation methods, reflecting its role as a dietary staple and high consumer demand.
-    - Vietnam’s bread selection in supermarkets is limited to a small variety of fresh baked baguettes and packaged sandwich bread, which may indicate lower demand.
-    - Bread’s higher price in Vietnam may be due to its lower popularity and limited local production. Unlike Russia, where bread is widely consumed, Vietnam relies on rice as the primary crop, with wheat being imported—contributing to higher prices and reduced diversity.
+- Общая информация:
+    - Россия: 147 позиций, 5 выбросов.
+    - Вьетнам: 17 позиций, выбросов нет.
+- Цены:
+    - Россия:
+        - Медианная цена = 2.24 USD/кг (~ 202 RUB/кг; ~ 57100 VND/кг)
+    - Вьетнам:
+        - Медианная цена = 2.92 USD/кг (~ 264 RUB/кг; ~ 74500 VND/кг) (на 31% дороже)
+        - 3 самых дешевых хлеба стоят 1.70, 2.20 USD/кг (~ 154, 199 RUB/кг; ~ 43500, 56000 VND/кг) — свежие багеты, и 2.41 USD/кг (~ 218 RUB/кг; ~ 61300 VND/кг) — нарезной хлеб в упаковке.
+- Выбросы:
+    - Россия: 2 самых дешевых варианта до 0.81 USD/кг и 3 самых дорогих — выше 6.85 USD/кг (премиальный хлеб с орехами и безглютеновый).
+- Основные наблюдения:
+    - В России хлеб очень разнообразен — используется разная мука и методы приготовления, это отражает его важную роль в питании и высокий спрос.
+    - Во Вьетнаме ассортимент в супермаркетах ограничен багетами и нарезным хлебом — это может говорить о более низком спросе.
+    - Более высокая цена во Вьетнаме может быть связана с меньшей популярностью продукта и ограниченным местным производством. В отличие от России, во Вьетнаме основным зерновым является рис, а пшеница импортируется, что сказывается на цене и разнообразии.

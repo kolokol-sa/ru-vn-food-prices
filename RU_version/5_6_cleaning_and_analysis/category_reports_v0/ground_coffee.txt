@@ -1,14 +1,14 @@
-**Coffee** (ground)
+**Кофе (молотый)**
 
-- Overview:
-    - Russia: 97 items, no outliers.
-    - Vietnam: 38 items, no outliers.
-- Prices:
-    - Russia:
-        - Median price = 26.21 USD/kg (~ 2371 RUB/kg; ~ 668300 VND/kg)
-        - The 10% of the cheapest items in Russia lie below 16.82 USD/kg (1522 RUB/kg, 429000 VND/kg)
-    - Vietnam: Median price = 12.96 USD/kg (~ 1172 RUB/kg; ~ 330400 VND/kg) (51% (2x) cheaper)
-- Key Observations:
-    - Ground coffee is significantly cheaper in Vietnam, likely due to local production, while in Russia it’s mostly imported.
-    - In Russia there are affordable coffees with prices comparable to Vietnam's median, but more than 90% of items are still significantly more expensive.
-    - Russia’s larger variety may contribute to the higher median price.
+- Общая информация:
+    - Россия: 97 позиций, выбросов нет.
+    - Вьетнам: 38 позиций, выбросов нет.
+- Цены:
+    - Россия:
+        - Медианная цена = 26.21 USD/кг (~ 2371 RUB/кг; ~ 668300 VND/кг)
+        - 10% самых дешевых товаров стоят ниже 16.82 USD/кг (~ 1522 RUB/кг; ~ 429000 VND/кг)
+    - Вьетнам: медианная цена = 12.96 USD/кг (~ 1172 RUB/кг; ~ 330400 VND/кг) (в 2 раза дешевле, на 51%)
+- Основные наблюдения:
+    - Молотый кофе во Вьетнаме значительно дешевле, вероятно из-за местного производства, в то время как в России кофе импортируется.
+    - В России есть более доступные варианты, цены которых сравнимы с вьетнамскими, но более 90% всех позиций значительно дороже.
+    - Больший ассортимент в России может влиять на высокий медианный уровень цен.

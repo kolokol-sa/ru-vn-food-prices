@@ -1,12 +1,12 @@
-**Meat**
+**Мясо**
 
-- Cheaper in Vietnam:  
-    - Chicken (33% cheaper).  
+- Дешевле во Вьетнаме:  
+    - Курица (на 33% дешевле).  
 
-- More Expensive in Vietnam:  
-    - Pork (28% more expensive).
+- Дороже во Вьетнаме:  
+    - Свинина (на 28% дороже).
 
-- Key Observations:  
-    - Chicken is cheaper in Vietnam, likely due to local production and lower supply chain costs.  
-    - Pork is more expensive in Vietnam despite being a common meat, which could be due to factors like supply chain differences or local market conditions.  
-    - The limited sample sizes in both countries may affect the reliability of these conclusions.
+- Основные наблюдения:  
+    - Курица дешевле во Вьетнаме, вероятно, благодаря местному производству и более низким издержкам.  
+    - Свинина, несмотря на популярность во Вьетнаме, стоит дороже, возможно, из-за особенностей поставок или рыночных условий.  
+    - Небольшой размер выборки в обеих странах может повлиять на достоверность этих выводов.

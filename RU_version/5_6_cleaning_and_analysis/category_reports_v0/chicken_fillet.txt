@@ -1,13 +1,13 @@
-**Chicken** (fillet)
+**Курица** (филе)
 
-- Overview:
-    - Russia: 8 items with 1 outlier.
-    - Vietnam: 10 items, no outliers.
-- Prices:
-    - Russia: Median price = 5.75 USD/kg (~ 520 RUB/kg; ~ 146600 VND/kg)
-    - Vietnam: Median price = 3.88 USD/kg (~ 351 RUB/kg; ~ 99000 VND/kg) (33% cheaper overall)
-- Outliers:
-    - Russia: the cheapest fillet priced at 3.65 USD/kg (~ 330 RUB/kg, ~ 93000 VND/kg)
-- Key Observations:
-    - The outlier indicates that affordable options comparable to Vietnam's median price may still be available in Russia.
-    - The small sample sizes in both countries make it difficult to draw broader conclusions, but the price difference is clear.
+- Общая информация:
+    - Россия: 8 позиций, 1 выброс.
+    - Вьетнам: 10 позиций, выбросов нет.
+- Цены:
+    - Россия: медианная цена = 5.75 USD/кг (~ 520 RUB/кг; ~ 146600 VND/кг)
+    - Вьетнам: медианная цена = 3.88 USD/кг (~ 351 RUB/кг; ~ 99000 VND/кг) (на 33% дешевле)
+- Выбросы:
+    - Россия: самая дешевая позиция — 3.65 USD/кг (~ 330 RUB/кг; ~ 93000 VND/кг)
+- Основные наблюдения:
+    - Выброс показывает, что в России возможно найти куриное филе по цене, сопоставимой с вьетнамской.
+    - Несмотря на ограниченное количество товаров, разница в цене между странами заметная.

@@ -1,17 +1,17 @@
-**Dairy Products**
+**Молочные продукты**
 
-- Cheaper in Vietnam:  
-    - Yogurt (43% cheaper overall).  
+- Дешевле во Вьетнаме:  
+    - Йогурт (на 43% дешевле).  
 
-- More Expensive in Vietnam:  
-    - Milk (36% more expensive overall, though Vietnam’s cheapest options are comparable to Russia’s median).  
+- Дороже во Вьетнаме:  
+    - Молоко (на 36% дороже, хотя самые дешевые варианты во Вьетнаме сопоставимы со средней ценой в России).  
 
-- Key Observations:  
-  - Milk:  
-    - Milk is primarily locally produced in Russia, keeping prices relatively low. In Vietnam, milk prices are higher, likely due to a mix of local and imported products and smaller packaging sizes, which increase the price per liter.  
-    - While Vietnam offers some affordable options, the majority of products are priced higher than Russia’s median, reflecting a notable difference in affordability.  
+- Основные наблюдения:  
+  - Молоко:  
+    - В России молоко в основном производится локально и цены относительно низкие. Во Вьетнаме молоко дороже, вероятно, из-за сочетания местного производства и импорта, а также упаковки меньших объемов, что увеличивает цену за литр.  
+    - Хотя во Вьетнаме есть доступные варианты, большинство продуктов дороже российской медианы, и это заметная разница в доступности.  
 
-  - Yogurt:  
-    - Yogurt is significantly cheaper in Vietnam, likely due to simpler product offerings and lower production costs.  
-    - Russia’s wider variety of yogurt flavors and quality levels contributes to a higher median price, with most items exceeding Vietnam’s median.  
-  - These differences highlight how local production and product diversity impact the affordability of dairy products in each country.
+  - Йогурт:  
+    - Йогурт во Вьетнаме значительно дешевле, вероятно, из-за более простого ассортимента и меньших затрат на производство.  
+    - Более высокая медиана в России объясняется большим разнообразием вкусов и уровней качества, при этом большинство позиций дороже, чем медианная цена во Вьетнаме.  
+  - Эти различия подчеркивают влияние местного производства и разнообразия ассортимента на доступность молочных продуктов в каждой стране.  

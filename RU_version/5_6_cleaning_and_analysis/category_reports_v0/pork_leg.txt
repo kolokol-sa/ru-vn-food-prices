@@ -1,12 +1,12 @@
-**Pork** (pork leg)
+**Свинина** (окорок)
 
-- Overview:
-    - Russia: 4 items, no outliers.
-    - Vietnam: 8 items, no outliers.
-- Prices:
-    - Russia: Median price = 4.83 USD/kg (~ 437 RUB/kg; ~ 123200 VND/kg).
-    - Vietnam:
-        - Median price = 6.19 USD/kg (~ 560 RUB/kg; ~ 158000 VND/kg) (28% more expensive overall).
-        - The 3 cheapest items are priced at 5.23 and 5.68 USD/kg (~ 473 and 514 RUB/kg, ~ 133300 and 144900 VND/kg)
-- Key Observations:
-    - Despite being a common meat in Vietnam, pork leg is more expensive than in Russia, which could be due to factors like supply chain differences, or local market conditions.
+- Общая информация:
+    - Россия: 4 позиции, без выбросов.
+    - Вьетнам: 8 позиций, без выбросов.
+- Цены:
+    - Россия: медианная цена = 4.83 USD/кг (~ 437 RUB/кг; ~ 123200 VND/кг).
+    - Вьетнам:
+        - Медианная цена = 6.19 USD/кг (~ 560 RUB/кг; ~ 158000 VND/кг) (на 28% дороже).
+        - Три самых дешевых позиции стоят 5.23 и 5.68 USD/кг (~ 473 и 514 RUB/кг, ~ 133300 и 144900 VND/кг).
+- Основные наблюдения:
+    - Несмотря на популярность свинины во Вьетнаме, свиной окорок здесь дороже. Возможно, из-за особенностей цепочки поставок или отличающихся рыночных условий.

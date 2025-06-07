@@ -1,19 +1,19 @@
-**Tea (green)**
+**Зеленый чай**
 
-- Overview:
-    - Russia: 72 items, 5 outliers.
-    - Vietnam: 61 items, 1 outlier.
-- Prices:
-    - Russia:
-        - Median price = 24.32 USD/kg
-        - Standard package 25 tea bags x 2g - 1.22 USD/pack (~ 110 RUB/pack; ~ 31000 VND/pack)
-    - Vietnam:
-        - Median price = 24.48 USD/kg
-        - Standard package 25 tea bags x 2g - 1.22 USD/pack (~ 111 RUB/pack; ~ 31200 VND/pack)
-    - Prices are nearly identical between the two countries.
-- Outliers:
-    - Russia: the 2 cheapest teas below 8.15 USD/kg (~ 737 RUB/kg, ~ 207700 VND/kg) and the 3 most expensive premium teas above 72.75 USD/kg (~ 6580 RUB/kg, ~ 1855100 VND/kg)
-    - Vietnam: 1 ultra-expensive tea priced at 277.44 USD/kg (~ 25090 RUB, ~ 7075000 VND/kg)
-- Key Observations:
-    - Green tea prices are similar in Russia and Vietnam, but product variety differs. Russia offers a mix of flavored tea bags, premium options, and loose-leaf tea, while Vietnam focuses on traditional loose-leaf tea.
-    - Russia’s variety reflects demand for diverse options, supported by imported tea processed domestically, whereas Vietnam prioritizes plain tea for everyday use or milk tea, with limited demand for premium products.
+- Общая информация:
+    - Россия: 72 позиции, 5 выбросов.
+    - Вьетнам: 61 позиция, 1 выброс.
+- Цены:
+    - Россия:
+        - Медианная цена = 24.32 USD/кг
+        - Стандартная упаковка 25 пак. по 2 г — 1.22 USD/упак. (~ 110 RUB/упак.; ~ 31000 VND/упак.)
+    - Вьетнам:
+        - Медианная цена = 24.48 USD/кг
+        - Стандартная упаковка 25 пак. по 2 г — 1.22 USD/упак. (~ 111 RUB/упак.; ~ 31200 VND/упак.)
+    - Цены практически одинаковы в обеих странах.
+- Выбросы:
+    - Россия: 2 самых дешевых чая до 8.15 USD/кг (~ 737 RUB/кг, ~ 207700 VND/кг) и 3 самых дорогих премиум-чая выше 72.75 USD/кг (~ 6580 RUB/кг, ~ 1855100 VND/кг)
+    - Вьетнам: 1 ультра-дорогой чай за 277.44 USD/кг (~ 25090 RUB, ~ 7075000 VND/кг)
+- Основные наблюдения:
+    - Цены на зеленый чай похожи в России и Вьетнаме, но ассортимент отличается. В России можно найти чай в пакетиках с разными ароматами, премиальные варианты и рассыпной чай, тогда как во Вьетнаме почти исключительно простой рассыпной чай.
+    - Разнообразие в России отражает спрос на различные форматы, причем импортное сырье обрабатывается уже в России. Во Вьетнаме предпочитают простой чай для утоления жажды или используют его как основу для молочного чая.

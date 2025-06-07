@@ -1,19 +1,18 @@
-**Tomato**
+**Помидоры**
 
-- Overview:
-    - Russia: 31 items, no outliers.
-    - Vietnam: 18 items, no outliers.
-- Prices:
-    - Overall:
-        - Russia: Median = 10.52 USD/kg (~ 952 RUB/kg; ~ 268400 VND/kg).
-        - Vietnam: Median = 1.87 USD/kg (~ 169 RUB/kg; ~ 47800 VND/kg) (82% (5.6x) cheaper overall)
-    - Cherry-like tomatoes are more expensive both in Russia and in Vietnam. If we separate this group:
-    - Regular tomatoes:
-        - Russia: Median = 5.59 USD/kg (~ 505 RUB/kg; ~ 142500 VND/kg).
-        - Vietnam: Median = 1.29 USD/kg (~ 117 RUB/kg; ~ 32900 VND/kg) (77% (4.3x) cheaper)
-    - Cherry-like tomatoes:
-        - Russia: Median = 13.53 USD/kg (~ 1224 RUB/kg; ~ 345000 VND/kg).
-        - Vietnam: Median = 2.99 USD/kg (~ 271 RUB/kg; ~ 76300 VND/kg) (78% (4.5x) cheaper)
-- Key Observations:
-    - Tomatoes are significantly more expensive in Russia. The difference in price can be attributed to a combination of factors, such as Russia's higher production or transportation costs, seasonal factors (as tomatoes are often grown in greenhouses during winter) and probably import costs.
-    - In Vietnam, tomatoes are generally cheaper, likely due to local production and favorable climate conditions.
+- Общая информация:
+    - Россия: 31 позиция, без выбросов.
+    - Вьетнам: 18 позиций, без выбросов.
+- Цены:
+    - В целом:
+        - Россия: медиана = 10.52 USD/кг (~ 952 RUB/кг; ~ 268400 VND/кг).
+        - Вьетнам: медиана = 1.87 USD/кг (~ 169 RUB/кг; ~ 47800 VND/кг) (на 82% дешевле, в 5.6 раза)
+    - Обычные помидоры:
+        - Россия: медиана = 5.59 USD/кг (~ 505 RUB/кг; ~ 142500 VND/кг).
+        - Вьетнам: медиана = 1.29 USD/кг (~ 117 RUB/кг; ~ 32900 VND/кг) (на 77% дешевле, в 4.3 раза)
+    - Помидоры черри:
+        - Россия: медиана = 13.53 USD/кг (~ 1224 RUB/кг; ~ 345000 VND/кг).
+        - Вьетнам: медиана = 2.99 USD/кг (~ 271 RUB/кг; ~ 76300 VND/кг) (на 78% дешевле, в 4.5 раза)
+- Основные наблюдения:
+    - Помидоры в России значительно дороже. Разница в цене может быть связана с сочетанием факторов, таких как более высокие затраты на производство или транспортировку, сезонность (часто выращиваются в теплицах зимой), а также, возможно, импорт.
+    - Во Вьетнаме помидоры, как правило, дешевле благодаря местному производству и благоприятному климату.

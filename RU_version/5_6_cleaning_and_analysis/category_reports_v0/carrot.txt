@@ -1,16 +1,15 @@
-**Carrot**
+**Морковь**
 
-- Overview:
-    - Russia: 7 items, no outliers.
-    - Vietnam: 5 items, no outliers.
-- Prices:
-    - Overall:
-        - Russia: Median price = 1.14 USD/kg (~ 103 RUB/kg; ~ 29000 VND/kg)
-        - Vietnam: Median price = 1.17 USD/kg (~ 106 RUB/kg; ~ 29900 VND/kg) (3% more expensive overall)
-    - The dataset includes baby carrots, which are more expensive than regular. If we exclude them:
-    - Regular Carrot:
-        - Russia: Median price = 0.93 USD/kg (~ 84 RUB/kg; ~ 23800 VND/kg)
-        - Vietnam: Median price = 0.98 USD/kg (~ 88 RUB/kg; ~ 24900 VND/kg) (5% more expensive)
-- Key Observations:
-    - The overall carrot price difference between Russia and Vietnam is minimal and may be insignificant.
-    - The small sample sizes in both countries may limit the robustness of the analysis.
+- Общая информация:
+    - Россия: 7 позиций, выбросов нет.
+    - Вьетнам: 5 позиций, выбросов нет.
+- Цены:
+    - В целом:
+        - Россия: медианная цена = 1.14 USD/кг (~ 103 RUB/кг; ~ 29000 VND/кг)
+        - Вьетнам: медианная цена = 1.17 USD/кг (~ 106 RUB/кг; ~ 29900 VND/кг) (на 3% дороже)
+    - Если исключить мини-морковь, которая дороже обычной:
+        - Россия: медианная цена обычной моркови = 0.93 USD/кг (~ 84 RUB/кг; ~ 23800 VND/кг)
+        - Вьетнам: медианная цена обычной моркови = 0.98 USD/кг (~ 88 RUB/кг; ~ 24900 VND/кг) (на 5% дороже)
+- Основные наблюдения:
+    - Разница в цене между Россией и Вьетнамом минимальна и, возможно, статистически незначима.
+    - Малый размер выборки в обеих странах ограничивает надежность анализа.

@@ -1,5 +1,5 @@
-• Chicken fillet is 33% cheaper in Vietnam overall.
+• Куриное филе в среднем на 33% дешевле во Вьетнаме.
 
-• One Russian item is priced at 3.65 USD/kg, close to Vietnam’s median, but it's an outlier and may not reflect typical prices.
+• Одна из позиций в России стоит 3.65 доллара за кг — близко к медиане во Вьетнаме, но эта позиция — выброс и может не отражать типичные цены.
 
-• Small sample sizes limit certainty, but the price gap is still significant.
+• Объем выборки невелик, что ограничивает точность выводов, но разница в ценах заметная.

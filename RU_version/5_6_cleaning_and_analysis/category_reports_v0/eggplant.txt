@@ -1,12 +1,12 @@
-**Eggplant**
+**Баклажаны**
 
-- Overview:
-    - Russia: 2 items, no outliers.
-    - Vietnam: 2 items, no outliers.
-- Prices:
-    - Russia: Median price = 2.99 USD/kg (~ 271 RUB/kg; ~ 76300 VND/kg)
-    - Vietnam: Median price = 0.93 USD/kg (~ 84 RUB/kg; ~ 23700 VND/kg) (69% (3.2x) cheaper in Vietnam)
-- Key Observations:
-    - Eggplant is significantly cheaper in Vietnam compared to Russia.
-    - Vietnam's climate may favor the cultivation of eggplant, while in Russia, it might depend more on greenhouse production, especially during colder seasons, which increases costs.
-    - The limited sample size in both countries makes it challenging to draw broader conclusions.
+- Общая информация:
+    - Россия: 2 позиции, выбросов нет.
+    - Вьетнам: 2 позиции, выбросов нет.
+- Цены:
+    - Россия: медианная цена = 2.99 USD/кг (~ 271 RUB/кг; ~ 76300 VND/кг)
+    - Вьетнам: медианная цена = 0.93 USD/кг (~ 84 RUB/кг; ~ 23700 VND/кг) (на 69% дешевле, в 3.2 раза)
+- Основные наблюдения:
+    - Баклажаны во Вьетнаме заметно дешевле.
+    - Вероятно, климат во Вьетнаме лучше подходит для выращивания баклажанов, тогда как в России требуется тепличное производство, особенно зимой, что повышает цены.
+    - Выборка очень небольшая, поэтому сложно сделать более уверенные выводы.

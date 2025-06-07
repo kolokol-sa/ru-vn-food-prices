@@ -1,13 +1,13 @@
-**Rice Noodles**
+**Рисовая лапша**
 
-- Overview:
-    - Russia: 5 items, no outliers.
-    - Vietnam: 16 items, no outliers.
-- Prices:
-    - Russia:
-        - Median = 8.17 USD/kg (~ 737 RUB/kg; ~ 207800 VND/kg)
-        - The cheapest item is priced at 7.05 USD/kg (~ 638 RUB/kg, ~ 179800 VND/kg)
-    - Vietnam: Median = 2.70 USD/kg (~ 244 RUB/kg; ~ 68800 VND/kg) (67% (3x) cheaper overall)
-- Key Observations:
-    - The significant price difference is likely due to local production in Vietnam, where rice noodles are a staple and commonly used in many dishes.
-    - In Russia, rice noodles are not common and are likely imported, leading to higher prices compared to locally produced options in Vietnam.
+- Общая информация:
+    - Россия: 5 позиций, без выбросов.
+    - Вьетнам: 16 позиций, без выбросов.
+- Цены:
+    - Россия:
+        - Медиана = 8.17 USD/кг (~ 737 RUB/кг; ~ 207800 VND/кг).
+        - Самая дешевая позиция стоит 7.05 USD/кг (~ 638 RUB/кг; ~ 179800 VND/кг).
+    - Вьетнам: Медиана = 2.70 USD/кг (~ 244 RUB/кг; ~ 68800 VND/кг) (на 67% дешевле, в 3 раза).
+- Основные наблюдения:
+    - Значительная разница в цене, вероятно, связана с локальным производством во Вьетнаме, где рисовая лапша является важным продуктом и широко используется в кухне.
+    - В России рисовая лапша почти не распространена и, вероятно, импортируется, что повышает ее стоимость.

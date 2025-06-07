@@ -1,10 +1,10 @@
-**Condensed Milk**
+**Сгущенное молоко**
 
-- Overview:
-    - Russia: 27 items, no outliers.
-    - Vietnam: 28 items, no outliers.
-- Prices:
-    - Russia: Median price = 5.04 USD/kg (~ 456 RUB/kg; ~ 128600 VND/kg)
-    - Vietnam: Median price = 2.72 USD/kg (~ 246 RUB/kg; ~ 69500 VND/kg) (46% cheaper overall)
-- Key Observations:
-    - The key difference between the two countries could be the ingredients. In Russia, condensed milk is typically made with whole milk and sugar, while in Vietnam, it is often made from milk powder, sugar, and sometimes vegetable oil, which likely contributes to the lower cost.
+- Общая информация:
+    - Россия: 27 позиций, выбросов нет.
+    - Вьетнам: 28 позиций, выбросов нет.
+- Цены:
+    - Россия: медианная цена = 5.04 USD/кг (~ 456 RUB/кг; ~ 128600 VND/кг)
+    - Вьетнам: медианная цена = 2.72 USD/кг (~ 246 RUB/кг; ~ 69500 VND/кг) (на 46% дешевле)
+- Основные наблюдения:
+    - Ключевое отличие может быть в составе: в России сгущенка традиционно производится из цельного молока и сахара, тогда как во Вьетнаме — чаще из сухого молока, сахара и иногда растительных жиров, что снижает себестоимость.

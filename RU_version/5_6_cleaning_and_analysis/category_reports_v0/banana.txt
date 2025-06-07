@@ -1,14 +1,14 @@
-**Banana**
-- Overview:
-    - Russia: 4 items, no outliers.
-    - Vietnam: 9 items, with no outliers.
-- Prices:
-    - Russia:
-        - Median price = 1.88 USD/kg (~ 170 RUB/kg; ~ 47900 VND/kg).
-        - The cheapest item is priced at 1.86 USD/kg, which isn't significantly different from the median.
-    - Vietnam: Median price = 1.16 USD/kg (~ 105 RUB/kg; ~ 29500 VND/kg) (38% cheaper overall)
-    - If comparing only long bananas (most similar to those sold in Russia), the median price in Vietnam rises to 1.41 USD/kg (~ 127 RUB/kg; ~ 35900 VND/kg) (25% cheaper).
-- Key Observations:
-    - All bananas in Russia are imported and consist of a single type (long bananas). Vietnam’s market is more diverse, including locally grown bananas and imports from nearby countries.
-    - Even imported bananas in Vietnam are cheaper than in Russia, likely due to lower transportation costs.
-    - The limited data points might influence conclusions, but given the supermarkets’ large market share, the sample represents the category's available diversity.
+**Бананы**  
+- Обзор:  
+    - Россия: 4 товара, без выбросов.  
+    - Вьетнам: 9 товаров, без выбросов.  
+- Цены:  
+    - Россия:  
+        - Медианная цена = 1.88 USD/кг (~ 170 RUB/кг; ~ 47900 VND/кг).  
+        - Самый дешевый товар стоит 1.86 USD/кг, что не сильно отличается от медианы.  
+    - Вьетнам: Медианная цена = 1.16 USD/кг (~ 105 RUB/кг; ~ 29500 VND/кг) (в целом, на 38% дешевле)  
+    - Если сравнивать только длинные бананы (самые похожие на продаваемые в России), медианная цена во Вьетнаме повышается до 1.41 USD/кг (~127 RUB/кг; ~35900 VND/кг) (на 25% дешевле).  
+- Основные наблюдения:  
+    - Все бананы в России — импортные и одного типа (длинные бананы). Ассортимент Вьетнама более разнообразен — есть местные бананы и импорт из соседних стран.  
+    - Даже импортные бананы во Вьетнаме дешевле, вероятно, из-за меньших транспортных расходов.  
+    - Ограниченное количество данных могло повлиять на выводы, но исследуемые супермаркеты занимают довольно большую долю рынка, а значит хорошо отражают доступное разнообразие бананов.

@@ -1,20 +1,20 @@
-**Tea (black)**
+**Черный чай**  
 
-- Overview:
-    - Russia: 270 items, with 20 outliers.
-    - Vietnam: 20 items, no outliers.
-- Prices:
-    - Russia:
-        - Median price = 23.28 USD/kg
-        - Standard package 25 tea bags x 2g - 1.16 USD/pack (~ 105 RUB/pack; ~ 29700 VND/pack)
-    - Vietnam:
-        - Median price = 32.08 USD/kg (38% more expensive overall)
-        - Standard package 25 tea bags x 2g - 1.60 USD/pack (~ 145 RUB/pack; ~ 40900 VND/pack)
-        - If comparing the cheapest locally produced varieties, the median price in Vietnam falls to 27.45 USD/kg (1.37 USD/pack, ~ 124 RUB/pack; ~ 35000 VND/pack) (still 18% more expensive)
-    - Price spread in Russia is significantly larger due to variety in raw materials and flavored options.
-- Outliers:
-    - Russia: include 9 cheapest teas below 7.60 USD/kg and 11 most expensive above 75.88 USD/kg
-- Key Observations:
-    - Black tea is a cultural staple in Russia, which may contribute to demand for a wide variety of flavors and price points. Imported raw tea is likely processed locally, keeping prices relatively low.
-    - Vietnam’s black tea market appears segmented into three groups: locally produced (cheaper), imported affordable (like Sri Lankan), and premium European imports (most expensive).
-    - Higher median prices in Vietnam may reflect the smaller demand and a preference for premium products over diverse, affordable options.
+- Обзор:  
+    - Россия: 270 товаров, из них 20 выбросов.  
+    - Вьетнам: 20 товаров, без выбросов.  
+- Цены:  
+    - Россия:  
+        - Медианная цена = 23.28 USD/кг  
+        - Стандартная упаковка 25 пак. по 2 г — 1.16 USD/упак (~ 105 RUB/упак; ~ 29700 VND/упак)  
+    - Вьетнам:  
+        - Медианная цена = 32.08 USD/кг (на 38% дороже)  
+        - Стандартная упаковка 25 пак. по 2 г — 1.60 USD/упак (~ 145 RUB/упак; ~ 40900 VND/упак)  
+        - Если сравнивать самые дешевые местные сорта, медианная цена во Вьетнаме снижается до 27.45 USD/кг (1.37 USD/упак, ~ 124 RUB/упак; ~ 35000 VND/упак) (все равно на 18% дороже)  
+    - В России разброс цен значительно больше из-за большего разнообразия сырья и вкусовых добавок.  
+- Выбросы:  
+    - В России: 9 самых дешевых чаев до 7.60 USD/кг и 11 самых дорогих выше 75.88 USD/кг.  
+- Основные наблюдения:  
+    - Черный чай — важная часть культуры в России, это может объяснить спрос на широкий выбор вкусов и цен. Скорее всего, недорогое импортное сырье обрабатывается в России, и это помогает сохранять цены относительно низкими.  
+    - Во Вьетнаме рынок черного чая разделен на три сегмента: местное производство (дешевле), доступный импорт (например, из Шри-Ланки) и премиум - европейский импорт (самые дорогие).  
+    - Более высокие медианные цены во Вьетнаме могут быть связаны с меньшим спросом в целом и большим спросом на премиальные опции.

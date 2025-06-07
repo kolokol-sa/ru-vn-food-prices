@@ -1,14 +1,14 @@
-**Buckwheat**
+**Гречка**
 
-- Overview:
-    - Russia: 32 items with 1 outlier.
-    - Vietnam: 1 item.
-- Prices:
-    - Russia: Median price = 1.81 USD/kg (~ 163 RUB/kg; ~ 46000 VND/kg)
-    - Vietnam: The only available item price = 4.20 USD/kg (~ 380 RUB/kg; 107000 VND/kg) (132% (2.3x) more expensive)
-- Outliers:
-    - Russia: 1 cheapest buckwheat priced at 0.42 USD/kg (~ 38 RUB/kg, ~ 10600 VND/kg)
-- Key Observations:
-    - In Russia, buckwheat is a dietary staple and widely available in various brands and packaging.
-    - In Vietnam, buckwheat is almost nonexistent in supermarkets and is considered a niche product, mostly imported from Russia. Its higher price reflects its rarity and import costs.
-    - The lack of buckwheat in Vietnamese supermarkets limits reliability of comparison.
+- Общая информация:
+    - Россия: 32 позиции, 1 выброс.
+    - Вьетнам: 1 позиция.
+- Цены:
+    - Россия: медианная цена = 1.81 USD/кг (~ 163 RUB/кг; ~ 46000 VND/кг)
+    - Вьетнам: единственный доступный вариант — 4.20 USD/кг (~ 380 RUB/кг; ~ 107000 VND/кг) (на 132% дороже, в 2.3 раза)
+- Выбросы:
+    - Россия: одна самая дешевая гречка за 0.42 USD/кг (~ 38 RUB/кг; ~ 10600 VND/кг)
+- Основные наблюдения:
+    - В России гречка — популярный и повседневный продукт, представлена разными брендами в разных упаковках.
+    - Во Вьетнаме гречка практически не встречается в супермаркетах. Это нишевый импортный товар, который завозится из России. Высокая цена отражает редкость и стоимость импорта.
+    - Сравнение затруднено из-за очень ограниченного ассортимента во Вьетнаме.

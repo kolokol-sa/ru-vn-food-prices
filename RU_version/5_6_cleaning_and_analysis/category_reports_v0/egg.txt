@@ -1,16 +1,16 @@
-**Eggs**
+**Яйца**
 
-- Overview:
-    - Russia: 53 items with 5 outliers.
-    - Vietnam: 24 items, no outliers.
-- Prices:
-    - Russia:
-        - Median price = 1.51 USD (~ 137 RUB, ~ 38600 VND) per 10 eggs
-        - IQR - from 1.35 to 1.62 USD (~ 122-146 RUB, ~ 34400-41300 VND) per 10 eggs
-    - Vietnam:
-        - Median price = 1.35 USD (~ 122 RUB, ~ 34500 VND) per 10 eggs (11% cheaper overall)
-        - IQR - from 1.22 to 1.69 USD (~ 110-153 RUB, ~ 31000-43000 VND) per 10 eggs
-- Outliers:
-    - Russia: the 4 cheapest eggs below 1.04 USD (~ 94 RUB, 26600 VND) per 10 eggs and the most expensive item for 2.58 USD (~ 233 RUB, 65800 VND)
-- Key Observations:
-    - The price difference between Russia and Vietnam is not huge. And comparing interquartile ranges, which are almost identical, the difference seem insignificant.
+- Общая информация:
+    - Россия: 53 позиции, 5 выбросов.
+    - Вьетнам: 24 позиции, выбросов нет.
+- Цены:
+    - Россия:
+        - Медианная цена = 1.51 USD (~ 137 RUB, ~ 38600 VND) за 10 яиц
+        - IQR — от 1.35 до 1.62 USD (~ 122–146 RUB, ~ 34400–41300 VND)
+    - Вьетнам:
+        - Медианная цена = 1.35 USD (~ 122 RUB, ~ 34500 VND) за 10 яиц (на 11% дешевле)
+        - IQR — от 1.22 до 1.69 USD (~ 110–153 RUB, ~ 31000–43000 VND)
+- Выбросы:
+    - Россия: 4 самые дешевые позиции ниже 1.04 USD (~ 94 RUB, ~ 26600 VND) и самая дорогая — 2.58 USD (~ 233 RUB, ~ 65800 VND)
+- Основные наблюдения:
+    - Разница в цене между Россией и Вьетнамом невелика. Межквартильные размахи почти совпадают, что делает различие несущественным.

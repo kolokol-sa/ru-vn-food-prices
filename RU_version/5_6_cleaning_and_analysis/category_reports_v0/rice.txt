@@ -1,18 +1,18 @@
-**Rice**
+**Рис**
 
-- Overview:
-    - Russia: 101 items, 2 outliers.
-    - Vietnam: 67 items, 2 outliers.
-- Prices:
-    - Russia:
-        - Median = 2.49 USD/kg (~ 225 RUB/kg; ~ 63400 VND/kg).
-        - The 10% cheapest items are priced at 1.53 USD/kg or lower (~ 138 RUB/kg; ~ 39000 VND/kg).
-    - Vietnam:
-        - Median = 1.39 USD/kg (~ 126 RUB/kg; ~ 35400 VND/kg) (44% cheaper overall)
-        - The 10% cheapest items are priced at 0.84 USD/kg or lower (~ 76 RUB/kg; ~ 21500 VND/kg).
-- Outliers:
-    - Russia: the 1 cheapest rice for 0.614099 USD/ kg (~ 56 RUB, ~ 15700 VND/kg) and the 1 most expensive item (biriani rice) priced at 9.95 USD/kg (~ 900 RUB/kg, ~ 253700 VND/kg)
-    - Vietnam: the 2 most expensive items ("organic" rices) above 2.011678 USD/kg (~ 182 RUB/kg, 51300 VND/kg)
-- Key Observations:
-    - By median, rice in Vietnam is much cheaper than in Russia. However, the upper bound of the cheapest 10% in Russia is close to the median price in Vietnam, showing that that there are affordable options in Russia that are comparable to typical Vietnamese prices.
-    - Rice is cheaper in Vietnam likely due to its year-round tropical cultivation, lower labor costs, and larger-scale production compared to Russia’s smaller, seasonal rice farming.
+- Общая информация:
+    - Россия: 101 позиция, 2 выброса.
+    - Вьетнам: 67 позиций, 2 выброса.
+- Цены:
+    - Россия:
+        - Медиана = 2.49 USD/кг (~ 225 RUB/кг; ~ 63400 VND/кг).
+        - 10% самых дешевых позиций стоят 1.53 USD/кг или дешевле (~ 138 RUB/кг; ~ 39000 VND/кг).
+    - Вьетнам:
+        - Медиана = 1.39 USD/кг (~ 126 RUB/кг; ~ 35400 VND/кг) (на 44% дешевле).
+        - 10% самых дешевых позиций стоят 0.84 USD/кг или дешевле (~ 76 RUB/кг; ~ 21500 VND/кг).
+- Выбросы:
+    - Россия: самый дешевый рис за 0.61 USD/кг (~ 56 RUB, ~ 15700 VND/кг), и самый дорогой (бириани) за 9.95 USD/кг (~ 900 RUB/кг, ~ 253700 VND/кг).
+    - Вьетнам: два самых дорогих ("органических") риса выше 2.01 USD/кг (~ 182 RUB/кг, 51300 VND/кг).
+- Основные наблюдения:
+    - По медиане рис во Вьетнаме значительно дешевле, но верхняя граница 10% самых дешевых рисов в России сопоставима с вьетнамской медианой. Значит, в России есть доступные варианты по схожим ценам.
+    - Более низкая цена риса во Вьетнаме может быть связана с круглогодичным производство, низкой оплатой труда и большим масштабом производства, в то время как в России рис выращивают сезонно и в меньшем количестве.

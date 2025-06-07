@@ -1,18 +1,18 @@
-**Drinks (Tea and Coffee)**
+**Чай и кофе**
 
-- Cheaper in Vietnam:  
-    - Coffee (2x cheaper; median price 51% lower).  
+- Дешевле во Вьетнаме:  
+    - Кофе (в 2 раза дешевле; медиана ниже на 51%).  
 
-- Comparable Prices:  
-    - Green tea (nearly identical median prices, with slight variations in product variety).  
+- Сопоставимые цены:  
+    - Зеленый чай (почти одинаковые медианные цены, с небольшими отличиями в ассортименте).  
 
-- More Expensive in Vietnam:  
-    - Black tea (38% more expensive overall; locally produced varieties narrow the gap but remain 18% more expensive).  
+- Дороже во Вьетнаме:  
+    - Черный чай (в среднем на 38% дороже; местные сорта сокращают разрыв, но они все еще на 18% дороже).  
 
-- Key Observations:  
-  - Tea:  
-    - Black tea is a cultural staple in Russia, leading to lower median prices and a wider variety, including flavored and affordable options. In Vietnam, black tea demand is smaller and segmented into local and imported categories, driving up the median price.  
-    - Green tea is priced similarly in both countries, but Russia’s offerings emphasize flavored tea bags and premium options, while Vietnam focuses on traditional loose-leaf tea for daily use or milk tea preparation.  
+- Основные наблюдения:  
+  - Чай:  
+    - Черный чай — культурно важный напиток в России, это делает его более доступным по цене и разнообразным: есть много ароматизированных и недорогих вариантов. Во Вьетнаме спрос на черный чай ниже, есть местные и импортные позиции, что увеличивает медианную цену.  
+    - Цены на зеленый чай в обеих странах схожи, но в России больше внимания уделяется ароматизированным пакетированным чаям и премиум-опциям, тогда как во Вьетнаме преобладает традиционный рассыпной чай для повседневного употребления или приготовления молочного чая.  
 
-  - Coffee:  
-    - Vietnam’s robust coffee industry allows for significantly lower prices and abundant availability of ground coffee. Russia’s reliance on imports contributes to higher prices, though some affordable options are available.
+  - Кофе:  
+    - Развитая кофейная промышленность во Вьетнаме обеспечивает значительно более низкие цены и широкую доступность молотого кофе. В России кофе в основном импортируется, что дает более высокую цену, хотя некоторые доступные варианты тоже присутствуют.

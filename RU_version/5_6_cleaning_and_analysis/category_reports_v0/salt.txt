@@ -1,14 +1,13 @@
-**Salt**
+**Соль**
 
-- Overview:
-    - Russia: 17 items, no outliers.
-    - Vietnam: 19 items, no outliers.
-- Prices:
-    - Russia:
-        - Median = 1.42 USD/kg (~ 129 RUB/kg; ~ 36300 VND/kg).
-        - The 3 cheapest items are priced at 0.15, 0.20, and 0.33 USD/kg (~ 14, 18, and 29 RUB/kg; ~ 3900, 5100, and 8300 VND/kg).
-    - Vietnam:
-        - Median = 0.32 USD/kg (~ 29 RUB/kg; ~ 8200 VND/kg) (77% (4.4x) cheaper)
-- Key Observations:
-    - By median, salt in Vietnam is much cheaper than in Russia. However, the prices of the cheapest items in Russia are similar to typical Vietnamese prices.
-    - The price difference is likely due to local production factors.
+- Общая информация:
+    - Россия: 17 позиций, без выбросов.
+    - Вьетнам: 19 позиций, без выбросов.
+- Цены:
+    - Россия:
+        - Медиана = 1.42 USD/кг (~ 129 RUB/кг; ~ 36300 VND/кг).
+        - Три самых дешевых позиции стоят 0.15, 0.20 и 0.33 USD/кг (~ 14, 18 и 29 RUB/кг; ~ 3900, 5100 и 8300 VND/кг).
+    - Вьетнам: Медиана = 0.32 USD/кг (~ 29 RUB/кг; ~ 8200 VND/кг) (на 77% дешевле, в 4.4 раза).
+- Основные наблюдения:
+    - По медиане соль во Вьетнаме значительно дешевле, но самые дешевые позиции в России имеют цены, сопоставимые с типичными во Вьетнаме.
+    - Разница объясняется, вероятно, особенностями локального производства.

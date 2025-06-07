@@ -1,9 +1,9 @@
-**Water Spinach**  
+**Водный шпинат**  
 
-- Overview:
-    - Vietnam: 11 items, no outliers.
-- Prices:  
-    - Vietnam: Median = 1.89 USD/kg (~ 171 RUB/kg; ~ 48200 VND/kg).  
-    - Not available in Russia.
-- Key Observations:  
-    - Water spinach is a common vegetable in Vietnam but is not typically found in Russian markets.
+- Общая информация:
+    - Вьетнам: 11 позиций, без выбросов.
+- Цены:  
+    - Вьетнам: медиана = 1.89 USD/кг (~ 171 RUB/кг; ~ 48200 VND/кг).  
+    - В России отсутствует.
+- Основные наблюдения:  
+    - Водяной шпинат — распространенный овощ (зелень) во Вьетнаме, но в российских магазинах его не найти.

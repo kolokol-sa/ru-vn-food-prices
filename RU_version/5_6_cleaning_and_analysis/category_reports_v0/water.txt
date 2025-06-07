@@ -1,16 +1,16 @@
-**Water**
+**Вода**
 
-- Overview:
-    - Russia: 96 items, no outliers.
-    - Vietnam: 72 items, 6 outliers.
-- Prices:  
-    - Russia:
-        - Median = 0.61 USD/l (~ 55 RUB/l; ~ 15600 VND/l).
-        - The 10% cheapest items are priced at 0.27 USD/l or lower (~ 24 RUB/l; ~ 6800 VND/l).  
-    - Vietnam:
-        - Median = 0.37 USD/l (~ 34 RUB/l; ~ 9500 VND/l) (39% cheaper overall)
-        - The 10% cheapest items are priced at 0.23 USD/l or lower (~ 21 RUB/l; ~ 5900 VND/l).
-- Outliers:
-    - Vietnam: the 6 most expensive items (Evian - premium water) priced above 0.91 USD/l (~ 82 RUB/l, ~ 23200 VND/l) 
-- Key Observations:  
-    - Water in Vietnam is cheaper than in Russia by median price. However, at the lower end of the price spectrum, affordable options in both countries are comparable.
+- Общая информация:
+    - Россия: 96 позиций, без выбросов.
+    - Вьетнам: 72 позиции, 6 выбросов.
+- Цены:  
+    - Россия:
+        - Медиана = 0.61 USD/л (~ 55 RUB/л; ~ 15600 VND/л).
+        - 10% самых дешевых позиций стоят 0.27 USD/л и ниже (~ 24 RUB/л; ~ 6800 VND/л).  
+    - Вьетнам:
+        - Медиана = 0.37 USD/л (~ 34 RUB/л; ~ 9500 VND/л) (на 39% дешевле)
+        - 10% самых дешевых позиций стоят 0.23 USD/л и ниже (~ 21 RUB/л; ~ 5900 VND/л).
+- Выбросы:
+    - Вьетнам: 6 самых дорогих позиций (Evian — премиальная вода) по цене выше 0.91 USD/л (~ 82 RUB/л, ~ 23200 VND/л) 
+- Основные наблюдения:  
+    - Вода во Вьетнаме дешевле, если смотреть на медианную цену. Однако в нижнем ценовом сегменте доступные варианты в обеих странах сопоставимы.

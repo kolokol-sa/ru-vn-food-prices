@@ -1,5 +1,5 @@
-• Bananas in Vietnam are 38% cheaper overall than in Russia. For long bananas (comparable to those sold in Russia), the median price is 1.41 USD/kg, still about 25% cheaper.
+• Бананы во Вьетнаме в среднем на 38% дешевле, чем в России. Для длинных бананов (таких же как продаются в России) медианная цена составляет 1.41 USD/кг — примерно на 25% дешевле.  
 
-• The lower prices in Vietnam may reflect local production and shorter transport distances, though this is based on limited available data.
+• Более низкие цены во Вьетнаме могут объясняться местным производством и меньшими транспортными затратами, хотя данные в нашей выборке ограничены.  
 
-• Russia offers only one type of banana, all imported, which may contribute to higher and less flexible pricing.
+• В России представлен только один тип бананов, и они импортные, это может быть причиной более высоких и менее гибких цен.

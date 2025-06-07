@@ -1,11 +1,11 @@
-**Fish Sauce**
+**Рыбный соус**
 
-- Overview:
-    - Russia: 1 item, no outliers.
-    - Vietnam: 111 items, no outliers.
-- Prices:
-    - Russia: Median price = 9.31 USD/l (~ 842 RUB/l; ~ 237400 VND/l).
-    - Vietnam: Median price = 5.05 USD/l (~ 456 RUB/l; ~ 128700 VND/l) (46% cheaper than in Russia).
-- Key Observations:
-    - In Russia fish sauce is a very niche product, which could contribute to the higher price due to import costs and very limited demand.
-    - The single item available in Russia limits the ability to make detailed comparisons.
+- Общая информация:
+    - Россия: 1 позиция, выбросов нет.
+    - Вьетнам: 111 позиций, выбросов нет.
+- Цены:
+    - Россия: медианная цена = 9.31 USD/л (~ 842 RUB/л; ~ 237400 VND/л).
+    - Вьетнам: медианная цена = 5.05 USD/л (~ 456 RUB/л; ~ 128700 VND/л) (на 46% дешевле, чем в России).
+- Основные наблюдения:
+    - Рыбный соус в России — нишевый продукт, высокая цена может объясняться импортными затратами и ограниченным спросом.
+    - Наличие всего одной позиции в России ограничивает возможности для подробного сравнения.

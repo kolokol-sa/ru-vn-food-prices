@@ -1,10 +1,11 @@
-**Cooking oils**
-- Prices:
-    - Russia:
-        - Sunflower Oil: Median = 1.76 USD/l (~159 RUB/l; ~44800 VND/l).
-    - Vietnam:
-        - Sunflower Oil: Median = 3.24 USD/l (~293 RUB/l; ~82500 VND/l).  
-        - Soybean Oil: Median = 2.54 USD/l (~230 RUB/l; ~64900 VND/l).
-- Affordability:
-    - In Russia, sunflower oil is a staple and significantly cheaper than oils in Vietnam.  
-    - In Vietnam, cooking oils are generally more expensive, with sunflower oil priced considerably higher than in Russia.
+**Масла для готовки**
+
+- Цены:
+    - Россия:
+        - Подсолнечное масло: медиана = 1.76 USD/л (~159 RUB/л; ~44800 VND/л).
+    - Вьетнам:
+        - Подсолнечное масло: медиана = 3.24 USD/л (~293 RUB/л; ~82500 VND/л).  
+        - Соевое масло: медиана = 2.54 USD/л (~230 RUB/л; ~64900 VND/л).
+- Доступность:
+    - В России подсолнечное масло — это базовый продукт, и оно значительно дешевле, чем масла во Вьетнаме.  
+    - Во Вьетнаме масла для готовки в целом дороже, особенно подсолнечное — оно стоит существенно больше, чем в России.  
