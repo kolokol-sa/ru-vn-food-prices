@@ -1,6 +1,6 @@
 # Grocery Price Comparison: Russia vs. Vietnam
 
-[Версия проекта на русском языке](README_RU.md)
+[Описание проекта на русском языке](README_RU.md)
 
 This project explores grocery prices in **four supermarket chains** — *Pyaterochka* and *Lenta* in Russia, *WinMart* and *Co.op* in Vietnam — across 31 everyday product categories.
 It compares costs between the two countries and presents the results through structured analysis and interactive visualizations.  
@@ -11,9 +11,9 @@ To **explore the results**, view the [interactive Tableau Story](https://public.
 > *2) click through slides and hover over elements to see more detail*  
 
 To **follow the process**, see the core notebooks:
-- Scraping: [Pyaterochka](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/747c98f95b3e295d7ce7bbca019dffdf031fdd56/1_scraping_pyaterochka/scraping_pyaterochka.ipynb), [Lenta](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/747c98f95b3e295d7ce7bbca019dffdf031fdd56/2_scraping_lenta/scraping_lenta.ipynb), [Winmart](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/747c98f95b3e295d7ce7bbca019dffdf031fdd56/3_scraping_winmart/scraping_winmart.ipynb), [Co.op](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/747c98f95b3e295d7ce7bbca019dffdf031fdd56/4_scraping_coop/scraping_coop.ipynb)
-- [Aggregation & Cleaning](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/747c98f95b3e295d7ce7bbca019dffdf031fdd56/5_6_cleaning_and_analysis/aggregation_and_cleaning.ipynb)
-- [Analysis](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/747c98f95b3e295d7ce7bbca019dffdf031fdd56/5_6_cleaning_and_analysis/analysis.ipynb)
+- Scraping: [Pyaterochka](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/44af4270a47426846181d1f1978e64688b3eff5a/1_scraping_pyaterochka/scraping_pyaterochka.ipynb), [Lenta](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/44af4270a47426846181d1f1978e64688b3eff5a/2_scraping_lenta/scraping_lenta.ipynb), [Winmart](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/44af4270a47426846181d1f1978e64688b3eff5a/3_scraping_winmart/scraping_winmart.ipynb), [Co.op](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/44af4270a47426846181d1f1978e64688b3eff5a/4_scraping_coop/scraping_coop.ipynb)
+- [Aggregation & Cleaning](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/44af4270a47426846181d1f1978e64688b3eff5a/5_6_cleaning_and_analysis/aggregation_and_cleaning.ipynb)
+- [Analysis](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/44af4270a47426846181d1f1978e64688b3eff5a/5_6_cleaning_and_analysis/analysis.ipynb)
 > *Tip: to make the code interactive, click "Execute on Binder" button at the top right corner of the notebook.*
 
 👇 **See the sections below** for more background on the project’s motivation, product selection approach, and detailed repository structure.
