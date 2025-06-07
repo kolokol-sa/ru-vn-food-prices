@@ -11,9 +11,9 @@ To **explore the results**, view the [interactive Tableau Story](https://public.
 > *2) click through slides and hover over elements to see more detail*  
 
 To **follow the process**, see the core notebooks:
-- Scraping: [Pyaterochka](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/7138a6bdefdac50ab764a056ce751d4988648f24/1_scraping_pyaterochka/scraping_pyaterochka.ipynb), [Lenta](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/7138a6bdefdac50ab764a056ce751d4988648f24/2_scraping_lenta/scraping_lenta.ipynb), [Winmart](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/7138a6bdefdac50ab764a056ce751d4988648f24/3_scraping_winmart/scraping_winmart.ipynb), [Co.op](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/7138a6bdefdac50ab764a056ce751d4988648f24/4_scraping_coop/scraping_coop.ipynb)
-- [Aggregation & Cleaning](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/7138a6bdefdac50ab764a056ce751d4988648f24/5_6_cleaning_and_analysis/aggregation_and_cleaning.ipynb)
-- [Analysis](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/7138a6bdefdac50ab764a056ce751d4988648f24/5_6_cleaning_and_analysis/analysis.ipynb)
+- Scraping: [Pyaterochka](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/f79da72daebcc8a2aad7e3ab2d85eee9902c6da3/1_scraping_pyaterochka/scraping_pyaterochka.ipynb), [Lenta](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/f79da72daebcc8a2aad7e3ab2d85eee9902c6da3/2_scraping_lenta/scraping_lenta.ipynb), [Winmart](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/f79da72daebcc8a2aad7e3ab2d85eee9902c6da3/3_scraping_winmart/scraping_winmart.ipynb), [Co.op](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/f79da72daebcc8a2aad7e3ab2d85eee9902c6da3/4_scraping_coop/scraping_coop.ipynb)
+- [Aggregation & Cleaning](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/f79da72daebcc8a2aad7e3ab2d85eee9902c6da3/5_6_cleaning_and_analysis/aggregation_and_cleaning.ipynb)
+- [Analysis](https://nbviewer.org/github/kolokol-sa/ru-vn-food-prices/blob/f79da72daebcc8a2aad7e3ab2d85eee9902c6da3/5_6_cleaning_and_analysis/analysis.ipynb)
 > *Tip: to make the code interactive, click "Execute on Binder" button at the top right corner of the notebook.*
 
 👇 **See the sections below** for more background on the project’s motivation, product selection approach, and detailed repository structure.
